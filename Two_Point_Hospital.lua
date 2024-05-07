@@ -69,3 +69,9 @@ TH20.AdviceTriggerNoSeats__.ctor	seg000	00000000000171C0	00000038			R	.	.	.	.	.	
 TH20.AdviceTriggerPatientAttributeCheck__.ctor	seg000	0000000000016270	0000003A			R	.	.	.	.	.	.	.
 
 TH20.AdviceTriggerPatientDeath__.ctor	seg000	0000000000016800	00000019			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerPatientEnvironmentCheck__.ctor	seg000	0000000000016390	0000003A			R	.	.	.	.	.	.	.
+
+TH20.Advisor__.ctor	seg000	00000000000177F0	000000E2			R	.	.	.	.	.	.	.
+
+TH20.Advisor__FinishAdviceTrigger	seg000	0000000000017F40	0000000C			R	.	.	.	.	.	.	.
