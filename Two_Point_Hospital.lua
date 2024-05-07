@@ -63,3 +63,9 @@ TH20.AdviceTriggerNeedMoreStaffOfType__.ctor	seg000	0000000000015610	00000030			
 TH20.AdviceTriggerNeedStaffRoom__.ctor	seg000	0000000000015420	00000028			R	.	.	.	.	.	.	.
 
 TH20.AdviceTriggerNegativeMoney__.ctor	seg000	0000000000015DF0	00000019			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerNoSeats__.ctor	seg000	00000000000171C0	00000038			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerPatientAttributeCheck__.ctor	seg000	0000000000016270	0000003A			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerPatientDeath__.ctor	seg000	0000000000016800	00000019			R	.	.	.	.	.	.	.
