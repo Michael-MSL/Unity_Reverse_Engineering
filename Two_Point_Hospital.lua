@@ -45,3 +45,9 @@ GeometryCollection__.ctor	seg000	00000000001C09D0	0000001D			R	.	.	.	.	.	.	.
 ObjectAttributeVisualisation__.ctor	seg000	00000000001E6E60	00000028			R	.	.	.	.	.	.	.
 
 SpawnAlienOnArrival__.ctor	seg000	00000000001C0E30	00000024			R	.	.	.	.	.	.	.
+
+SpawnPatientOnArrival__.ctor_0	seg000	00000000001C0FB0	00000024			R	.	.	.	.	.	.	.
+
+StaffCategory__.ctor	seg000	00000000001C33E0	0000002F			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerCashFlowWarning__.ctor	seg000	0000000000015C80	00000028			R	.	.	.	.	.	.	.
