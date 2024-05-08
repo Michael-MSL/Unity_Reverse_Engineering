@@ -15,3 +15,9 @@ AI__ApplyEvent	seg000	000000000006D660	0000041F			R	.	.	.	.	.	.	.
 AI__CheckMood	seg000	000000000006F670	0000015C			R	.	.	.	.	.	.	.
 
 AI__Discover_Breakin	seg000	000000000006EC70	000000B2			R	.	.	.	.	.	.	.
+
+AI__GuardAlert	seg000	000000000006E1D0	00000065			R	.	.	.	.	.	.	.
+
+AI__LoadVoices	seg000	000000000006DD20	000000CB			R	.	.	.	.	.	.	.
+
+AI__OnEnable	seg000	000000000006E580	00000067			R	.	.	.	.	.	.	.
