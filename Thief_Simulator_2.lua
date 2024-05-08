@@ -51,3 +51,9 @@ Ambulance__Start	seg000	0000000000078620	0000004D			R	.	.	.	.	.	.	.
 AnalogClockScript__.ctor	seg000	0000000000055EE0	0000001D			R	.	.	.	.	.	.	.
 
 AnalogClockScript__Start	seg000	0000000000056000	0000008E			R	.	.	.	.	.	.	.
+
+AnimNames__.ctor	seg000	00000000002BB540	0000001D			R	.	.	.	.	.	.	.
+
+ApplyDamageScript__.ctor	seg000	0000000000065660	0000001D			R	.	.	.	.	.	.	.
+
+Arrow_Pickpocket__.ctor	seg000	00000000000AE040	0000001D			R	.	.	.	.	.	.	.
