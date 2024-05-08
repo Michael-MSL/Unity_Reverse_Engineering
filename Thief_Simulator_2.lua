@@ -27,3 +27,9 @@ AI__Spawn_Warning	seg000	000000000006E400	00000034			R	.	.	.	.	.	.	.
 AI__Start	seg000	000000000006DDF0	000003D7			R	.	.	.	.	.	.	.
 
 ATM_Minigame_Manager__.ctor	seg000	00000000000A56B0	0000001D			R	.	.	.	.	.	.	.
+
+ATM_Object__.ctor	seg000	00000000000A6190	0000001E			R	.	.	.	.	.	.	.
+
+ATM_Object__Begin_Minigame	seg000	00000000000A62B0	00000022			R	.	.	.	.	.	.	.
+
+AbilitiesManager__SaveAbilities	seg000	00000000000773F0	00000125			R	.	.	.	.	.	.	.
