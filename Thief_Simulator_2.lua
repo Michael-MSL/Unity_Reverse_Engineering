@@ -33,3 +33,9 @@ ATM_Object__.ctor	seg000	00000000000A6190	0000001E			R	.	.	.	.	.	.	.
 ATM_Object__Begin_Minigame	seg000	00000000000A62B0	00000022			R	.	.	.	.	.	.	.
 
 AbilitiesManager__SaveAbilities	seg000	00000000000773F0	00000125			R	.	.	.	.	.	.	.
+
+AdvanceStoryTrigger__Start	seg000	00000000000784E0	00000016			R	.	.	.	.	.	.	.
+
+AlmostEngine.Examples.FireLight__.ctor	seg000	000000000028EB60	00000049			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowController__.ctor	seg000	000000000028E130	00000048			R	.	.	.	.	.	.	.
