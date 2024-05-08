@@ -39,3 +39,9 @@ AdvanceStoryTrigger__Start	seg000	00000000000784E0	00000016			R	.	.	.	.	.	.	.
 AlmostEngine.Examples.FireLight__.ctor	seg000	000000000028EB60	00000049			R	.	.	.	.	.	.	.
 
 AlmostEngine.Shadows.ShadowController__.ctor	seg000	000000000028E130	00000048			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowManagerAutoQualitySettings__Update	seg000	000000000028E740	00000050			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowManagerConfig__.ctor	seg000	000000000028E7C0	00000030			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowManager__.ctor	seg000	000000000028E680	00000099			R	.	.	.	.	.	.	.
