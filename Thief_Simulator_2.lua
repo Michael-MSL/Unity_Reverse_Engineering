@@ -45,3 +45,9 @@ AlmostEngine.Shadows.ShadowManagerAutoQualitySettings__Update	seg000	00000000002
 AlmostEngine.Shadows.ShadowManagerConfig__.ctor	seg000	000000000028E7C0	00000030			R	.	.	.	.	.	.	.
 
 AlmostEngine.Shadows.ShadowManager__.ctor	seg000	000000000028E680	00000099			R	.	.	.	.	.	.	.
+
+Ambulance__Start	seg000	0000000000078620	0000004D			R	.	.	.	.	.	.	.
+
+AnalogClockScript__.ctor	seg000	0000000000055EE0	0000001D			R	.	.	.	.	.	.	.
+
+AnalogClockScript__Start	seg000	0000000000056000	0000008E			R	.	.	.	.	.	.	.
