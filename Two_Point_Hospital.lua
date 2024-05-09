@@ -75,3 +75,9 @@ TH20.AdviceTriggerPatientEnvironmentCheck__.ctor	seg000	0000000000016390	0000003
 TH20.Advisor__.ctor	seg000	00000000000177F0	000000E2			R	.	.	.	.	.	.	.
 
 TH20.Advisor__FinishAdviceTrigger	seg000	0000000000017F40	0000000C			R	.	.	.	.	.	.	.
+
+TH20.Advisor__ShowUnlockedMessage	seg000	0000000000018290	00000074			R	.	.	.	.	.	.	.
+
+TH20.AmbulanceConfig__.ctor	seg000	000000000001C7C0	0000007B			R	.	.	.	.	.	.	.
+
+TH20.Ambulance__GetHighestSpeedFromStaff	seg000	000000000001CF10	00000006			R	.	.	.	.	.	.	.
