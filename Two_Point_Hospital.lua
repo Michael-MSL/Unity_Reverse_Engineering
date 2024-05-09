@@ -113,3 +113,11 @@ TH20.ChallengeElectricityConfig__.ctor	seg000	0000000000036DF0	00000028			R	.	.	
 TH20.ChallengePrerequisiteDaysPassed__.ctor	seg000	000000000003A220	0000000F			R	.	.	.	.	.	.	.
 
 TH20.ChallengeRacoonAttackConfig__.ctor	seg000	000000000003A610	00000033			R	.	.	.	.	.	.	.
+
+TH20.CharacterAttributes__.cctor	seg000	0000000000023EC0	000001C0			R	.	.	.	.	.	.	.
+
+TH20.CharacterDefinition__.ctor	seg000	0000000000044070	00000095			R	.	.	.	.	.	.	.
+
+TH20.CharacterEpidemicActionDefinition__.ctor	seg000	000000000004C840	0000001D			R	.	.	.	.	.	.	.
+
+TH20.CharacterFlavourTraits__.ctor	seg000	000000000004C900	00000025			R	.	.	.	.	.	.	.
