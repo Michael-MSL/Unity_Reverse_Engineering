@@ -129,3 +129,11 @@ TH20.CharacterManager__Debug_MakeAllCharactersDie	seg000	00000000000475D0	000000
 TH20.CharacterManager__Debug_MakeAllCharactersHungry	seg000	0000000000047630	00000013			R	.	.	.	.	.	.	.
 
 TH20.CharacterManager__Debug_MakeAllCharactersPoop	seg000	0000000000047610	00000013			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__Debug_MakeAllCharactersSick	seg000	00000000000475F0	00000014			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__Debug_MakeAllCharactersThirsty	seg000	0000000000047650	00000013			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__Debug_MakeAllCharactersUnhappy	seg000	0000000000047670	00000013			R	.	.	.	.	.	.	.
+
+TH20.CharacterModifierMovementSpeed__.ctor	seg000	000000000004CB90	00000028			R	.	.	.	.	.	.	.
