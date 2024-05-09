@@ -99,3 +99,9 @@ TH20.CareerStatsManager__.cctor	seg000	000000000010D230	000000DF			R	.	.	.	.	.	.
 TH20.ChallengeBudget__.ctor	seg000	00000000000353C0	000000D8			R	.	.	.	.	.	.	.
 
 TH20.ChallengeBudget__get_PatientsCured	seg000	0000000000035570	00000022			R	.	.	.	.	.	.	.
+
+TH20.ChallengeBudget__get_PatientsProcessed	seg000	00000000000355A0	00000022			R	.	.	.	.	.	.	.
+
+TH20.ChallengeConfig__.ctor	seg000	0000000000033B60	00000020			R	.	.	.	.	.	.	.
+
+TH20.ChallengeEarthquakeConfig__.ctor	seg000	0000000000035CA0	00000041			R	.	.	.	.	.	.	.
