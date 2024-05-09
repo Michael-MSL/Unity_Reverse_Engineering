@@ -105,3 +105,11 @@ TH20.ChallengeBudget__get_PatientsProcessed	seg000	00000000000355A0	00000022			R
 TH20.ChallengeConfig__.ctor	seg000	0000000000033B60	00000020			R	.	.	.	.	.	.	.
 
 TH20.ChallengeEarthquakeConfig__.ctor	seg000	0000000000035CA0	00000041			R	.	.	.	.	.	.	.
+
+TH20.ChallengeEcoConfig__.ctor	seg000	0000000000036B70	0000001D			R	.	.	.	.	.	.	.
+
+TH20.ChallengeElectricityConfig__.ctor	seg000	0000000000036DF0	00000028			R	.	.	.	.	.	.	.
+
+TH20.ChallengePrerequisiteDaysPassed__.ctor	seg000	000000000003A220	0000000F			R	.	.	.	.	.	.	.
+
+TH20.ChallengeRacoonAttackConfig__.ctor	seg000	000000000003A610	00000033			R	.	.	.	.	.	.	.
