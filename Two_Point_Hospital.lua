@@ -137,3 +137,11 @@ TH20.CharacterManager__Debug_MakeAllCharactersThirsty	seg000	0000000000047650	00
 TH20.CharacterManager__Debug_MakeAllCharactersUnhappy	seg000	0000000000047670	00000013			R	.	.	.	.	.	.	.
 
 TH20.CharacterModifierMovementSpeed__.ctor	seg000	000000000004CB90	00000028			R	.	.	.	.	.	.	.
+
+TH20.CharacterModifierMultiplierBase__.ctor	seg000	000000000004CC70	00000012			R	.	.	.	.	.	.	.
+
+TH20.Character__.ctor	seg000	000000000003F770	000004EB			R	.	.	.	.	.	.	.
+
+TH20.Character__ApplyMovementModifier	seg000	0000000000041F40	000000A5			R	.	.	.	.	.	.	.
+
+TH20.ContentCarouselMenu__.ctor	seg000	00000000000C9E50	00000028			R	.	.	.	.	.	.	.
