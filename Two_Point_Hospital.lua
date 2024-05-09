@@ -153,3 +153,11 @@ TH20.EasingsUtils__.cctor	seg000	000000000016D1C0	0000002F			R	.	.	.	.	.	.	.
 TH20.GameAlgorithmsConfig__.ctor	seg000	0000000000070080	0000051E			R	.	.	.	.	.	.	.
 
 TH20.GhostComponent__.ctor	seg000	000000000004AD10	00000050			R	.	.	.	.	.	.	.
+
+TH20.GhostDefinition__.ctor	seg000	000000000004B4D0	0000003E			R	.	.	.	.	.	.	.
+
+TH20.HospitalAttributeMap__.ctor	seg000	00000000000DF7B0	0000006D			R	.	.	.	.	.	.	.
+
+TH20.HospitalAwardsManager__.cctor	seg000	00000000000E1670	00000070			R	.	.	.	.	.	.	.
+
+TH20.HospitalMap__.ctor	seg000	00000000000E2090	00000074			R	.	.	.	.	.	.	.
