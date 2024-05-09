@@ -121,3 +121,11 @@ TH20.CharacterDefinition__.ctor	seg000	0000000000044070	00000095			R	.	.	.	.	.	.
 TH20.CharacterEpidemicActionDefinition__.ctor	seg000	000000000004C840	0000001D			R	.	.	.	.	.	.	.
 
 TH20.CharacterFlavourTraits__.ctor	seg000	000000000004C900	00000025			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__.ctor	seg000	0000000000044BC0	0000030F			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__Debug_MakeAllCharactersDie	seg000	00000000000475D0	00000013			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__Debug_MakeAllCharactersHungry	seg000	0000000000047630	00000013			R	.	.	.	.	.	.	.
+
+TH20.CharacterManager__Debug_MakeAllCharactersPoop	seg000	0000000000047610	00000013			R	.	.	.	.	.	.	.
