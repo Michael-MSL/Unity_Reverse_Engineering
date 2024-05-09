@@ -81,3 +81,9 @@ TH20.Advisor__ShowUnlockedMessage	seg000	0000000000018290	00000074			R	.	.	.	.	.
 TH20.AmbulanceConfig__.ctor	seg000	000000000001C7C0	0000007B			R	.	.	.	.	.	.	.
 
 TH20.Ambulance__GetHighestSpeedFromStaff	seg000	000000000001CF10	00000006			R	.	.	.	.	.	.	.
+
+TH20.AmbulanceDepartmentStatsContainer__.ctor_0	seg000	00000000000F8A10	0000002C			R	.	.	.	.	.	.	.
+
+TH20.Ambulance__.ctor	seg000	000000000001C9D0	0000004E			R	.	.	.	.	.	.	.
+
+TH20.Ambulance__ClearEmergency	seg000	000000000001CE50	00000030			R	.	.	.	.	.	.	.
