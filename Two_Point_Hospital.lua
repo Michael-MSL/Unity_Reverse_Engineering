@@ -145,3 +145,11 @@ TH20.Character__.ctor	seg000	000000000003F770	000004EB			R	.	.	.	.	.	.	.
 TH20.Character__ApplyMovementModifier	seg000	0000000000041F40	000000A5			R	.	.	.	.	.	.	.
 
 TH20.ContentCarouselMenu__.ctor	seg000	00000000000C9E50	00000028			R	.	.	.	.	.	.	.
+
+TH20.DebugFlyCameraConfig__.ctor	seg000	000000000000BF80	0000005F			R	.	.	.	.	.	.	.
+
+TH20.EasingsUtils__.cctor	seg000	000000000016D1C0	0000002F			R	.	.	.	.	.	.	.
+
+TH20.GameAlgorithmsConfig__.ctor	seg000	0000000000070080	0000051E			R	.	.	.	.	.	.	.
+
+TH20.GhostComponent__.ctor	seg000	000000000004AD10	00000050			R	.	.	.	.	.	.	.
