@@ -49,3 +49,11 @@ ArmatureController__InitEyes	seg000	000000000003D4A0	0000008E			R	.	.	.	.	.	.	.
 ArmatureController__InitRagdoll	seg000	000000000003D610	00000038			R	.	.	.	.	.	.	.
 
 ArmatureInVehicle__.ctor	seg000	000000000003D9A0	00000183			R	.	.	.	.	.	.	.
+
+ArmatureRefs__.ctor	seg000	000000000003DE80	000003B0			R	.	.	.	.	.	.	.
+
+ArmatureRefs__AddFingerBones	seg000	000000000003E230	00000407			R	.	.	.	.	.	.	.
+
+ArmaturesPool__Init	seg000	000000000003E960	00000091			R	.	.	.	.	.	.	.
+
+ArmsIK__InitIK	seg000	0000000000042DE0	0000009B			R	.	.	.	.	.	.	.
