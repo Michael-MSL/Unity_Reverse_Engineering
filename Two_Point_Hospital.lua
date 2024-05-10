@@ -225,3 +225,11 @@ TH20.Objective__.ctor	seg000	00000000000FB3A0	00000043			R	.	.	.	.	.	.	.
 TH20.OnlineChallengeScores__.ctor	seg000	000000000007D9D0	00000090			R	.	.	.	.	.	.	.
 
 TH20.OpenLetterMenu__.cctor	seg000	00000000000C5FC0	0000000B			R	.	.	.	.	.	.	.
+
+TH20.Patient__.ctor	seg000	0000000000054BB0	000000E9			R	.	.	.	.	.	.	.
+
+TH20.PerformanceCapture__.ctor	seg000	00000000001240C0	0000007A			R	.	.	.	.	.	.	.
+
+TH20.PingManagerProxy__.ctor	seg000	0000000000159590	00000028			R	.	.	.	.	.	.	.
+
+TH20.PlayerAmbulance__.cctor	seg000	000000000001F720	000000CA			R	.	.	.	.	.	.	.
