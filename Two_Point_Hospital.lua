@@ -177,3 +177,11 @@ TH20.JobApplicantManager__.ctor	seg000	0000000000059330	0000004C			R	.	.	.	.	.	.
 TH20.JobApplicantPool__.ctor	seg000	0000000000059970	00000050			R	.	.	.	.	.	.	.
 
 TH20.JobApplicant__.ctor_0	seg000	0000000000059020	000000CA			R	.	.	.	.	.	.	.
+
+TH20.JobApplicant__.ctor_1	seg000	00000000000590F0	000000AA			R	.	.	.	.	.	.	.
+
+TH20.JobApplicant__ToString	seg000	0000000000058E80	00000070			R	.	.	.	.	.	.	.
+
+TH20.JobService__.ctor	seg000	000000000005CF60	00000032			R	.	.	.	.	.	.	.
+
+TH20.LandscapeObjectListItem__.ctor	seg000	0000000000077CE0	0000001D			R	.	.	.	.	.	.	.
