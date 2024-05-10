@@ -33,3 +33,11 @@ AmbushManager__SetDefenseLocations	seg000	000000000012D440	0000005A			R	.	.	.	.	
 AmbushManager__StartAmbush	seg000	000000000012D390	00000054			R	.	.	.	.	.	.	.
 
 Ambush__.ctor	seg000	000000000012D0D0	0000003E			R	.	.	.	.	.	.	.
+
+Ambush__GetDesc	seg000	000000000012D040	00000075			R	.	.	.	.	.	.	.
+
+Ambush__StartAmbush	seg000	000000000012C930	00000101			R	.	.	.	.	.	.	.
+
+ArmatureBone__SetPosRot	seg000	000000000003D220	000000B6			R	.	.	.	.	.	.	.
+
+ArmatureController__AddMarker	seg000	000000000003D870	0000005E			R	.	.	.	.	.	.	.
