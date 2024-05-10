@@ -161,3 +161,11 @@ TH20.HospitalAttributeMap__.ctor	seg000	00000000000DF7B0	0000006D			R	.	.	.	.	.	
 TH20.HospitalAwardsManager__.cctor	seg000	00000000000E1670	00000070			R	.	.	.	.	.	.	.
 
 TH20.HospitalMap__.ctor	seg000	00000000000E2090	00000074			R	.	.	.	.	.	.	.
+
+TH20.HospitalPlotDefinition__.ctor	seg000	00000000000E5730	00000032			R	.	.	.	.	.	.	.
+
+TH20.HospitalPolicy__.ctor	seg000	00000000000E6720	00000034			R	.	.	.	.	.	.	.
+
+TH20.IllnessDefinition__.ctor	seg000	0000000000052EF0	00000121			R	.	.	.	.	.	.	.
+
+TH20.IllnessGreyAnatomyComponent__.ctor	seg000	0000000000053430	00000028			R	.	.	.	.	.	.	.
