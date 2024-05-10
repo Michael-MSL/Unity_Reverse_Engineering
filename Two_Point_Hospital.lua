@@ -217,3 +217,11 @@ TH20.MonoBeast__.ctor	seg000	000000000004EC30	0000005C			R	.	.	.	.	.	.	.
 TH20.ObjectAttributes__.cctor	seg000	00000000000240C0	0000002C			R	.	.	.	.	.	.	.
 
 TH20.ObjectInteraction__.ctor	seg000	00000000000EFF20	00000097			R	.	.	.	.	.	.	.
+
+TH20.ObjectiveTimedItemButton__.ctor	seg000	000000000007A950	00000028			R	.	.	.	.	.	.	.
+
+TH20.Objective__.ctor	seg000	00000000000FB3A0	00000043			R	.	.	.	.	.	.	.
+
+TH20.OnlineChallengeScores__.ctor	seg000	000000000007D9D0	00000090			R	.	.	.	.	.	.	.
+
+TH20.OpenLetterMenu__.cctor	seg000	00000000000C5FC0	0000000B			R	.	.	.	.	.	.	.
