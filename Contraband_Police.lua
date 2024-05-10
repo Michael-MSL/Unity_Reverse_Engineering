@@ -41,3 +41,11 @@ Ambush__StartAmbush	seg000	000000000012C930	00000101			R	.	.	.	.	.	.	.
 ArmatureBone__SetPosRot	seg000	000000000003D220	000000B6			R	.	.	.	.	.	.	.
 
 ArmatureController__AddMarker	seg000	000000000003D870	0000005E			R	.	.	.	.	.	.	.
+
+ArmatureController__Init	seg000	000000000003D420	0000006B			R	.	.	.	.	.	.	.
+
+ArmatureController__InitEyes	seg000	000000000003D4A0	0000008E			R	.	.	.	.	.	.	.
+
+ArmatureController__InitRagdoll	seg000	000000000003D610	00000038			R	.	.	.	.	.	.	.
+
+ArmatureInVehicle__.ctor	seg000	000000000003D9A0	00000183			R	.	.	.	.	.	.	.
