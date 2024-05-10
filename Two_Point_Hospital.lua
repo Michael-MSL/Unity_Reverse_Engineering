@@ -193,3 +193,11 @@ TH20.LevelHUD__.ctor	seg000	0000000000085E10	0000001F			R	.	.	.	.	.	.	.
 TH20.LevelObjectivesList__.ctor	seg000	000000000008E7B0	00000045			R	.	.	.	.	.	.	.
 
 TH20.LevelStatsDatabase__.ctor	seg000	00000000000E7330	000005E5			R	.	.	.	.	.	.	.
+
+TH20.Level__.ctor	seg000	00000000000F2110	00000914			R	.	.	.	.	.	.	.
+
+TH20.LightHeadedBulb__.ctor	seg000	0000000000053F90	00000012			R	.	.	.	.	.	.	.
+
+TH20.LoadSaveProgressScreen__.ctor	seg000	00000000000861A0	0000003E			R	.	.	.	.	.	.	.
+
+TH20.LoadedDice__.ctor	seg000	000000000015D3A0	000001F1			R	.	.	.	.	.	.	.
