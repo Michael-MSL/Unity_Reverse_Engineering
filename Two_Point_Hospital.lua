@@ -209,3 +209,11 @@ TH20.MaintenanceTemperatureModifierComponent__.ctor	seg000	000000000013A2C0	0000
 TH20.MarketingCampaignDefinition__.ctor	seg000	00000000000EA230	0000002C			R	.	.	.	.	.	.	.
 
 TH20.MarketingCampaignMenu__.ctor	seg000	00000000000C0240	0000004C			R	.	.	.	.	.	.	.
+
+TH20.MetagameHospitalVisual__.ctor	seg000	0000000000113590	00000028			R	.	.	.	.	.	.	.
+
+TH20.MonoBeast__.ctor	seg000	000000000004EC30	0000005C			R	.	.	.	.	.	.	.
+
+TH20.ObjectAttributes__.cctor	seg000	00000000000240C0	0000002C			R	.	.	.	.	.	.	.
+
+TH20.ObjectInteraction__.ctor	seg000	00000000000EFF20	00000097			R	.	.	.	.	.	.	.
