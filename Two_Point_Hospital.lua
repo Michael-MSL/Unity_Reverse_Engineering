@@ -169,3 +169,11 @@ TH20.HospitalPolicy__.ctor	seg000	00000000000E6720	00000034			R	.	.	.	.	.	.	.
 TH20.IllnessDefinition__.ctor	seg000	0000000000052EF0	00000121			R	.	.	.	.	.	.	.
 
 TH20.IllnessGreyAnatomyComponent__.ctor	seg000	0000000000053430	00000028			R	.	.	.	.	.	.	.
+
+TH20.ItemBuildBoundsComponent__.ctor	seg000	0000000000139DC0	00000042			R	.	.	.	.	.	.	.
+
+TH20.JobApplicantManager__.ctor	seg000	0000000000059330	0000004C			R	.	.	.	.	.	.	.
+
+TH20.JobApplicantPool__.ctor	seg000	0000000000059970	00000050			R	.	.	.	.	.	.	.
+
+TH20.JobApplicant__.ctor_0	seg000	0000000000059020	000000CA			R	.	.	.	.	.	.	.
