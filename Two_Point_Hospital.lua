@@ -185,3 +185,11 @@ TH20.JobApplicant__ToString	seg000	0000000000058E80	00000070			R	.	.	.	.	.	.	.
 TH20.JobService__.ctor	seg000	000000000005CF60	00000032			R	.	.	.	.	.	.	.
 
 TH20.LandscapeObjectListItem__.ctor	seg000	0000000000077CE0	0000001D			R	.	.	.	.	.	.	.
+
+TH20.LevelConfig__.ctor	seg000	00000000000F8220	0000005B			R	.	.	.	.	.	.	.
+
+TH20.LevelHUD__.ctor	seg000	0000000000085E10	0000001F			R	.	.	.	.	.	.	.
+
+TH20.LevelObjectivesList__.ctor	seg000	000000000008E7B0	00000045			R	.	.	.	.	.	.	.
+
+TH20.LevelStatsDatabase__.ctor	seg000	00000000000E7330	000005E5			R	.	.	.	.	.	.	.
