@@ -201,3 +201,11 @@ TH20.LightHeadedBulb__.ctor	seg000	0000000000053F90	00000012			R	.	.	.	.	.	.	.
 TH20.LoadSaveProgressScreen__.ctor	seg000	00000000000861A0	0000003E			R	.	.	.	.	.	.	.
 
 TH20.LoadedDice__.ctor	seg000	000000000015D3A0	000001F1			R	.	.	.	.	.	.	.
+
+TH20.MaintenanceDataView__.ctor	seg000	00000000000D91E0	00000024			R	.	.	.	.	.	.	.
+
+TH20.MaintenanceTemperatureModifierComponent__.ctor	seg000	000000000013A2C0	00000012			R	.	.	.	.	.	.	.
+
+TH20.MarketingCampaignDefinition__.ctor	seg000	00000000000EA230	0000002C			R	.	.	.	.	.	.	.
+
+TH20.MarketingCampaignMenu__.ctor	seg000	00000000000C0240	0000004C			R	.	.	.	.	.	.	.
