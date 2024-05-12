@@ -61,3 +61,9 @@ AnimNames__.ctor	seg000	00000000002BB540	0000001D			R	.	.	.	.	.	.	.
 ApplyDamageScript__.ctor	seg000	0000000000065660	0000001D			R	.	.	.	.	.	.	.
 
 Arrow_Pickpocket__.ctor	seg000	00000000000AE040	0000001D			R	.	.	.	.	.	.	.
+
+BlackBay_Button__Start	seg000	00000000000A6750	00000021			R	.	.	.	.	.	.	.
+
+BlackBay_Object__.ctor	seg000	00000000000A6D90	00000017			R	.	.	.	.	.	.	.
+
+Blowtorch__Start	seg000	00000000000791C0	0000005A			R	.	.	.	.	.	.	.
