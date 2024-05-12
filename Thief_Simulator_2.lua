@@ -73,3 +73,9 @@ Board__.ctor	seg000	000000000002DAD0	00000024			R	.	.	.	.	.	.	.
 BreakableObject__.ctor	seg000	0000000000005E80	0000003E			R	.	.	.	.	.	.	.
 
 CarBox__Update	seg000	00000000000805B0	00000044			R	.	.	.	.	.	.	.
+
+CarSmoothFollow__.ctor	seg000	0000000000081B30	00000033			R	.	.	.	.	.	.	.
+
+CarUpgrades__.ctor	seg000	000000000007DF80	00000091			R	.	.	.	.	.	.	.
+
+CatAI__.ctor	seg000	00000000000738C0	00000012			R	.	.	.	.	.	.	.
