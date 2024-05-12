@@ -67,3 +67,9 @@ BlackBay_Button__Start	seg000	00000000000A6750	00000021			R	.	.	.	.	.	.	.
 BlackBay_Object__.ctor	seg000	00000000000A6D90	00000017			R	.	.	.	.	.	.	.
 
 Blowtorch__Start	seg000	00000000000791C0	0000005A			R	.	.	.	.	.	.	.
+
+Board__.ctor	seg000	000000000002DAD0	00000024			R	.	.	.	.	.	.	.
+
+BreakableObject__.ctor	seg000	0000000000005E80	0000003E			R	.	.	.	.	.	.	.
+
+CarBox__Update	seg000	00000000000805B0	00000044			R	.	.	.	.	.	.	.
