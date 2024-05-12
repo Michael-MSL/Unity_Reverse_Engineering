@@ -85,3 +85,9 @@ CMS_Car__Start	seg000	000000000007A6E0	000000AD			R	.	.	.	.	.	.	.
 CMS_Manager__.ctor	seg000	000000000007B860	00000012			R	.	.	.	.	.	.	.
 
 CMS_Part__.ctor	seg000	000000000007BD80	00000012			R	.	.	.	.	.	.	.
+
+CMS_Screw__.ctor	seg000	000000000007BF40	00000012			R	.	.	.	.	.	.	.
+
+CablesMinigame__AddNew	seg000	000000000007A300	00000060			R	.	.	.	.	.	.	.
+
+CarAlarmMinigame__Start	seg000	0000000000080620	00000016			R	.	.	.	.	.	.	.
