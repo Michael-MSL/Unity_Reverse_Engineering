@@ -79,3 +79,9 @@ CarSmoothFollow__.ctor	seg000	0000000000081B30	00000033			R	.	.	.	.	.	.	.
 CarUpgrades__.ctor	seg000	000000000007DF80	00000091			R	.	.	.	.	.	.	.
 
 CatAI__.ctor	seg000	00000000000738C0	00000012			R	.	.	.	.	.	.	.
+
+CMS_Car__Start	seg000	000000000007A6E0	000000AD			R	.	.	.	.	.	.	.
+
+CMS_Manager__.ctor	seg000	000000000007B860	00000012			R	.	.	.	.	.	.	.
+
+CMS_Part__.ctor	seg000	000000000007BD80	00000012			R	.	.	.	.	.	.	.
