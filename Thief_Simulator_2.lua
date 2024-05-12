@@ -91,3 +91,9 @@ CMS_Screw__.ctor	seg000	000000000007BF40	00000012			R	.	.	.	.	.	.	.
 CablesMinigame__AddNew	seg000	000000000007A300	00000060			R	.	.	.	.	.	.	.
 
 CarAlarmMinigame__Start	seg000	0000000000080620	00000016			R	.	.	.	.	.	.	.
+
+CarAlarmMinigame__StartNew	seg000	0000000000080650	00000064			R	.	.	.	.	.	.	.
+
+CarAlarm__AlarmDisarmed	seg000	000000000007BF90	00000029			R	.	.	.	.	.	.	.
+
+CarAlarm__Start	seg000	000000000007BF70	00000011			R	.	.	.	.	.	.	.
