@@ -69,3 +69,9 @@ AttachmentsPool__GetAttachment	seg000	000000000003FD50	00000076			R	.	.	.	.	.	.	
 BarUI__.ctor	seg000	00000000000E0B00	00000012			R	.	.	.	.	.	.	.
 
 BarUI__Awake	seg000	00000000000E0940	00000063			R	.	.	.	.	.	.	.
+
+Barracks__OnUpgraded	seg000	0000000000089990	0000006A			R	.	.	.	.	.	.	.
+
+BloodScreenVariant__.ctor	seg000	00000000000A3410	00000012			R	.	.	.	.	.	.	.
+
+BloodScreen__.ctor	seg000	00000000000E6580	0000007D			R	.	.	.	.	.	.	.
