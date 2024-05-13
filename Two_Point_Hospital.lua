@@ -251,3 +251,9 @@ TH20.StaffCommonDefinition__.ctor	seg000	0000000000060D10	000000D8			R	.	.	.	.	.
 TH20.StaffRank__.ctor	seg000	0000000000060BB0	0000009D			R	.	.	.	.	.	.	.
 
 TH20.Staff__.ctor	seg000	000000000005E660	0000022B			R	.	.	.	.	.	.	.
+
+TH20.TH20Standard__.cctor	seg000	000000000012D8C0	00000051			R	.	.	.	.	.	.	.
+
+TH20.TannoyManagerConfig__.ctor	seg000	0000000000030470	0000002F			R	.	.	.	.	.	.	.
+
+TH20.TimelineManager__.ctor	seg000	00000000000EC3C0	00000067			R	.	.	.	.	.	.	.
