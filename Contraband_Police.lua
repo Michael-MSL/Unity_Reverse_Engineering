@@ -63,3 +63,9 @@ ArmsIK__ResetValues	seg000	00000000000431C0	00000017			R	.	.	.	.	.	.	.
 Attachment__.ctor	seg000	000000000003EB40	00000056			R	.	.	.	.	.	.	.
 
 Attachment__PreperateForReinitialization	seg000	000000000003EF20	00000048			R	.	.	.	.	.	.	.
+
+AttachmentsPool__GetAttachment	seg000	000000000003FD50	00000076			R	.	.	.	.	.	.	.
+
+BarUI__.ctor	seg000	00000000000E0B00	00000012			R	.	.	.	.	.	.	.
+
+BarUI__Awake	seg000	00000000000E0940	00000063			R	.	.	.	.	.	.	.
