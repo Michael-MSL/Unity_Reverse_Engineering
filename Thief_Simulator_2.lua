@@ -121,3 +121,9 @@ CodenameAI__Start	seg000	0000000000073C10	0000007F			R	.	.	.	.	.	.	.
 CompassNavigatorPro.BeaconAnimator__.ctor	seg000	0000000000255130	00000012			R	.	.	.	.	.	.	.
 
 CompassNavigatorPro.CompassProPOI__.ctor	seg000	000000000025D810	00000064			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.CompassPro__.ctor	seg000	000000000025CF40	000003B7			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.Misc__.cctor	seg000	000000000025E130	0000013D			R	.	.	.	.	.	.	.
+
+CompassNavigatorProDemos.FreeCameraMove__.ctor	seg000	000000000025E6C0	0000003E			R	.	.	.	.	.	.	.
