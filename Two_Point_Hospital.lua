@@ -233,3 +233,9 @@ TH20.PerformanceCapture__.ctor	seg000	00000000001240C0	0000007A			R	.	.	.	.	.	.	
 TH20.PingManagerProxy__.ctor	seg000	0000000000159590	00000028			R	.	.	.	.	.	.	.
 
 TH20.PlayerAmbulance__.cctor	seg000	000000000001F720	000000CA			R	.	.	.	.	.	.	.
+
+TH20.PrimeGaming__.cctor	seg000	0000000000163F00	00000052			R	.	.	.	.	.	.	.
+
+TH20.ProfileResponse__.ctor	seg000	0000000000164170	00000049			R	.	.	.	.	.	.	.
+
+TH20.ProgressBarChevron__.cctor	seg000	000000000007E7C0	00000035			R	.	.	.	.	.	.	.
