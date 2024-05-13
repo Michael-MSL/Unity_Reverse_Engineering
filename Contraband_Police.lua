@@ -99,3 +99,9 @@ CargoManager__InitCategoryToCategoryName	seg000	000000000003B360	00000087			R	.	
 CargoManager__InitCategoryToSprite	seg000	000000000003B690	000000F3			R	.	.	.	.	.	.	.
 
 CargoManager__InitProductToName	seg000	000000000003ACC0	00000201			R	.	.	.	.	.	.	.
+
+CargoNotebookPickup__PickUp	seg000	000000000007C8A0	0000004D			R	.	.	.	.	.	.	.
+
+CargoNotebook__.ctor	seg000	000000000007C840	00000028			R	.	.	.	.	.	.	.
+
+CargoNotebook__InitTemplate	seg000	000000000007BBE0	000000AE			R	.	.	.	.	.	.	.
