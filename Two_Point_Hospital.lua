@@ -257,3 +257,9 @@ TH20.TH20Standard__.cctor	seg000	000000000012D8C0	00000051			R	.	.	.	.	.	.	.
 TH20.TannoyManagerConfig__.ctor	seg000	0000000000030470	0000002F			R	.	.	.	.	.	.	.
 
 TH20.TimelineManager__.ctor	seg000	00000000000EC3C0	00000067			R	.	.	.	.	.	.	.
+
+TH20.TimelineManager__get_Minutes	seg000	00000000000EC2C0	0000002C			R	.	.	.	.	.	.	.
+
+TH20.Visitor__.ctor	seg000	0000000000067C60	0000007C			R	.	.	.	.	.	.	.
+
+TH20.WeightedIllness__.ctor	seg000	0000000000053030	0000001E			R	.	.	.	.	.	.	.
