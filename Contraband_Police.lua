@@ -75,3 +75,9 @@ Barracks__OnUpgraded	seg000	0000000000089990	0000006A			R	.	.	.	.	.	.	.
 BloodScreenVariant__.ctor	seg000	00000000000A3410	00000012			R	.	.	.	.	.	.	.
 
 BloodScreen__.ctor	seg000	00000000000E6580	0000007D			R	.	.	.	.	.	.	.
+
+BloodScreen__DisableScreensCRT	seg000	00000000000E60E0	0000000E			R	.	.	.	.	.	.	.
+
+BloodScreen__Restart	seg000	00000000000E6250	0000008E			R	.	.	.	.	.	.	.
+
+BloodScreen__RestartColors	seg000	00000000000E62E0	00000056			R	.	.	.	.	.	.	.
