@@ -109,3 +109,9 @@ CarDisassembly__Start	seg000	0000000000080B60	00000081			R	.	.	.	.	.	.	.
 CarUpgrades__.ctor	seg000	000000000007E260	00000091			R	.	.	.	.	.	.	.
 
 CardboardMinigame__Start	seg000	00000000000A7100	00000046			R	.	.	.	.	.	.	.
+
+CatAI__.ctor	seg000	0000000000073BA0	00000012			R	.	.	.	.	.	.	.
+
+CatAI__Start	seg000	0000000000073850	00000061			R	.	.	.	.	.	.	.
+
+CodenameAI__.ctor	seg000	0000000000074ED0	00000019			R	.	.	.	.	.	.	.
