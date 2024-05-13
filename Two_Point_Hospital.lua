@@ -245,3 +245,9 @@ TH20.ProgressBar__.ctor	seg000	000000000007E420	00000045			R	.	.	.	.	.	.	.
 TH20.RadioConfig__.ctor	seg000	000000000002D9B0	00000049			R	.	.	.	.	.	.	.
 
 TH20.RequestCodeResponse__.ctor	seg000	0000000000164070	00000075			R	.	.	.	.	.	.	.
+
+TH20.StaffCommonDefinition__.ctor	seg000	0000000000060D10	000000D8			R	.	.	.	.	.	.	.
+
+TH20.StaffRank__.ctor	seg000	0000000000060BB0	0000009D			R	.	.	.	.	.	.	.
+
+TH20.Staff__.ctor	seg000	000000000005E660	0000022B			R	.	.	.	.	.	.	.
