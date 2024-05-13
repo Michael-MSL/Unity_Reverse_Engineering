@@ -81,3 +81,9 @@ BloodScreen__DisableScreensCRT	seg000	00000000000E60E0	0000000E			R	.	.	.	.	.	.	
 BloodScreen__Restart	seg000	00000000000E6250	0000008E			R	.	.	.	.	.	.	.
 
 BloodScreen__RestartColors	seg000	00000000000E62E0	00000056			R	.	.	.	.	.	.	.
+
+BribeCash__PickUp	seg000	000000000007BAD0	000000D3			R	.	.	.	.	.	.	.
+
+BrushDamagePair__.ctor	seg000	00000000002C2A60	00000012			R	.	.	.	.	.	.	.
+
+CargoManager__GetCategory	seg000	000000000003BA60	00000037			R	.	.	.	.	.	.	.
