@@ -115,3 +115,9 @@ CatAI__.ctor	seg000	0000000000073BA0	00000012			R	.	.	.	.	.	.	.
 CatAI__Start	seg000	0000000000073850	00000061			R	.	.	.	.	.	.	.
 
 CodenameAI__.ctor	seg000	0000000000074ED0	00000019			R	.	.	.	.	.	.	.
+
+CodenameAI__Start	seg000	0000000000073C10	0000007F			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.BeaconAnimator__.ctor	seg000	0000000000255130	00000012			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.CompassProPOI__.ctor	seg000	000000000025D810	00000064			R	.	.	.	.	.	.	.
