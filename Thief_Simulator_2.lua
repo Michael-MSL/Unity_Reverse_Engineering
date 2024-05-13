@@ -103,3 +103,9 @@ CarBox__Start	seg000	0000000000080840	00000050			R	.	.	.	.	.	.	.
 CarController__.ctor	seg000	000000000007DF60	00000065			R	.	.	.	.	.	.	.
 
 CarCrash__Start	seg000	0000000000080900	0000002B			R	.	.	.	.	.	.	.
+
+CarDisassembly__Start	seg000	0000000000080B60	00000081			R	.	.	.	.	.	.	.
+
+CarUpgrades__.ctor	seg000	000000000007E260	00000091			R	.	.	.	.	.	.	.
+
+CardboardMinigame__Start	seg000	00000000000A7100	00000046			R	.	.	.	.	.	.	.
