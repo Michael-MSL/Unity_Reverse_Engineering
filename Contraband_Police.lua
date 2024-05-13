@@ -87,3 +87,9 @@ BribeCash__PickUp	seg000	000000000007BAD0	000000D3			R	.	.	.	.	.	.	.
 BrushDamagePair__.ctor	seg000	00000000002C2A60	00000012			R	.	.	.	.	.	.	.
 
 CargoManager__GetCategory	seg000	000000000003BA60	00000037			R	.	.	.	.	.	.	.
+
+CargoManager__GetVehicle	seg000	000000000003B880	00000035			R	.	.	.	.	.	.	.
+
+CargoManager__GetVehicleManager	seg000	000000000003B840	00000040			R	.	.	.	.	.	.	.
+
+CargoManager__GetVehicleTemplate	seg000	000000000003B8C0	00000039			R	.	.	.	.	.	.	.
