@@ -97,3 +97,9 @@ CarAlarmMinigame__StartNew	seg000	0000000000080650	00000064			R	.	.	.	.	.	.	.
 CarAlarm__AlarmDisarmed	seg000	000000000007BF90	00000029			R	.	.	.	.	.	.	.
 
 CarAlarm__Start	seg000	000000000007BF70	00000011			R	.	.	.	.	.	.	.
+
+CarBox__Start	seg000	0000000000080840	00000050			R	.	.	.	.	.	.	.
+
+CarController__.ctor	seg000	000000000007DF60	00000065			R	.	.	.	.	.	.	.
+
+CarCrash__Start	seg000	0000000000080900	0000002B			R	.	.	.	.	.	.	.
