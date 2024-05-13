@@ -239,3 +239,9 @@ TH20.PrimeGaming__.cctor	seg000	0000000000163F00	00000052			R	.	.	.	.	.	.	.
 TH20.ProfileResponse__.ctor	seg000	0000000000164170	00000049			R	.	.	.	.	.	.	.
 
 TH20.ProgressBarChevron__.cctor	seg000	000000000007E7C0	00000035			R	.	.	.	.	.	.	.
+
+TH20.ProgressBar__.ctor	seg000	000000000007E420	00000045			R	.	.	.	.	.	.	.
+
+TH20.RadioConfig__.ctor	seg000	000000000002D9B0	00000049			R	.	.	.	.	.	.	.
+
+TH20.RequestCodeResponse__.ctor	seg000	0000000000164070	00000075			R	.	.	.	.	.	.	.
