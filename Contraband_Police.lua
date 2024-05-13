@@ -105,3 +105,9 @@ CargoNotebookPickup__PickUp	seg000	000000000007C8A0	0000004D			R	.	.	.	.	.	.	.
 CargoNotebook__.ctor	seg000	000000000007C840	00000028			R	.	.	.	.	.	.	.
 
 CargoNotebook__InitTemplate	seg000	000000000007BBE0	000000AE			R	.	.	.	.	.	.	.
+
+CargoNotebook__OnHideStarted	seg000	000000000007BE30	0000003B			R	.	.	.	.	.	.	.
+
+CargoNotebook__SetTexts	seg000	000000000007C160	000000AD			R	.	.	.	.	.	.	.
+
+CargoNotebook__TryPrepare	seg000	000000000007BF70	00000089			R	.	.	.	.	.	.	.
