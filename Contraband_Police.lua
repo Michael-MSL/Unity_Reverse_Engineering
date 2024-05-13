@@ -93,3 +93,9 @@ CargoManager__GetVehicle	seg000	000000000003B880	00000035			R	.	.	.	.	.	.	.
 CargoManager__GetVehicleManager	seg000	000000000003B840	00000040			R	.	.	.	.	.	.	.
 
 CargoManager__GetVehicleTemplate	seg000	000000000003B8C0	00000039			R	.	.	.	.	.	.	.
+
+CargoManager__InitCategoryToCategoryName	seg000	000000000003B360	00000087			R	.	.	.	.	.	.	.
+
+CargoManager__InitCategoryToSprite	seg000	000000000003B690	000000F3			R	.	.	.	.	.	.	.
+
+CargoManager__InitProductToName	seg000	000000000003ACC0	00000201			R	.	.	.	.	.	.	.
