@@ -163,3 +163,9 @@ DogAI__Start	seg000	00000000000751E0	00000049			R	.	.	.	.	.	.	.
 Dog_Meat__.ctor	seg000	0000000000085610	00000019			R	.	.	.	.	.	.	.
 
 Dog_Meat__Start	seg000	00000000000857A0	00000052			R	.	.	.	.	.	.	.
+
+DollActivate__Start	seg000	0000000000085920	00000016			R	.	.	.	.	.	.	.
+
+DoorOpen__.ctor	seg000	0000000000055680	00000037			R	.	.	.	.	.	.	.
+
+DoorTexts__.ctor	seg000	00000000002BB290	00000028			R	.	.	.	.	.	.	.
