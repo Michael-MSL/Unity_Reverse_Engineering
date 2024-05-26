@@ -169,3 +169,9 @@ DollActivate__Start	seg000	0000000000085920	00000016			R	.	.	.	.	.	.	.
 DoorOpen__.ctor	seg000	0000000000055680	00000037			R	.	.	.	.	.	.	.
 
 DoorTexts__.ctor	seg000	00000000002BB290	00000028			R	.	.	.	.	.	.	.
+
+Door__.ctor	seg000	0000000000086B40	00000057			R	.	.	.	.	.	.	.
+
+Door__Start	seg000	0000000000085A40	00000532			R	.	.	.	.	.	.	.
+
+Doorbell__Start	seg000	0000000000086E90	0000006F			R	.	.	.	.	.	.	.
