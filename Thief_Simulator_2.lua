@@ -127,3 +127,9 @@ CompassNavigatorPro.CompassPro__.ctor	seg000	000000000025CF40	000003B7			R	.	.	.
 CompassNavigatorPro.Misc__.cctor	seg000	000000000025E130	0000013D			R	.	.	.	.	.	.	.
 
 CompassNavigatorProDemos.FreeCameraMove__.ctor	seg000	000000000025E6C0	0000003E			R	.	.	.	.	.	.	.
+
+ContainerExplosion__.ctor	seg000	00000000000A6DA0	00000012			R	.	.	.	.	.	.	.
+
+ContractManager__.ctor	seg000	00000000000D6980	00000012			R	.	.	.	.	.	.	.
+
+CopCar__.ctor	seg000	0000000000083840	00000024			R	.	.	.	.	.	.	.
