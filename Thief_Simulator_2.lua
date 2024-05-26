@@ -133,3 +133,9 @@ ContainerExplosion__.ctor	seg000	00000000000A6DA0	00000012			R	.	.	.	.	.	.	.
 ContractManager__.ctor	seg000	00000000000D6980	00000012			R	.	.	.	.	.	.	.
 
 CopCar__.ctor	seg000	0000000000083840	00000024			R	.	.	.	.	.	.	.
+
+CourierCar__.ctor	seg000	000000000007E760	00000012			R	.	.	.	.	.	.	.
+
+CourierCar__Start	seg000	000000000007E320	000000C9			R	.	.	.	.	.	.	.
+
+Darkbank__DepositMoney	seg000	00000000000A7E60	00000064			R	.	.	.	.	.	.	.
