@@ -151,3 +151,9 @@ DayNightTime__Update	seg000	0000000000083F10	00000741			R	.	.	.	.	.	.	.
 DefaultMaterialClass__.ctor	seg000	00000000000527A0	00000012			R	.	.	.	.	.	.	.
 
 Delay__.ctor	seg000	0000000000084A20	00000033			R	.	.	.	.	.	.	.
+
+Destructible__.ctor	seg000	00000000000022F0	00000012			R	.	.	.	.	.	.	.
+
+DisableFenceOnDistance__.ctor	seg000	0000000000085440	00000012			R	.	.	.	.	.	.	.
+
+DisplayCam__.ctor	seg000	0000000000000440	0000001D			R	.	.	.	.	.	.	.
