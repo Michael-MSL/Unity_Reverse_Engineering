@@ -145,3 +145,9 @@ Darkbank__WithdrawMoney	seg000	00000000000A7ED0	00000064			R	.	.	.	.	.	.	.
 DamagedAddForce__.ctor	seg000	0000000000083930	0000001D			R	.	.	.	.	.	.	.
 
 DayNightTime__.ctor	seg000	0000000000084660	00000080			R	.	.	.	.	.	.	.
+
+DayNightTime__Update	seg000	0000000000083F10	00000741			R	.	.	.	.	.	.	.
+
+DefaultMaterialClass__.ctor	seg000	00000000000527A0	00000012			R	.	.	.	.	.	.	.
+
+Delay__.ctor	seg000	0000000000084A20	00000033			R	.	.	.	.	.	.	.
