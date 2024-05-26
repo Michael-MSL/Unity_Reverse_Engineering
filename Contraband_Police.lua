@@ -135,3 +135,9 @@ Cargo__GetProductName	seg000	0000000000039D90	00000021			R	.	.	.	.	.	.	.
 CashPanel2__Init	seg000	00000000000E67D0	0000007B			R	.	.	.	.	.	.	.
 
 CashPanel2__SetCashText	seg000	00000000000E6970	00000156			R	.	.	.	.	.	.	.
+
+CategoryDailyCost__Awake	seg000	0000000000104500	0000004B			R	.	.	.	.	.	.	.
+
+Channel__.ctor	seg000	00000000002C4770	000000B5			R	.	.	.	.	.	.	.
+
+Channel__.ctor_0	seg000	00000000002C4830	000000CC			R	.	.	.	.	.	.	.
