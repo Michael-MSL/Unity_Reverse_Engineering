@@ -129,3 +129,9 @@ CargoTransformData__GetWeight	seg000	000000000003C2B0	00000049			R	.	.	.	.	.	.	.
 CargoTransformData__InitDictionaries	seg000	000000000003C320	00000135			R	.	.	.	.	.	.	.
 
 CargoTransformData__Instantiate	seg000	000000000003C210	00000093			R	.	.	.	.	.	.	.
+
+Cargo__GetProductName	seg000	0000000000039D90	00000021			R	.	.	.	.	.	.	.
+
+CashPanel2__Init	seg000	00000000000E67D0	0000007B			R	.	.	.	.	.	.	.
+
+CashPanel2__SetCashText	seg000	00000000000E6970	00000156			R	.	.	.	.	.	.	.
