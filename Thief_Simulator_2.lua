@@ -139,3 +139,9 @@ CourierCar__.ctor	seg000	000000000007E760	00000012			R	.	.	.	.	.	.	.
 CourierCar__Start	seg000	000000000007E320	000000C9			R	.	.	.	.	.	.	.
 
 Darkbank__DepositMoney	seg000	00000000000A7E60	00000064			R	.	.	.	.	.	.	.
+
+Darkbank__WithdrawMoney	seg000	00000000000A7ED0	00000064			R	.	.	.	.	.	.	.
+
+DamagedAddForce__.ctor	seg000	0000000000083930	0000001D			R	.	.	.	.	.	.	.
+
+DayNightTime__.ctor	seg000	0000000000084660	00000080			R	.	.	.	.	.	.	.
