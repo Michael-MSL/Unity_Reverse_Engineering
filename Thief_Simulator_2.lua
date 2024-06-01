@@ -217,3 +217,9 @@ Garage__Start	seg000	000000000008C2F0	00000031			R	.	.	.	.	.	.	.
 GasDetector__Start	seg000	00000000000A9580	00000016			R	.	.	.	.	.	.	.
 
 GuardAI__.ctor	seg000	000000000008E900	0000001D			R	.	.	.	.	.	.	.
+
+GuardAI__HeardNoise	seg000	000000000008DBA0	000000DC			R	.	.	.	.	.	.	.
+
+GuardAI__HeardNoiseObject	seg000	000000000008DB50	00000048			R	.	.	.	.	.	.	.
+
+GuardAI__Start	seg000	000000000008DD90	0000003A			R	.	.	.	.	.	.	.
