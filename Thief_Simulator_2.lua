@@ -175,3 +175,9 @@ Door__.ctor	seg000	0000000000086B40	00000057			R	.	.	.	.	.	.	.
 Door__Start	seg000	0000000000085A40	00000532			R	.	.	.	.	.	.	.
 
 Doorbell__Start	seg000	0000000000086E90	0000006F			R	.	.	.	.	.	.	.
+
+DrillingCarDoor__BeginDrill	seg000	0000000000087060	0000005C			R	.	.	.	.	.	.	.
+
+DroneManager__.ctor	seg000	00000000000A9220	0000002F			R	.	.	.	.	.	.	.
+
+DroneShopScript__.ctor	seg000	00000000000CCE70	0000002F			R	.	.	.	.	.	.	.
