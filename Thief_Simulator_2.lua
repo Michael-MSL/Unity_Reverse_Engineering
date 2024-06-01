@@ -199,3 +199,9 @@ GameManager__AddSkillPoint	seg000	000000000008B000	00000035			R	.	.	.	.	.	.	.
 GameManager__AddXP	seg000	000000000008B040	00000046			R	.	.	.	.	.	.	.
 
 GameManager__GotCaught	seg000	000000000008A930	0000026D			R	.	.	.	.	.	.	.
+
+GamingIsLove.Footsteps.FootIK__.ctor	seg000	000000000022ECB0	000000A2			R	.	.	.	.	.	.	.
+
+GarageDoorOpen__.ctor	seg000	0000000000055560	00000033			R	.	.	.	.	.	.	.
+
+GarageDoor__.cctor	seg000	00000000000063E0	0000000B			R	.	.	.	.	.	.	.
