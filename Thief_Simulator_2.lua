@@ -241,3 +241,9 @@ HouseDisableOnDistance__.ctor	seg000	00000000000912F0	0000002F			R	.	.	.	.	.	.	.
 HouseDisableOnDistance__Start	seg000	0000000000091190	00000090			R	.	.	.	.	.	.	.
 
 HouseRadio__Start	seg000	0000000000091650	00000027			R	.	.	.	.	.	.	.
+
+HurtPlayer__.ctor	seg000	0000000000091840	0000001D			R	.	.	.	.	.	.	.
+
+ImpactDeformable__.ctor	seg000	000000000004EA20	00000048			R	.	.	.	.	.	.	.
+
+ImpAI__Start	seg000	0000000000091870	00000016			R	.	.	.	.	.	.	.
