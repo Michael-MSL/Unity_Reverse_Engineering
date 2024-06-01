@@ -253,3 +253,9 @@ Impacts__.ctor	seg000	00000000002BF590	0000005F			R	.	.	.	.	.	.	.
 InfoBubble__.ctor	seg000	00000000000DAA10	00000028			R	.	.	.	.	.	.	.
 
 InteriorDoorOpen__.ctor	seg000	00000000000551C0	00000037			R	.	.	.	.	.	.	.
+
+Inventory__.ctor	seg000	000000000009D4B0	00000045			R	.	.	.	.	.	.	.
+
+Inventory__AddMoneyMade	seg000	000000000009BE20	00000032			R	.	.	.	.	.	.	.
+
+Inventory__AutoExitToggle	seg000	0000000000095DB0	00000030			R	.	.	.	.	.	.	.
