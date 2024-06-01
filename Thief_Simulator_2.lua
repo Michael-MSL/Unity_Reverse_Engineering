@@ -223,3 +223,9 @@ GuardAI__HeardNoise	seg000	000000000008DBA0	000000DC			R	.	.	.	.	.	.	.
 GuardAI__HeardNoiseObject	seg000	000000000008DB50	00000048			R	.	.	.	.	.	.	.
 
 GuardAI__Start	seg000	000000000008DD90	0000003A			R	.	.	.	.	.	.	.
+
+GuardAI__StartChase	seg000	000000000008DD50	00000022			R	.	.	.	.	.	.	.
+
+HackingLaptop__.ctor	seg000	000000000008EC60	00000019			R	.	.	.	.	.	.	.
+
+HackingLaptop__OnEnable	seg000	000000000008E930	00000067			R	.	.	.	.	.	.	.
