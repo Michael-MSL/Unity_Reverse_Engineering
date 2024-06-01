@@ -259,3 +259,9 @@ Inventory__.ctor	seg000	000000000009D4B0	00000045			R	.	.	.	.	.	.	.
 Inventory__AddMoneyMade	seg000	000000000009BE20	00000032			R	.	.	.	.	.	.	.
 
 Inventory__AutoExitToggle	seg000	0000000000095DB0	00000030			R	.	.	.	.	.	.	.
+
+Inventory__AutoSaveToggle	seg000	0000000000095E10	00000030			R	.	.	.	.	.	.	.
+
+Inventory__CameraSwayClick	seg000	0000000000095A70	00000030			R	.	.	.	.	.	.	.
+
+Inventory__CarTurnSChange	seg000	0000000000097570	0000005E			R	.	.	.	.	.	.	.
