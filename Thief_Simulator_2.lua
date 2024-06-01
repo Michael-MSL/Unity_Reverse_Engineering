@@ -193,3 +193,9 @@ FreeFlyCamera__.ctor	seg000	000000000004B4B0	0000008F			R	.	.	.	.	.	.	.
 FreelookCamera__.ctor	seg000	000000000004B8C0	00000060			R	.	.	.	.	.	.	.
 
 GameManager__.ctor	seg000	000000000008BFC0	00000034			R	.	.	.	.	.	.	.
+
+GameManager__AddSkillPoint	seg000	000000000008B000	00000035			R	.	.	.	.	.	.	.
+
+GameManager__AddXP	seg000	000000000008B040	00000046			R	.	.	.	.	.	.	.
+
+GameManager__GotCaught	seg000	000000000008A930	0000026D			R	.	.	.	.	.	.	.
