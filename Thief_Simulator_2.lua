@@ -205,3 +205,9 @@ GamingIsLove.Footsteps.FootIK__.ctor	seg000	000000000022ECB0	000000A2			R	.	.	.	
 GarageDoorOpen__.ctor	seg000	0000000000055560	00000033			R	.	.	.	.	.	.	.
 
 GarageDoor__.cctor	seg000	00000000000063E0	0000000B			R	.	.	.	.	.	.	.
+
+GarageOpenNPC__.ctor	seg000	000000000008C5D0	00000012			R	.	.	.	.	.	.	.
+
+Garage_Switch__.ctor	seg000	000000000008C780	0000001D			R	.	.	.	.	.	.	.
+
+Garage_Switch__OpenGarage	seg000	000000000008C640	00000083			R	.	.	.	.	.	.	.
