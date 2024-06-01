@@ -211,3 +211,9 @@ GarageOpenNPC__.ctor	seg000	000000000008C5D0	00000012			R	.	.	.	.	.	.	.
 Garage_Switch__.ctor	seg000	000000000008C780	0000001D			R	.	.	.	.	.	.	.
 
 Garage_Switch__OpenGarage	seg000	000000000008C640	00000083			R	.	.	.	.	.	.	.
+
+Garage__Start	seg000	000000000008C2F0	00000031			R	.	.	.	.	.	.	.
+
+GasDetector__Start	seg000	00000000000A9580	00000016			R	.	.	.	.	.	.	.
+
+GuardAI__.ctor	seg000	000000000008E900	0000001D			R	.	.	.	.	.	.	.
