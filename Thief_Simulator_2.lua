@@ -187,3 +187,9 @@ EngineExtras__.ctor	seg000	00000000002BF400	000000A8			R	.	.	.	.	.	.	.
 Engine__.ctor	seg000	00000000002BF320	000000B3			R	.	.	.	.	.	.	.
 
 FogControl__.ctor	seg000	0000000000006BD0	0000001D			R	.	.	.	.	.	.	.
+
+FreeFlyCamera__.ctor	seg000	000000000004B4B0	0000008F			R	.	.	.	.	.	.	.
+
+FreelookCamera__.ctor	seg000	000000000004B8C0	00000060			R	.	.	.	.	.	.	.
+
+GameManager__.ctor	seg000	000000000008BFC0	00000034			R	.	.	.	.	.	.	.
