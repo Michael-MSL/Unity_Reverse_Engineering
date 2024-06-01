@@ -235,3 +235,9 @@ HackingPuzzleLoadLevel__Start	seg000	000000000008EF70	00000077			R	.	.	.	.	.	.	.
 HeavyItemsShed__.ctor	seg000	000000000008F660	0000000F			R	.	.	.	.	.	.	.
 
 HidingSpot__.ctor	seg000	0000000000090910	0000003A			R	.	.	.	.	.	.	.
+
+HouseDisableOnDistance__.ctor	seg000	00000000000912F0	0000002F			R	.	.	.	.	.	.	.
+
+HouseDisableOnDistance__Start	seg000	0000000000091190	00000090			R	.	.	.	.	.	.	.
+
+HouseRadio__Start	seg000	0000000000091650	00000027			R	.	.	.	.	.	.	.
