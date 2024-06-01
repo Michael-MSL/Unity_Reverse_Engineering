@@ -247,3 +247,9 @@ HurtPlayer__.ctor	seg000	0000000000091840	0000001D			R	.	.	.	.	.	.	.
 ImpactDeformable__.ctor	seg000	000000000004EA20	00000048			R	.	.	.	.	.	.	.
 
 ImpAI__Start	seg000	0000000000091870	00000016			R	.	.	.	.	.	.	.
+
+Impacts__.ctor	seg000	00000000002BF590	0000005F			R	.	.	.	.	.	.	.
+
+InfoBubble__.ctor	seg000	00000000000DAA10	00000028			R	.	.	.	.	.	.	.
+
+InteriorDoorOpen__.ctor	seg000	00000000000551C0	00000037			R	.	.	.	.	.	.	.
