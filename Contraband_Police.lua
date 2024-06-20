@@ -159,3 +159,9 @@ Cockpit_doll__.ctor	seg000	000000000011AF30	00000012			R	.	.	.	.	.	.	.
 Cockpit_doll__Start	seg000	000000000011AD20	000000CF			R	.	.	.	.	.	.	.
 
 Cockpit_doll_visual__Show	seg000	000000000011AFE0	00000052			R	.	.	.	.	.	.	.
+
+Cockpit_doll_visual__Start	seg000	000000000011AF60	0000002D			R	.	.	.	.	.	.	.
+
+CollectibleItem__PickUp	seg000	000000000007B840	000000D9			R	.	.	.	.	.	.	.
+
+Collectibles__OnPickedUp	seg000	000000000012E4D0	00000055			R	.	.	.	.	.	.	.
