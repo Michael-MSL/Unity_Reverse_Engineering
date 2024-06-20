@@ -225,3 +225,11 @@ DayCycle__DisableTimeProgress	seg000	00000000000987E0	00000028			R	.	.	.	.	.	.	.
 DayCycle__EnableTimeProgress	seg000	0000000000098700	00000033			R	.	.	.	.	.	.	.
 
 DayCycle__GetEndWorkDate	seg000	0000000000098CB0	0000004D			R	.	.	.	.	.	.	.
+
+DayCycle__IntroDay5MidnightEvent	seg000	00000000000991E0	00000082			R	.	.	.	.	.	.	.
+
+DayCycle__IntroDay5Sleep	seg000	0000000000099D00	0000012F			R	.	.	.	.	.	.	.
+
+DayCycle__MidnightEvent	seg000	0000000000098EA0	00000157			R	.	.	.	.	.	.	.
+
+DayCycle__MidnightSkipSummary	seg000	00000000000990D0	00000109			R	.	.	.	.	.	.	.
