@@ -255,3 +255,11 @@ DevConsole__Awake	seg000	00000000000EAAF0	00000054			R	.	.	.	.	.	.	.
 DevConsole__ChangeStaticColliderLayer	seg000	00000000000EF3C0	0000006C			R	.	.	.	.	.	.	.
 
 DevConsole__ClearInspection	seg000	00000000000F1910	000001CE			R	.	.	.	.	.	.	.
+
+DevConsole__DebugCargo	seg000	00000000000F1560	000002C5			R	.	.	.	.	.	.	.
+
+DevConsole__DebugComponents	seg000	00000000000EF500	00000071			R	.	.	.	.	.	.	.
+
+DevConsole__DebugFSM	seg000	00000000000EDD00	00000056			R	.	.	.	.	.	.	.
+
+DevConsole__DebugStats	seg000	00000000000F03F0	000001C9			R	.	.	.	.	.	.	.
