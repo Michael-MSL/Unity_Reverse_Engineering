@@ -249,3 +249,9 @@ DayCycle__SurvivalMorningSummary	seg000	0000000000099000	000000D0			R	.	.	.	.	.	
 DayStart__OnShow	seg000	00000000000E91C0	00000124			R	.	.	.	.	.	.	.
 
 DevConsole__AIBarksEnable	seg000	00000000000ED250	0000005F			R	.	.	.	.	.	.	.
+
+DevConsole__Awake	seg000	00000000000EAAF0	00000054			R	.	.	.	.	.	.	.
+
+DevConsole__ChangeStaticColliderLayer	seg000	00000000000EF3C0	0000006C			R	.	.	.	.	.	.	.
+
+DevConsole__ClearInspection	seg000	00000000000F1910	000001CE			R	.	.	.	.	.	.	.
