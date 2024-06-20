@@ -153,3 +153,9 @@ Character__AwakeInit	seg000	0000000000040130	000000BE			R	.	.	.	.	.	.	.
 Character__GetFolderPartName	seg000	00000000002A7BE0	00000054			R	.	.	.	.	.	.	.
 
 Clock__Update	seg000	00000000000A36C0	000000C0			R	.	.	.	.	.	.	.
+
+Cockpit_doll__.ctor	seg000	000000000011AF30	00000012			R	.	.	.	.	.	.	.
+
+Cockpit_doll__Start	seg000	000000000011AD20	000000CF			R	.	.	.	.	.	.	.
+
+Cockpit_doll_visual__Show	seg000	000000000011AFE0	00000052			R	.	.	.	.	.	.	.
