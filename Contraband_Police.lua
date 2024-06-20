@@ -203,3 +203,9 @@ Crosshair__.ctor	seg000	00000000000E8120	00000028			R	.	.	.	.	.	.	.
 Crosshair__Init	seg000	00000000000E7AF0	000001E4			R	.	.	.	.	.	.	.
 
 Crosshair__Restart	seg000	00000000000E7FE0	0000001D			R	.	.	.	.	.	.	.
+
+Crosshair__Set	seg000	00000000000E8060	0000001C			R	.	.	.	.	.	.	.
+
+DailyStat__.ctor	seg000	00000000000DB5B0	000003ED			R	.	.	.	.	.	.	.
+
+DamagedFence__Awake	seg000	00000000000A4290	00000045			R	.	.	.	.	.	.	.
