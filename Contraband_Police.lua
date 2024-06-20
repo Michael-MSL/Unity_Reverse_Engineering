@@ -217,3 +217,11 @@ DamagedPartsController__Awake	seg000	000000000011B6F0	0000002D			R	.	.	.	.	.	.	.
 DayCycleData__.ctor	seg000	0000000000274FF0	0000006B			R	.	.	.	.	.	.	.
 
 DayCycle__.ctor	seg000	0000000000099F10	00000025			R	.	.	.	.	.	.	.
+
+DayCycle__Awake	seg000	00000000000984A0	000001C7			R	.	.	.	.	.	.	.
+
+DayCycle__DisableTimeProgress	seg000	00000000000987E0	00000028			R	.	.	.	.	.	.	.
+
+DayCycle__EnableTimeProgress	seg000	0000000000098700	00000033			R	.	.	.	.	.	.	.
+
+DayCycle__GetEndWorkDate	seg000	0000000000098CB0	0000004D			R	.	.	.	.	.	.	.
