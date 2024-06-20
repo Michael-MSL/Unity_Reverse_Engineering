@@ -241,3 +241,11 @@ DayCycle__RespawnGuards	seg000	0000000000099330	00000026			R	.	.	.	.	.	.	.
 DayCycle__SetDateTime	seg000	00000000000989A0	00000081			R	.	.	.	.	.	.	.
 
 DayCycle__SetMorningInstant	seg000	0000000000099BC0	0000005C			R	.	.	.	.	.	.	.
+
+DayCycle__Sleep	seg000	0000000000099C70	00000078			R	.	.	.	.	.	.	.
+
+DayCycle__SurvivalMorningSummary	seg000	0000000000099000	000000D0			R	.	.	.	.	.	.	.
+
+DayStart__OnShow	seg000	00000000000E91C0	00000124			R	.	.	.	.	.	.	.
+
+DevConsole__AIBarksEnable	seg000	00000000000ED250	0000005F			R	.	.	.	.	.	.	.
