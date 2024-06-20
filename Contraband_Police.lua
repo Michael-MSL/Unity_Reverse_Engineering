@@ -233,3 +233,11 @@ DayCycle__IntroDay5Sleep	seg000	0000000000099D00	0000012F			R	.	.	.	.	.	.	.
 DayCycle__MidnightEvent	seg000	0000000000098EA0	00000157			R	.	.	.	.	.	.	.
 
 DayCycle__MidnightSkipSummary	seg000	00000000000990D0	00000109			R	.	.	.	.	.	.	.
+
+DayCycle__PlayerWakeup	seg000	00000000000992B0	00000074			R	.	.	.	.	.	.	.
+
+DayCycle__RespawnGuards	seg000	0000000000099330	00000026			R	.	.	.	.	.	.	.
+
+DayCycle__SetDateTime	seg000	00000000000989A0	00000081			R	.	.	.	.	.	.	.
+
+DayCycle__SetMorningInstant	seg000	0000000000099BC0	0000005C			R	.	.	.	.	.	.	.
