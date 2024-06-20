@@ -197,3 +197,9 @@ ContrabandMarker__.ctor	seg000	00000000000446E0	0000003E			R	.	.	.	.	.	.	.
 ConvoyEnemyVehicle__.ctor	seg000	0000000000281750	00000085			R	.	.	.	.	.	.	.
 
 ConvoyEnemyVehicle__DestroyVeh	seg000	00000000002818D0	00000014			R	.	.	.	.	.	.	.
+
+Crosshair__.ctor	seg000	00000000000E8120	00000028			R	.	.	.	.	.	.	.
+
+Crosshair__Init	seg000	00000000000E7AF0	000001E4			R	.	.	.	.	.	.	.
+
+Crosshair__Restart	seg000	00000000000E7FE0	0000001D			R	.	.	.	.	.	.	.
