@@ -165,3 +165,9 @@ Cockpit_doll_visual__Start	seg000	000000000011AF60	0000002D			R	.	.	.	.	.	.	.
 CollectibleItem__PickUp	seg000	000000000007B840	000000D9			R	.	.	.	.	.	.	.
 
 Collectibles__OnPickedUp	seg000	000000000012E4D0	00000055			R	.	.	.	.	.	.	.
+
+ContrabandData__.ctor	seg000	000000000025C670	000002A0			R	.	.	.	.	.	.	.
+
+ContrabandDetailedPlacement__Translate	seg000	0000000000044020	000004CB			R	.	.	.	.	.	.	.
+
+ContrabandDetectorTune__Show	seg000	0000000000044E10	0000006B			R	.	.	.	.	.	.	.
