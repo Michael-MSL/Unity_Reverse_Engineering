@@ -331,3 +331,9 @@ DevConsole__SavePlayerPosRotToGO	seg000	00000000000ED580	0000001B			R	.	.	.	.	.	
 DevConsole__SetHandbookLockStage	seg000	00000000000ED360	00000040			R	.	.	.	.	.	.	.
 
 DevConsole__SetLevel	seg000	00000000000ECEF0	00000065			R	.	.	.	.	.	.	.
+
+DevConsole__SetMissionStage	seg000	00000000000ED960	0000014F			R	.	.	.	.	.	.	.
+
+DevConsole__SetPlayerFraction	seg000	00000000000ED3C0	00000052			R	.	.	.	.	.	.	.
+
+DevConsole__SetWeather	seg000	00000000000EF940	00000047			R	.	.	.	.	.	.	.
