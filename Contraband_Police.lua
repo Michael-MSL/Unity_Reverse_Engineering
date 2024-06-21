@@ -349,3 +349,9 @@ DevConsole__SpawnEnemy	seg000	00000000000EFB10	00000090			R	.	.	.	.	.	.	.
 DevConsole__SpawnNewcomer	seg000	00000000000EF090	000001D2			R	.	.	.	.	.	.	.
 
 DevConsole__SpawnRunaway	seg000	00000000000EC960	00000017			R	.	.	.	.	.	.	.
+
+DevConsole__StartTime	seg000	00000000000ED670	0000001B			R	.	.	.	.	.	.	.
+
+DevConsole__StopTime	seg000	00000000000ED650	0000001B			R	.	.	.	.	.	.	.
+
+DevConsole__StopTraffic	seg000	00000000000EEED0	00000073			R	.	.	.	.	.	.	.
