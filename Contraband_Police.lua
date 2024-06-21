@@ -343,3 +343,9 @@ DevConsole__ShowDemoPanel	seg000	00000000000ED850	0000001E			R	.	.	.	.	.	.	.
 DevConsole__ShowMenu	seg000	00000000000EDD60	00000019			R	.	.	.	.	.	.	.
 
 DevConsole__SkipFinal	seg000	00000000000F0FB0	0000001A			R	.	.	.	.	.	.	.
+
+DevConsole__SpawnEnemy	seg000	00000000000EFB10	00000090			R	.	.	.	.	.	.	.
+
+DevConsole__SpawnNewcomer	seg000	00000000000EF090	000001D2			R	.	.	.	.	.	.	.
+
+DevConsole__SpawnRunaway	seg000	00000000000EC960	00000017			R	.	.	.	.	.	.	.
