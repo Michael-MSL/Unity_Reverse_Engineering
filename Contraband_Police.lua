@@ -337,3 +337,9 @@ DevConsole__SetMissionStage	seg000	00000000000ED960	0000014F			R	.	.	.	.	.	.	.
 DevConsole__SetPlayerFraction	seg000	00000000000ED3C0	00000052			R	.	.	.	.	.	.	.
 
 DevConsole__SetWeather	seg000	00000000000EF940	00000047			R	.	.	.	.	.	.	.
+
+DevConsole__ShowDemoPanel	seg000	00000000000ED850	0000001E			R	.	.	.	.	.	.	.
+
+DevConsole__ShowMenu	seg000	00000000000EDD60	00000019			R	.	.	.	.	.	.	.
+
+DevConsole__SkipFinal	seg000	00000000000F0FB0	0000001A			R	.	.	.	.	.	.	.
