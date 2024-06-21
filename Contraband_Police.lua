@@ -301,3 +301,9 @@ DevConsole__InitDictionary	seg000	00000000000EAB70	00001544			R	.	.	.	.	.	.	.
 DevConsole__InitStandardLists	seg000	00000000000ECA20	00000135			R	.	.	.	.	.	.	.
 
 DevConsole__KinematicVehicles	seg000	00000000000EF2B0	00000073			R	.	.	.	.	.	.	.
+
+DevConsole__LastEnemy	seg000	00000000000EC980	00000091			R	.	.	.	.	.	.	.
+
+DevConsole__MaxPost	seg000	00000000000F1200	00000109			R	.	.	.	.	.	.	.
+
+DevConsole__Mosin	seg000	00000000000EC790	00000195			R	.	.	.	.	.	.	.
