@@ -361,3 +361,9 @@ DevConsole__TeleportPlayer	seg000	00000000000EDBF0	00000036			R	.	.	.	.	.	.	.
 DevConsole__Vodka	seg000	00000000000F1830	00000025			R	.	.	.	.	.	.	.
 
 DevConsole__Warning	seg000	00000000000F1B20	0000000E			R	.	.	.	.	.	.	.
+
+DevConsole__WeakGun	seg000	00000000000ED780	0000007D			R	.	.	.	.	.	.	.
+
+DocumentsDataGenerator__.cctor	seg000	0000000000049810	000003B5			R	.	.	.	.	.	.	.
+
+DocumentsData__AddVehicleDocs	seg000	000000000004C710	00000229			R	.	.	.	.	.	.	.
