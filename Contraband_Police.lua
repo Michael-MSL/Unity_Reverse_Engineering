@@ -445,3 +445,9 @@ GameMessagesCreator__ArrestEndedInspection	seg000	00000000000E3A20	00000086			R	
 GameMessagesCreator__Bribe	seg000	00000000000E2D70	00000063			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__CaughtOnBribe	seg000	00000000000E3520	00000063			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__CollectibleFound	seg000	00000000000E2670	00000137			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__ContrabandFound	seg000	00000000000E2DE0	00000067			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__ContrabandItemFound	seg000	00000000000E2F50	00000059			R	.	.	.	.	.	.	.
