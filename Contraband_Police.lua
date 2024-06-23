@@ -421,3 +421,9 @@ GameDataSave__DeleteFile	seg000	000000000009C040	00000044			R	.	.	.	.	.	.	.
 GameDataSave__DeleteGameSaves	seg000	000000000009BC80	00000028			R	.	.	.	.	.	.	.
 
 GameDataSave__GetFilePathToSave	seg000	000000000009BB70	00000058			R	.	.	.	.	.	.	.
+
+GameDataSave__GetSavePrefix	seg000	000000000009B9D0	0000002D			R	.	.	.	.	.	.	.
+
+GameDataSave__GetSavedFilePath	seg000	000000000009BA20	0000004C			R	.	.	.	.	.	.	.
+
+GameDataSave__GetSlotSaveDirectory	seg000	000000000009B9B0	00000020			R	.	.	.	.	.	.	.
