@@ -475,3 +475,9 @@ GameMessagesCreator__ItemsAfterIntro	seg000	00000000000E3710	0000005B			R	.	.	.	
 GameMessagesCreator__KilledFollowers	seg000	00000000000E2EE0	00000067			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__LevelUp	seg000	00000000000E3770	0000004D			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__MissionRejected	seg000	00000000000E29A0	00000052			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__NewRegulations	seg000	00000000000E3880	0000005B			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__NewSmugglers	seg000	00000000000E38E0	0000005B			R	.	.	.	.	.	.	.
