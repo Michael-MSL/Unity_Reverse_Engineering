@@ -415,3 +415,9 @@ EntryPermit__Setup	seg000	000000000004F1B0	00000028			R	.	.	.	.	.	.	.
 Footsteps__.ctor	seg000	0000000000042CE0	0000003A			R	.	.	.	.	.	.	.
 
 FractionSettings__.ctor	seg000	000000000002BCE0	00000028			R	.	.	.	.	.	.	.
+
+GameDataSave__DeleteFile	seg000	000000000009C040	00000044			R	.	.	.	.	.	.	.
+
+GameDataSave__DeleteGameSaves	seg000	000000000009BC80	00000028			R	.	.	.	.	.	.	.
+
+GameDataSave__GetFilePathToSave	seg000	000000000009BB70	00000058			R	.	.	.	.	.	.	.
