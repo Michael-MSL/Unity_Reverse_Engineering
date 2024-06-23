@@ -463,3 +463,9 @@ GameMessagesCreator__DailyMaintenanceSurvival	seg000	00000000000E31D0	00000072		
 GameMessagesCreator__DailyUpkeep	seg000	00000000000E2C20	00000063			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__EndOfWork	seg000	00000000000E3AB0	0000005A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__FatalAccident	seg000	00000000000E2A80	00000077			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__HeavyWounded	seg000	00000000000E27B0	00000070			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__InflationIncreased	seg000	00000000000E3BE0	0000005B			R	.	.	.	.	.	.	.
