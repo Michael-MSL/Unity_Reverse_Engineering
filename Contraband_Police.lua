@@ -391,3 +391,9 @@ DriverShopUI__TranslateContent	seg000	00000000000F52E0	0000009A			R	.	.	.	.	.	.	
 DriverShopUI__Update	seg000	00000000000F51C0	00000112			R	.	.	.	.	.	.	.
 
 DriverShop__Init	seg000	000000000007DA10	00000039			R	.	.	.	.	.	.	.
+
+DurabilityBar__Init	seg000	00000000000F6270	00000064			R	.	.	.	.	.	.	.
+
+Economy_XP__.cctor	seg000	0000000000058DC0	0000003F			R	.	.	.	.	.	.	.
+
+Economy__.cctor	seg000	0000000000058920	00000482			R	.	.	.	.	.	.	.
