@@ -433,3 +433,9 @@ GameDataSave__GetSlotsPaths	seg000	000000000009BB10	00000051			R	.	.	.	.	.	.	.
 GameDataSave__Save	seg000	000000000009BCE0	000000D8			R	.	.	.	.	.	.	.
 
 GameDataSave__SaveFile	seg000	000000000009BDE0	000000A0			R	.	.	.	.	.	.	.
+
+GameMessageData__.ctor	seg000	0000000000298060	0000004E			R	.	.	.	.	.	.	.
+
+GameMessage__.ctor	seg000	00000000000E2000	0000002F			R	.	.	.	.	.	.	.
+
+GameMessage__Init	seg000	00000000000E1A90	000000E7			R	.	.	.	.	.	.	.
