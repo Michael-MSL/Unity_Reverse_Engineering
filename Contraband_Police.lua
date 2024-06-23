@@ -427,3 +427,9 @@ GameDataSave__GetSavePrefix	seg000	000000000009B9D0	0000002D			R	.	.	.	.	.	.	.
 GameDataSave__GetSavedFilePath	seg000	000000000009BA20	0000004C			R	.	.	.	.	.	.	.
 
 GameDataSave__GetSlotSaveDirectory	seg000	000000000009B9B0	00000020			R	.	.	.	.	.	.	.
+
+GameDataSave__GetSlotsPaths	seg000	000000000009BB10	00000051			R	.	.	.	.	.	.	.
+
+GameDataSave__Save	seg000	000000000009BCE0	000000D8			R	.	.	.	.	.	.	.
+
+GameDataSave__SaveFile	seg000	000000000009BDE0	000000A0			R	.	.	.	.	.	.	.
