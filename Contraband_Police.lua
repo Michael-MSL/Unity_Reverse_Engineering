@@ -403,3 +403,9 @@ EndPanel__.ctor	seg000	00000000000F68D0	00000012			R	.	.	.	.	.	.	.
 EndPanel__Awake	seg000	00000000000F6390	000000FC			R	.	.	.	.	.	.	.
 
 EndPanel__OnShowingFinished	seg000	00000000000F6610	0000005D			R	.	.	.	.	.	.	.
+
+EndPanel__Set	seg000	00000000000F6490	0000016F			R	.	.	.	.	.	.	.
+
+EndPanel__SetPrologueEnd	seg000	00000000000F67E0	000000DA			R	.	.	.	.	.	.	.
+
+EnemyZone__Awake	seg000	000000000002B8A0	0000009A			R	.	.	.	.	.	.	.
