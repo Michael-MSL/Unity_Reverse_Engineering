@@ -457,3 +457,9 @@ GameMessagesCreator__ContrabandTransferred	seg000	00000000000E3380	0000007A			R	
 GameMessagesCreator__CorrectArrest	seg000	00000000000E2CF0	00000062			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__DailyMaintenance	seg000	00000000000E3100	000000C4			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__DailyMaintenanceSurvival	seg000	00000000000E31D0	00000072			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__DailyUpkeep	seg000	00000000000E2C20	00000063			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__EndOfWork	seg000	00000000000E3AB0	0000005A			R	.	.	.	.	.	.	.
