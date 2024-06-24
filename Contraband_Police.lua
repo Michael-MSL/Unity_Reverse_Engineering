@@ -481,3 +481,9 @@ GameMessagesCreator__MissionRejected	seg000	00000000000E29A0	00000052			R	.	.	.	
 GameMessagesCreator__NewRegulations	seg000	00000000000E3880	0000005B			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__NewSmugglers	seg000	00000000000E38E0	0000005B			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__NewcomerKilled	seg000	00000000000E36B0	0000005B			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__NewcomerPanicked	seg000	00000000000E3B70	00000066			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__OwnVehicleDestroyed	seg000	00000000000E3640	00000066			R	.	.	.	.	.	.	.
