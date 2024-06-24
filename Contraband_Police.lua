@@ -523,3 +523,9 @@ GameMessagesCreator__Treatment	seg000	00000000000E39B0	00000063			R	.	.	.	.	.	.	
 GameMessagesCreator__UnjustifiedArrest	seg000	00000000000E2C90	0000005A			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__Upgrade	seg000	00000000000E2BA0	0000007A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__VehicleDamage	seg000	00000000000E2E50	00000084			R	.	.	.	.	.	.	.
+
+Garage__CreateNewCar	seg000	000000000008B410	0000002E			R	.	.	.	.	.	.	.
+
+Garage__GetGarageHumanSpawner	seg000	000000000008BC40	0000001A			R	.	.	.	.	.	.	.
