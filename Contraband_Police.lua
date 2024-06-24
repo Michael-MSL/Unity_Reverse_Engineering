@@ -493,3 +493,9 @@ GameMessagesCreator__PlayerCrossedTheBorder	seg000	00000000000E2590	0000005B			R
 GameMessagesCreator__PrisonBreak	seg000	00000000000E37C0	0000005A			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__PrisonBreakVehicle	seg000	00000000000E3820	0000005A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PrisonFull	seg000	00000000000E3090	00000062			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PrisonerTransferred	seg000	00000000000E2B00	0000009F			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PrisonersTransferred	seg000	00000000000E3300	0000007A			R	.	.	.	.	.	.	.
