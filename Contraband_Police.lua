@@ -603,3 +603,9 @@ Human__DisableWholeArmature	seg000	0000000000063AB0	0000001C			R	.	.	.	.	.	.	.
 Human__ForceBehaviourSetAndClear	seg000	00000000000661A0	00000032			R	.	.	.	.	.	.	.
 
 Human__GetNameWithID	seg000	0000000000062920	00000021			R	.	.	.	.	.	.	.
+
+Human__HideHand	seg000	0000000000063F20	00000013			R	.	.	.	.	.	.	.
+
+Human__InitDebugPanel	seg000	0000000000063140	00000080			R	.	.	.	.	.	.	.
+
+Human__IsBartender	seg000	00000000000668F0	00000026			R	.	.	.	.	.	.	.
