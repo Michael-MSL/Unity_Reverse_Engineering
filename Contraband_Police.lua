@@ -577,3 +577,9 @@ Handbook__Restart	seg000	000000000004FCC0	00000034			R	.	.	.	.	.	.	.
 Handbook__SetNextPage	seg000	000000000004FD00	00000041			R	.	.	.	.	.	.	.
 
 Handbook__SetPreviousPage	seg000	000000000004FD50	00000026			R	.	.	.	.	.	.	.
+
+Handbook__Setup	seg000	000000000004F500	000002D2			R	.	.	.	.	.	.	.
+
+Handbook__ToCSelection	seg000	000000000004FD80	0000007F			R	.	.	.	.	.	.	.
+
+Handbook__TranslateCover	seg000	000000000004F820	00000073			R	.	.	.	.	.	.	.
