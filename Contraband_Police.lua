@@ -597,3 +597,9 @@ HumanAimController__.ctor	seg000	0000000000066A60	000000A5			R	.	.	.	.	.	.	.
 HumanAimController__DebugCanShoot	seg000	0000000000067570	0000006F			R	.	.	.	.	.	.	.
 
 Human__.ctor	seg000	0000000000066950	00000077			R	.	.	.	.	.	.	.
+
+Human__DisableWholeArmature	seg000	0000000000063AB0	0000001C			R	.	.	.	.	.	.	.
+
+Human__ForceBehaviourSetAndClear	seg000	00000000000661A0	00000032			R	.	.	.	.	.	.	.
+
+Human__GetNameWithID	seg000	0000000000062920	00000021			R	.	.	.	.	.	.	.
