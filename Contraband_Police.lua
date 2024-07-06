@@ -717,3 +717,9 @@ IntroDay1__PrepareVehicles	seg000	0000000000074D80	00000181			R	.	.	.	.	.	.	.
 IntroDay1__RegisterEvents	seg000	00000000000750C0	00000476			R	.	.	.	.	.	.	.
 
 IntroDay1__RunDay	seg000	0000000000074F20	00000036			R	.	.	.	.	.	.	.
+
+IntroDay1__VehicleStoppedIZ	seg000	0000000000075A20	000000CA			R	.	.	.	.	.	.	.
+
+IntroDay__DisableServicePhone	seg000	0000000000074610	0000004B			R	.	.	.	.	.	.	.
+
+IntroDay__EnablePointer	seg000	0000000000074860	00000137			R	.	.	.	.	.	.	.
