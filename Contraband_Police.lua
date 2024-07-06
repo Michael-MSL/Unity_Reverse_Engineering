@@ -645,3 +645,9 @@ InfoBoard__OnEnable	seg000	000000000008C2C0	00000037			R	.	.	.	.	.	.	.
 InfoBoard__OnTriggerEnter	seg000	000000000008C390	000000A2			R	.	.	.	.	.	.	.
 
 InfoBoard__OnTriggerExit	seg000	000000000008C450	00000031			R	.	.	.	.	.	.	.
+
+InfoGraphic__Awake	seg000	00000000000F8760	0000001D			R	.	.	.	.	.	.	.
+
+InfoGraphic__Close	seg000	00000000000F8970	00000078			R	.	.	.	.	.	.	.
+
+InfoGraphic__OnHide	seg000	00000000000F89F0	00000098			R	.	.	.	.	.	.	.
