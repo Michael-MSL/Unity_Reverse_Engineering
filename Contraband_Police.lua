@@ -657,3 +657,9 @@ InfoGraphic__OnShowingFinished	seg000	00000000000F8920	00000041			R	.	.	.	.	.	.	
 InspectionReportData__CheckDocuments	seg000	0000000000051E50	000002C9			R	.	.	.	.	.	.	.
 
 InspectionZone__GetMaxWeight	seg000	000000000008EF50	00000057			R	.	.	.	.	.	.	.
+
+InspectionZone__Init	seg000	000000000008D6A0	0000004C			R	.	.	.	.	.	.	.
+
+InspectionZone__OnReturnToPostFailed	seg000	000000000008ED00	00000044			R	.	.	.	.	.	.	.
+
+InspectionZone__OnReturnToPostSucceded	seg000	000000000008ED50	00000031			R	.	.	.	.	.	.	.
