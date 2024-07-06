@@ -699,3 +699,9 @@ IntroDay1__InviteLeverPulled	seg000	0000000000075950	00000049			R	.	.	.	.	.	.	.
 IntroDay1__OnEnteredPost	seg000	0000000000075770	00000077			R	.	.	.	.	.	.	.
 
 IntroDay1__OnInspectionReportShown	seg000	0000000000075DA0	0000007E			R	.	.	.	.	.	.	.
+
+IntroDay1__OnPlayerApproachedPost	seg000	00000000000755E0	0000006E			R	.	.	.	.	.	.	.
+
+IntroDay1__OptionSelected	seg000	0000000000075E20	00000042			R	.	.	.	.	.	.	.
+
+IntroDay1__PlayerEnteredTrailer	seg000	0000000000076040	00000039			R	.	.	.	.	.	.	.
