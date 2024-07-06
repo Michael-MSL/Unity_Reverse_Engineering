@@ -627,3 +627,9 @@ Human__OnVanished	seg000	0000000000066130	0000001E			R	.	.	.	.	.	.	.
 Human__OnVehicleDespawn	seg000	00000000000657F0	0000005A			R	.	.	.	.	.	.	.
 
 Human__SetCurrentVehicle	seg000	0000000000064070	0000002F			R	.	.	.	.	.	.	.
+
+Human__StopVehicle	seg000	00000000000645E0	000000D0			R	.	.	.	.	.	.	.
+
+Human__TradeInviteBark	seg000	0000000000064B80	00000014			R	.	.	.	.	.	.	.
+
+Human__TryCloseInteractionPanelAndDeselectIO	seg000	00000000000658F0	00000045			R	.	.	.	.	.	.	.
