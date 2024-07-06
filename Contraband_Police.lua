@@ -639,3 +639,9 @@ Human__TryGiveBribe	seg000	0000000000065190	0000003C			R	.	.	.	.	.	.	.
 Human__TrySetPrisonClothes	seg000	0000000000065700	00000089			R	.	.	.	.	.	.	.
 
 InfoBoard__OnDisable	seg000	000000000008C300	00000037			R	.	.	.	.	.	.	.
+
+InfoBoard__OnEnable	seg000	000000000008C2C0	00000037			R	.	.	.	.	.	.	.
+
+InfoBoard__OnTriggerEnter	seg000	000000000008C390	000000A2			R	.	.	.	.	.	.	.
+
+InfoBoard__OnTriggerExit	seg000	000000000008C450	00000031			R	.	.	.	.	.	.	.
