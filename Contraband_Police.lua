@@ -675,3 +675,9 @@ InspectionZone__PreInit	seg000	000000000008D580	00000115			R	.	.	.	.	.	.	.
 InspectionZone__ShowSmugglerAuditSummary	seg000	000000000008D930	00000150			R	.	.	.	.	.	.	.
 
 InspectionZone__VehicleHasPassed	seg000	000000000008E620	000005D3			R	.	.	.	.	.	.	.
+
+InspectionZone__VehicleHasReturned	seg000	000000000008E020	000004BB			R	.	.	.	.	.	.
+
+IntroDay1__DocumentsFieldSelected	seg000	0000000000075C50	00000095			R	.	.	.	.	.	.	.
+
+IntroDay1__DocumentsTaken	seg000	0000000000075AF0	0000007E			R	.	.	.	.	.	.	.	.
