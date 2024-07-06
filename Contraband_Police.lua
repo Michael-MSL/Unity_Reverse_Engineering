@@ -681,3 +681,9 @@ InspectionZone__VehicleHasReturned	seg000	000000000008E020	000004BB			R	.	.	.	.	
 IntroDay1__DocumentsFieldSelected	seg000	0000000000075C50	00000095			R	.	.	.	.	.	.	.
 
 IntroDay1__DocumentsTaken	seg000	0000000000075AF0	0000007E			R	.	.	.	.	.	.	.	.
+
+IntroDay1__DriverLeftInspectionZone	seg000	0000000000075E70	0000002C			R	.	.	.	.	.	.	.
+
+IntroDay1__DriverPassed	seg000	0000000000075EA0	00000083			R	.	.	.	.	.	.	.
+
+IntroDay1__DriverReturned	seg000	0000000000075F30	00000064			R	.	.	.	.	.	.	.
