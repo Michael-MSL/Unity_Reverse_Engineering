@@ -621,3 +621,9 @@ Human__OnDissolveStarted	seg000	0000000000066110	0000001D			R	.	.	.	.	.	.	.
 Human__OnKilled	seg000	0000000000065960	00000571			R	.	.	.	.	.	.	.
 
 Human__OnLeaveInspection	seg000	0000000000064C00	00000031			R	.	.	.	.	.	.	.
+
+Human__OnVanished	seg000	0000000000066130	0000001E			R	.	.	.	.	.	.	.
+
+Human__OnVehicleDespawn	seg000	00000000000657F0	0000005A			R	.	.	.	.	.	.	.
+
+Human__SetCurrentVehicle	seg000	0000000000064070	0000002F			R	.	.	.	.	.	.	.
