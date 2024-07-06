@@ -723,3 +723,11 @@ IntroDay1__VehicleStoppedIZ	seg000	0000000000075A20	000000CA			R	.	.	.	.	.	.	.
 IntroDay__DisableServicePhone	seg000	0000000000074610	0000004B			R	.	.	.	.	.	.	.
 
 IntroDay__EnablePointer	seg000	0000000000074860	00000137			R	.	.	.	.	.	.	.
+
+IntroDay__EnableTrigger	seg000	0000000000074AD0	0000002D			R	.	.	.	.	.	.	.
+
+IntroDay__GetWaypoint	seg000	0000000000074680	000001D8			R	.	.	.	.	.	.	.
+
+IntroDay__HideArrow2D	seg000	0000000000074AB0	00000016			R	.	.	.	.	.	.	.
+
+IntroDay__PreInit	seg000	0000000000074430	00000107			R	.	.	.	.	.	.	.
