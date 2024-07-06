@@ -687,3 +687,9 @@ IntroDay1__DriverLeftInspectionZone	seg000	0000000000075E70	0000002C			R	.	.	.	.
 IntroDay1__DriverPassed	seg000	0000000000075EA0	00000083			R	.	.	.	.	.	.	.
 
 IntroDay1__DriverReturned	seg000	0000000000075F30	00000064			R	.	.	.	.	.	.	.
+
+IntroDay1__DriverStoppedOnIZ	seg000	00000000000759A0	00000052			R	.	.	.	.	.	.	.
+
+IntroDay1__DutyFolderPickedUp	seg000	00000000000757F0	00000048			R	.	.	.	.	.	.	.
+
+IntroDay1__DutyFolderShown	seg000	0000000000075BB0	0000008D			R	.	.	.	.	.	.	.
