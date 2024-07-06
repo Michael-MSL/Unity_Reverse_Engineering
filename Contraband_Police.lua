@@ -693,3 +693,9 @@ IntroDay1__DriverStoppedOnIZ	seg000	00000000000759A0	00000052			R	.	.	.	.	.	.	.
 IntroDay1__DutyFolderPickedUp	seg000	00000000000757F0	00000048			R	.	.	.	.	.	.	.
 
 IntroDay1__DutyFolderShown	seg000	0000000000075BB0	0000008D			R	.	.	.	.	.	.	.
+
+IntroDay1__InviteLeverPulled	seg000	0000000000075950	00000049			R	.	.	.	.	.	.	.
+
+IntroDay1__OnEnteredPost	seg000	0000000000075770	00000077			R	.	.	.	.	.	.	.
+
+IntroDay1__OnInspectionReportShown	seg000	0000000000075DA0	0000007E			R	.	.	.	.	.	.	.
