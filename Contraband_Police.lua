@@ -663,3 +663,9 @@ InspectionZone__Init	seg000	000000000008D6A0	0000004C			R	.	.	.	.	.	.	.
 InspectionZone__OnReturnToPostFailed	seg000	000000000008ED00	00000044			R	.	.	.	.	.	.	.
 
 InspectionZone__OnReturnToPostSucceded	seg000	000000000008ED50	00000031			R	.	.	.	.	.	.	.
+
+InspectionZone__OnVehicleApproeachedBarrier	seg000	000000000008DCE0	0000002C			R	.	.	.	.	.	.	.
+
+InspectionZone__PlayHurryUp	seg000	000000000008F770	0000003E			R	.	.	.	.	.	.	.
+
+InspectionZone__PlayWelcomeBack	seg000	000000000008F730	0000003E			R	.	.	.	.	.	.	.
