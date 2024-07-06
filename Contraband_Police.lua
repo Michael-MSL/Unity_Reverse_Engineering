@@ -651,3 +651,9 @@ InfoGraphic__Awake	seg000	00000000000F8760	0000001D			R	.	.	.	.	.	.	.
 InfoGraphic__Close	seg000	00000000000F8970	00000078			R	.	.	.	.	.	.	.
 
 InfoGraphic__OnHide	seg000	00000000000F89F0	00000098			R	.	.	.	.	.	.	.
+
+InfoGraphic__OnShowingFinished	seg000	00000000000F8920	00000041			R	.	.	.	.	.	.	.
+
+InspectionReportData__CheckDocuments	seg000	0000000000051E50	000002C9			R	.	.	.	.	.	.	.
+
+InspectionZone__GetMaxWeight	seg000	000000000008EF50	00000057			R	.	.	.	.	.	.	.
