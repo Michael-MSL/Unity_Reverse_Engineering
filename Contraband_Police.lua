@@ -633,3 +633,9 @@ Human__StopVehicle	seg000	00000000000645E0	000000D0			R	.	.	.	.	.	.	.
 Human__TradeInviteBark	seg000	0000000000064B80	00000014			R	.	.	.	.	.	.	.
 
 Human__TryCloseInteractionPanelAndDeselectIO	seg000	00000000000658F0	00000045			R	.	.	.	.	.	.	.
+
+Human__TryGiveBribe	seg000	0000000000065190	0000003C			R	.	.	.	.	.	.	.
+
+Human__TrySetPrisonClothes	seg000	0000000000065700	00000089			R	.	.	.	.	.	.	.
+
+InfoBoard__OnDisable	seg000	000000000008C300	00000037			R	.	.	.	.	.	.	.
