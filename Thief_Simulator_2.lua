@@ -271,3 +271,9 @@ Inventory__CheckBackpack	seg000	000000000009A3D0	000001B1			R	.	.	.	.	.	.	.
 Inventory__CheckDiscoveredItems	seg000	0000000000095130	0000012C			R	.	.	.	.	.	.	.
 
 Inventory__CheckRunSpeed	seg000	000000000009A590	000000C3			R	.	.	.	.	.	.	.
+
+Inventory__CheckSkills	seg000	000000000009A660	00000246			R	.	.	.	.	.	.	.
+
+Inventory__CheckStats	seg000	0000000000098E90	00000397			R	.	.	.	.	.	.	.
+
+Inventory__LoadHackable	seg000	000000000009CEA0	00000036			R	.	.	.	.	.	.	.
