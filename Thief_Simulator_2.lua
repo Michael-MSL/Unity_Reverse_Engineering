@@ -265,3 +265,9 @@ Inventory__AutoSaveToggle	seg000	0000000000095E10	00000030			R	.	.	.	.	.	.	.
 Inventory__CameraSwayClick	seg000	0000000000095A70	00000030			R	.	.	.	.	.	.	.
 
 Inventory__CarTurnSChange	seg000	0000000000097570	0000005E			R	.	.	.	.	.	.	.
+
+Inventory__CheckBackpack	seg000	000000000009A3D0	000001B1			R	.	.	.	.	.	.	.
+
+Inventory__CheckDiscoveredItems	seg000	0000000000095130	0000012C			R	.	.	.	.	.	.	.
+
+Inventory__CheckRunSpeed	seg000	000000000009A590	000000C3			R	.	.	.	.	.	.	.
