@@ -337,3 +337,9 @@ JobOffer__AcceptJob	seg000	000000000009E310	0000008C			R	.	.	.	.	.	.	.
 JobOffer__CheckAll	seg000	000000000009E4F0	0000021E			R	.	.	.	.	.	.	.
 
 JobOffer__ClaimRewards	seg000	000000000009E3A0	00000148			R	.	.	.	.	.	.	.
+
+JobOffer__OnEnable	seg000	000000000009E710	0000004C			R	.	.	.	.	.	.	.
+
+JobOffer__OpenJobDetails	seg000	000000000009E200	0000010B			R	.	.	.	.	.	.	.
+
+Job_Object__Completed	seg000	000000000009E810	00000041			R	.	.	.	.	.	.	.
