@@ -295,3 +295,9 @@ Inventory__SelectAllStorage	seg000	000000000009B790	00000185			R	.	.	.	.	.	.	.
 Inventory__SelectCarParts	seg000	000000000009B430	0000011B			R	.	.	.	.	.	.	.
 
 Inventory__SelectCars	seg000	000000000009B310	0000011B			R	.	.	.	.	.	.	.
+
+Inventory__SelectKeys	seg000	000000000009BA40	00000115			R	.	.	.	.	.	.	.
+
+Inventory__SelectLoot	seg000	000000000009B920	0000011B			R	.	.	.	.	.	.	.
+
+Inventory__SelectTools	seg000	000000000009B1F0	0000011B			R	.	.	.	.	.	.	.
