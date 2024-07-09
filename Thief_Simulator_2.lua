@@ -319,3 +319,9 @@ ItemID__HackedElectronic	seg000	0000000000092E20	00000062			R	.	.	.	.	.	.	.
 ItemID__Item_Picked	seg000	0000000000093250	000001B2			R	.	.	.	.	.	.	.
 
 ItemID__Start	seg000	0000000000092B50	00000262			R	.	.	.	.	.	.	.
+
+JailCellTrigger__Start	seg000	000000000009E090	00000016			R	.	.	.	.	.	.	.
+
+JailItems__Start	seg000	000000000009E110	00000023			R	.	.	.	.	.	.	.
+
+Jewelery_Gem__Gem_Cut	seg000	00000000000AA7F0	00000042			R	.	.	.	.	.	.	.
