@@ -325,3 +325,9 @@ JailCellTrigger__Start	seg000	000000000009E090	00000016			R	.	.	.	.	.	.	.
 JailItems__Start	seg000	000000000009E110	00000023			R	.	.	.	.	.	.	.
 
 Jewelery_Gem__Gem_Cut	seg000	00000000000AA7F0	00000042			R	.	.	.	.	.	.	.
+
+Jewelery_Gem__Start	seg000	00000000000AA790	00000038			R	.	.	.	.	.	.	.
+
+Jewelery_Minigame_Manager__Start	seg000	00000000000AA900	00000016			R	.	.	.	.	.	.	.
+
+JobOffer__.ctor	seg000	000000000009E440	0000002A			R	.	.	.	.	.	.	.
