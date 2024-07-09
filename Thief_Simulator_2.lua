@@ -283,3 +283,9 @@ Inventory__LoadNotepad	seg000	00000000000957D0	00000018			R	.	.	.	.	.	.	.
 Inventory__OpenShop	seg000	0000000000096660	00000291			R	.	.	.	.	.	.	.
 
 Inventory__PrepareJewelery	seg000	000000000009CEE0	0000002C			R	.	.	.	.	.	.	.
+
+Inventory__ReloadStats	seg000	0000000000098BA0	000001B0			R	.	.	.	.	.	.	.
+
+Inventory__SaveStats	seg000	0000000000098D50	0000013B			R	.	.	.	.	.	.	.
+
+Inventory__SelectAll	seg000	000000000009B0A0	00000149			R	.	.	.	.	.	.	.
