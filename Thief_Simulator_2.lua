@@ -277,3 +277,9 @@ Inventory__CheckSkills	seg000	000000000009A660	00000246			R	.	.	.	.	.	.	.
 Inventory__CheckStats	seg000	0000000000098E90	00000397			R	.	.	.	.	.	.	.
 
 Inventory__LoadHackable	seg000	000000000009CEA0	00000036			R	.	.	.	.	.	.	.
+
+Inventory__LoadNotepad	seg000	00000000000957D0	00000018			R	.	.	.	.	.	.	.
+
+Inventory__OpenShop	seg000	0000000000096660	00000291			R	.	.	.	.	.	.	.
+
+Inventory__PrepareJewelery	seg000	000000000009CEE0	0000002C			R	.	.	.	.	.	.	.
