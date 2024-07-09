@@ -343,3 +343,9 @@ JobOffer__OnEnable	seg000	000000000009E710	0000004C			R	.	.	.	.	.	.	.
 JobOffer__OpenJobDetails	seg000	000000000009E200	0000010B			R	.	.	.	.	.	.	.
 
 Job_Object__Completed	seg000	000000000009E810	00000041			R	.	.	.	.	.	.	.
+
+Job_Object__Start	seg000	000000000009E7A0	0000006E			R	.	.	.	.	.	.	.
+
+LPDemoPlayer__.ctor	seg000	000000000004F7B0	0000009A			R	.	.	.	.	.	.	.
+
+LPSafe__.ctor	seg000	00000000000508C0	0000006C			R	.	.	.	.	.	.	.
