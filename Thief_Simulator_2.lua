@@ -349,3 +349,9 @@ Job_Object__Start	seg000	000000000009E7A0	0000006E			R	.	.	.	.	.	.	.
 LPDemoPlayer__.ctor	seg000	000000000004F7B0	0000009A			R	.	.	.	.	.	.	.
 
 LPSafe__.ctor	seg000	00000000000508C0	0000006C			R	.	.	.	.	.	.	.
+
+LakePolygonProfile__.ctor	seg000	0000000000059860	0000019A			R	.	.	.	.	.	.	.
+
+LakePolygon__.ctor	seg000	0000000000059590	00000244			R	.	.	.	.	.	.	.
+
+Lightning__.ctor	seg000	0000000000065C00	0000003A			R	.	.	.	.	.	.	.
