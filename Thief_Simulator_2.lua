@@ -289,3 +289,9 @@ Inventory__ReloadStats	seg000	0000000000098BA0	000001B0			R	.	.	.	.	.	.	.
 Inventory__SaveStats	seg000	0000000000098D50	0000013B			R	.	.	.	.	.	.	.
 
 Inventory__SelectAll	seg000	000000000009B0A0	00000149			R	.	.	.	.	.	.	.
+
+Inventory__SelectAllStorage	seg000	000000000009B790	00000185			R	.	.	.	.	.	.	.
+
+Inventory__SelectCarParts	seg000	000000000009B430	0000011B			R	.	.	.	.	.	.	.
+
+Inventory__SelectCars	seg000	000000000009B310	0000011B			R	.	.	.	.	.	.	.
