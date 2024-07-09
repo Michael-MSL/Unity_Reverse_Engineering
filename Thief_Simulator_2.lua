@@ -307,3 +307,9 @@ Inventory__SellAllPawn	seg000	0000000000096630	00000021			R	.	.	.	.	.	.	.
 IsInBuilding__Start	seg000	000000000009DDB0	00000016			R	.	.	.	.	.	.	.
 
 ItemID__.ctor	seg000	00000000000933A0	00000012			R	.	.	.	.	.	.	.
+
+ItemID__DiscoverItem	seg000	0000000000092DF0	00000023			R	.	.	.	.	.	.	.
+
+ItemID__DiscoverValue	seg000	0000000000092DC0	00000023			R	.	.	.	.	.	.	.
+
+ItemID__Drop_Item	seg000	00000000000931B0	00000094			R	.	.	.	.	.	.	.
