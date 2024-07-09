@@ -331,3 +331,9 @@ Jewelery_Gem__Start	seg000	00000000000AA790	00000038			R	.	.	.	.	.	.	.
 Jewelery_Minigame_Manager__Start	seg000	00000000000AA900	00000016			R	.	.	.	.	.	.	.
 
 JobOffer__.ctor	seg000	000000000009E440	0000002A			R	.	.	.	.	.	.	.
+
+JobOffer__AcceptJob	seg000	000000000009E310	0000008C			R	.	.	.	.	.	.	.
+
+JobOffer__CheckAll	seg000	000000000009E4F0	0000021E			R	.	.	.	.	.	.	.
+
+JobOffer__ClaimRewards	seg000	000000000009E3A0	00000148			R	.	.	.	.	.	.	.
