@@ -301,3 +301,9 @@ Inventory__SelectKeys	seg000	000000000009BA40	00000115			R	.	.	.	.	.	.	.
 Inventory__SelectLoot	seg000	000000000009B920	0000011B			R	.	.	.	.	.	.	.
 
 Inventory__SelectTools	seg000	000000000009B1F0	0000011B			R	.	.	.	.	.	.	.
+
+Inventory__SellAllPawn	seg000	0000000000096630	00000021			R	.	.	.	.	.	.	.
+
+IsInBuilding__Start	seg000	000000000009DDB0	00000016			R	.	.	.	.	.	.	.
+
+ItemID__.ctor	seg000	00000000000933A0	00000012			R	.	.	.	.	.	.	.
