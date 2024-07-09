@@ -313,3 +313,9 @@ ItemID__DiscoverItem	seg000	0000000000092DF0	00000023			R	.	.	.	.	.	.	.
 ItemID__DiscoverValue	seg000	0000000000092DC0	00000023			R	.	.	.	.	.	.	.
 
 ItemID__Drop_Item	seg000	00000000000931B0	00000094			R	.	.	.	.	.	.	.
+
+ItemID__HackedElectronic	seg000	0000000000092E20	00000062			R	.	.	.	.	.	.	.
+
+ItemID__Item_Picked	seg000	0000000000093250	000001B2			R	.	.	.	.	.	.	.
+
+ItemID__Start	seg000	0000000000092B50	00000262			R	.	.	.	.	.	.	.
