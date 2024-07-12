@@ -361,3 +361,9 @@ LoadMinigameItem__Update	seg000	000000000009FD70	00000093			R	.	.	.	.	.	.	.
 LocationNameTranslate__.ctor	seg000	00000000000AB3A0	00000028			R	.	.	.	.	.	.	.
 
 LockedCarDoor__Start	seg000	000000000007ED20	0000001C			R	.	.	.	.	.	.	.
+
+LockedWindow__Start	seg000	000000000009FF00	0000009A			R	.	.	.	.	.	.	.
+
+Lockpick__.ctor	seg000	00000000000A0590	0000001D			R	.	.	.	.	.	.	.
+
+Lockpick__Start	seg000	00000000000A0330	0000017A			R	.	.	.	.	.	.	.
