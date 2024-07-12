@@ -385,3 +385,9 @@ MobGuyAI__.ctor	seg000	0000000000075F30	0000001D			R	.	.	.	.	.	.	.
 MobGuyAI__OnTriggerEnter	seg000	00000000000759B0	00000036			R	.	.	.	.	.	.	.
 
 MobGuyAI__Start	seg000	0000000000075910	0000006D			R	.	.	.	.	.	.	.
+
+MobGuyAI__Update	seg000	0000000000075A60	000007A7			R	.	.	.	.	.	.	.
+
+ModifierKeys__.ctor	seg000	00000000002AF950	0000003E			R	.	.	.	.	.	.	.
+
+MoveMe__.ctor	seg000	0000000000050A00	00000012			R	.	.	.	.	.	.	.
