@@ -379,3 +379,9 @@ MediumLockBMaster__Start	seg000	00000000000A24F0	00000016			R	.	.	.	.	.	.	.
 MediumLockMaster__.ctor	seg000	00000000000A3190	00000036			R	.	.	.	.	.	.	.
 
 MediumLockMaster__Start	seg000	00000000000A2620	000000E8			R	.	.	.	.	.	.	.
+
+MobGuyAI__.ctor	seg000	0000000000075F30	0000001D			R	.	.	.	.	.	.	.
+
+MobGuyAI__OnTriggerEnter	seg000	00000000000759B0	00000036			R	.	.	.	.	.	.	.
+
+MobGuyAI__Start	seg000	0000000000075910	0000006D			R	.	.	.	.	.	.	.
