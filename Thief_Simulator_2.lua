@@ -415,3 +415,9 @@ Payphone__Success	seg000	00000000000AC7C0	0000011E			R	.	.	.	.	.	.	.
 Payphone__TryActivate	seg000	00000000000AC510	00000273			R	.	.	.	.	.	.	. 
 
 Photograph__.ctor	seg000	00000000000A3960	00000012			R	.	.	.	.	.	.	.
+
+PickedItemScript__.ctor	seg000	0000000000093BE0	00000034			R	.	.	.	.	.	.	.
+
+Pickpocket_Manager__.ctor	seg000	00000000000AEA60	00000028			R	.	.	.	.	.	.	.
+
+Pickpocket_Manager__Begin_Pickpocket	seg000	00000000000AE4F0	00000158			R	.	.	.	.	.	.
