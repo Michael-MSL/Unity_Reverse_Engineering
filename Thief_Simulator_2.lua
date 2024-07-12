@@ -433,3 +433,9 @@ Pickpocket_Object__Was_Caught	seg000	00000000000AEFE0	0000007E			R	.	.	.	.	.	.	.
 PlayerScript__.ctor	seg000	00000000000C2EC0	000000DA			R	.	.	.	.	.	.	.
 
 PlayerScript__ActivatePayphone	seg000	00000000000B5A80	00000061			R	.	.	.	.	.	.	.
+
+PlayerScript__AutoPickEnable	seg000	00000000000B7190	00000063			R	.	.	.	.	.	.	.
+
+PlayerScript__BinocularsSwitch	seg000	00000000000B9240	000000BB			R	.	.	.	.	.	.	.
+
+PlayerScript__BreakinCrowbar	seg000	00000000000B5F90	00000010			R	.	.	.	.	.	.	.
