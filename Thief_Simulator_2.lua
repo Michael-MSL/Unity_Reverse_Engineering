@@ -355,3 +355,9 @@ LakePolygonProfile__.ctor	seg000	0000000000059860	0000019A			R	.	.	.	.	.	.	.
 LakePolygon__.ctor	seg000	0000000000059590	00000244			R	.	.	.	.	.	.	.
 
 Lightning__.ctor	seg000	0000000000065C00	0000003A			R	.	.	.	.	.	.	.
+
+LoadMinigameItem__Update	seg000	000000000009FD70	00000093			R	.	.	.	.	.	.	.
+
+LocationNameTranslate__.ctor	seg000	00000000000AB3A0	00000028			R	.	.	.	.	.	.	.
+
+LockedCarDoor__Start	seg000	000000000007ED20	0000001C			R	.	.	.	.	.	.	.
