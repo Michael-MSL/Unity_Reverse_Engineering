@@ -427,3 +427,9 @@ Pickpocket_Manager__Start	seg000	00000000000AE080	00000027			R	.	.	.	.	.	.	.
 Pickpocket_Object__.ctor	seg000	00000000000AEEA0	0000002F			R	.	.	.	.	.	.	.
 
 Pickpocket_Object__Start	seg000	00000000000AEDD0	00000210			R	.	.	.	.	.	.	.
+
+Pickpocket_Object__Was_Caught	seg000	00000000000AEFE0	0000007E			R	.	.	.	.	.	.	. 
+
+PlayerScript__.ctor	seg000	00000000000C2EC0	000000DA			R	.	.	.	.	.	.	.
+
+PlayerScript__ActivatePayphone	seg000	00000000000B5A80	00000061			R	.	.	.	.	.	.	.
