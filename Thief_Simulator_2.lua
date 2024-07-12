@@ -403,3 +403,9 @@ NoisyTalkie__.ctor	seg000	00000000000A4230	00000012			R	.	.	.	.	.	.	.
 NoisyTalkie__Activate	seg000	00000000000A4330	00000013			R	.	.	.	.	.	.	.
 
 OtherCarController__.ctor	seg000	00000000000A5670	00000028			R	.	.	.	.	.	.	. 
+
+Parking__Start	seg000	00000000000B3760	0000003D			R	.	.	.	.	.	.	.
+
+PawnGuyTrigger__Update	seg000	00000000000B4300	0000003A			R	.	.	.	.	.	.	.
+
+Payphone__Start	seg000	00000000000AC470	00000081			R	.	.	.	.	.	.	.
