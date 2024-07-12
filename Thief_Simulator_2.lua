@@ -409,3 +409,9 @@ Parking__Start	seg000	00000000000B3760	0000003D			R	.	.	.	.	.	.	.
 PawnGuyTrigger__Update	seg000	00000000000B4300	0000003A			R	.	.	.	.	.	.	.
 
 Payphone__Start	seg000	00000000000AC470	00000081			R	.	.	.	.	.	.	.
+
+Payphone__Success	seg000	00000000000AC7C0	0000011E			R	.	.	.	.	.	.	.
+
+Payphone__TryActivate	seg000	00000000000AC510	00000273			R	.	.	.	.	.	.	. 
+
+Photograph__.ctor	seg000	00000000000A3960	00000012			R	.	.	.	.	.	.	.
