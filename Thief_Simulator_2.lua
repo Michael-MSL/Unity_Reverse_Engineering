@@ -439,3 +439,9 @@ PlayerScript__AutoPickEnable	seg000	00000000000B7190	00000063			R	.	.	.	.	.	.	.
 PlayerScript__BinocularsSwitch	seg000	00000000000B9240	000000BB			R	.	.	.	.	.	.	.
 
 PlayerScript__BreakinCrowbar	seg000	00000000000B5F90	00000010			R	.	.	.	.	.	.	.
+
+PlayerScript__BrokeLockpick1	seg000	00000000000B6480	00000032			R	.	.	.	.	.	.	.
+
+PlayerScript__CheckIfLeftArmOccupied	seg000	00000000000B7960	00000044			R	.	.	.	.	.	.	.
+
+PlayerScript__IncreaseReputation	seg000	00000000000B5FB0	00000083			R	.	.	.	.	.	.	.
