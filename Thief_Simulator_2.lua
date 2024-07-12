@@ -391,3 +391,9 @@ MobGuyAI__Update	seg000	0000000000075A60	000007A7			R	.	.	.	.	.	.	.
 ModifierKeys__.ctor	seg000	00000000002AF950	0000003E			R	.	.	.	.	.	.	.
 
 MoveMe__.ctor	seg000	0000000000050A00	00000012			R	.	.	.	.	.	.	.
+
+MovementSettings__.ctor	seg000	00000000002C3420	000000A7			R	.	.	.	.	.	.	.
+
+NM_Wind__.ctor	seg000	0000000000056470	00000054			R	.	.	.	.	.	.	.
+
+NPCHabits__Start	seg000	00000000000A3F90	0000002B			R	.	.	.	.	.	.	.
