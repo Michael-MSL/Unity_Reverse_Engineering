@@ -397,3 +397,9 @@ MovementSettings__.ctor	seg000	00000000002C3420	000000A7			R	.	.	.	.	.	.	.
 NM_Wind__.ctor	seg000	0000000000056470	00000054			R	.	.	.	.	.	.	.
 
 NPCHabits__Start	seg000	00000000000A3F90	0000002B			R	.	.	.	.	.	.	.
+
+NoisyTalkie__.ctor	seg000	00000000000A4230	00000012			R	.	.	.	.	.	.	.
+
+NoisyTalkie__Activate	seg000	00000000000A4330	00000013			R	.	.	.	.	.	.	.
+
+OtherCarController__.ctor	seg000	00000000000A5670	00000028			R	.	.	.	.	.	.	. 
