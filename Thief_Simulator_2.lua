@@ -421,3 +421,9 @@ PickedItemScript__.ctor	seg000	0000000000093BE0	00000034			R	.	.	.	.	.	.	.
 Pickpocket_Manager__.ctor	seg000	00000000000AEA60	00000028			R	.	.	.	.	.	.	.
 
 Pickpocket_Manager__Begin_Pickpocket	seg000	00000000000AE4F0	00000158			R	.	.	.	.	.	.
+
+Pickpocket_Manager__Start	seg000	00000000000AE080	00000027			R	.	.	.	.	.	.	.
+
+Pickpocket_Object__.ctor	seg000	00000000000AEEA0	0000002F			R	.	.	.	.	.	.	.
+
+Pickpocket_Object__Start	seg000	00000000000AEDD0	00000210			R	.	.	.	.	.	.	.
