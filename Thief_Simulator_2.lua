@@ -373,3 +373,9 @@ MailBox__RetrieveCamera	seg000	00000000000A15A0	00000082			R	.	.	.	.	.	.	.
 MailBox__Start	seg000	00000000000A1440	00000069			R	.	.	.	.	.	.	.
 
 MediumLockBMaster__.ctor	seg000	00000000000A25E0	00000007			R	.	.	.	.	.	.	.
+
+MediumLockBMaster__Start	seg000	00000000000A24F0	00000016			R	.	.	.	.	.	.	.
+
+MediumLockMaster__.ctor	seg000	00000000000A3190	00000036			R	.	.	.	.	.	.	.
+
+MediumLockMaster__Start	seg000	00000000000A2620	000000E8			R	.	.	.	.	.	.	.
