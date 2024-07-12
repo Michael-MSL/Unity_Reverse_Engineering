@@ -367,3 +367,9 @@ LockedWindow__Start	seg000	000000000009FF00	0000009A			R	.	.	.	.	.	.	.
 Lockpick__.ctor	seg000	00000000000A0590	0000001D			R	.	.	.	.	.	.	.
 
 Lockpick__Start	seg000	00000000000A0330	0000017A			R	.	.	.	.	.	.	.
+
+MailBox__RetrieveCamera	seg000	00000000000A15A0	00000082			R	.	.	.	.	.	.	.
+
+MailBox__Start	seg000	00000000000A1440	00000069			R	.	.	.	.	.	.	.
+
+MediumLockBMaster__.ctor	seg000	00000000000A25E0	00000007			R	.	.	.	.	.	.	.
