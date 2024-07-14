@@ -529,3 +529,9 @@ Rotatefan__.ctor	seg000	00000000000305C0	00000012			R	.	.	.	.	.	.	.
 Rotator__.ctor	seg000	0000000000006240	0000001D			R	.	.	.	.	.	.	.
 
 SafeMaster__.ctor	seg000	00000000000C9170	0000002B			R	.	.	.	.	.	.	.
+
+SecurityCamController__.ctor	seg000	00000000000AF920	00000033			R	.	.	.	.	.	.	.
+
+SecurityCamera__.ctor	seg000	00000000000CB8C0	00000027			R	.	.	.	.	.	.	.
+
+SelectItem__.ctor	seg000	00000000000CC010	0000001D			R	.	.	.	.	.	.	.
