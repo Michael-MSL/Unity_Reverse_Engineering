@@ -463,3 +463,9 @@ PlayerTimeEffector__.ctor	seg000	0000000000065440	00000048			R	.	.	.	.	.	.	.
 PoliceCarRaycast__Start	seg000	00000000000C32D0	00000022			R	.	.	.	.	.	.	.
 
 PoliceShoot__.ctor	seg000	0000000000076520	0000001D			R	.	.	.	.	.	.	.
+
+PoliceShoot__Start	seg000	0000000000076500	00000054			R	.	.	.	.	.	.	.
+
+Police_Manager__Detection	seg000	0000000000076FF0	00000070			R	.	.	.	.	.	.	.
+
+Police_Manager__Detection_Hide	seg000	0000000000077060	00000037			R	.	.	.	.	.	.	.
