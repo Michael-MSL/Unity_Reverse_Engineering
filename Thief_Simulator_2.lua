@@ -553,3 +553,9 @@ SidewalkAI__.ctor	seg000	00000000000D0140	0000005B			R	.	.	.	.	.	.	.
 SidewalkAI__ChasePlayer	seg000	00000000000CF550	000000BF			R	.	.	.	.	.	.	.
 
 SidewalkAI__Update	seg000	00000000000CF740	00001371			R	.	.	.	.	.	.	.
+
+SimpleCharacterMovement__.ctor	seg000	0000000000002120	0000001D			R	.	.	.	.	.	.	.
+
+SimpleFirstPersonController__.ctor	seg000	0000000000061360	0000005F			R	.	.	.	.	.	.	.
+
+SimpleFollow__.ctor	seg000	00000000000021D0	00000012			R	.	.	.	.	.	.	.
