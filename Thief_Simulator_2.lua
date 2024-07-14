@@ -499,3 +499,9 @@ RamSpline__.ctor	seg000	000000000005F2C0	00000491			R	.	.	.	.	.	.	.
 ReadNote__BeginRead	seg000	00000000000C7A40	0000019B			R	.	.	.	.	.	.	.
 
 ReadNote__Start	seg000	00000000000C7960	00000085			R	.	.	.	.	.	.	.
+
+ReflectionProbeUpdate__.ctor	seg000	00000000000AFE10	00000012			R	.	.	.	.	.	.	.
+
+ResetCar__Start	seg000	000000000007F320	00000011			R	.	.	.	.	.	.	.
+
+ResetCar__Update	seg000	000000000007F3B0	0000003A			R	.	.	.	.	.	.	.
