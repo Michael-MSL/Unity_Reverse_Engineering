@@ -517,3 +517,9 @@ RoofAlarm__OnTriggerExit	seg000	00000000000C8160	0000001A			R	.	.	.	.	.	.	.
 RoofAlarm__Start	seg000	00000000000C8120	00000016			R	.	.	.	.	.	.	.
 
 RotateAround__.ctor	seg000	0000000000067100	00000012			R	.	.	.	.	.	.	.
+
+RotateLockpick__.ctor	seg000	00000000000C8640	00000012			R	.	.	.	.	.	.	.
+
+RotateLockpick__ResetLock	seg000	00000000000C8320	00000025			R	.	.	.	.	.	.	.
+
+RotateObj__.ctor	seg000	00000000000C7DE0	00000012			R	.	.	.	.	.	.	.
