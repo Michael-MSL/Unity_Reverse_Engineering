@@ -523,3 +523,9 @@ RotateLockpick__.ctor	seg000	00000000000C8640	00000012			R	.	.	.	.	.	.	.
 RotateLockpick__ResetLock	seg000	00000000000C8320	00000025			R	.	.	.	.	.	.	.
 
 RotateObj__.ctor	seg000	00000000000C7DE0	00000012			R	.	.	.	.	.	.	.
+
+Rotatefan__.ctor	seg000	00000000000305C0	00000012			R	.	.	.	.	.	.	.
+
+Rotator__.ctor	seg000	0000000000006240	0000001D			R	.	.	.	.	.	.	.
+
+SafeMaster__.ctor	seg000	00000000000C9170	0000002B			R	.	.	.	.	.	.	.
