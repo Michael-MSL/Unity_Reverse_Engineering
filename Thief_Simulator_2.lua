@@ -469,3 +469,9 @@ PoliceShoot__Start	seg000	0000000000076500	00000054			R	.	.	.	.	.	.	.
 Police_Manager__Detection	seg000	0000000000076FF0	00000070			R	.	.	.	.	.	.	.
 
 Police_Manager__Detection_Hide	seg000	0000000000077060	00000037			R	.	.	.	.	.	.	.
+
+Police_Manager__End_Chase	seg000	00000000000770A0	000000D9			R	.	.	.	.	.	.	.
+
+Police_Manager__Start	seg000	0000000000076850	00000023			R	.	.	.	.	.	.	.
+
+PolicemanAI__.ctor	seg000	00000000000C4EF0	0000003E			R	.	.	.	.	.	.	.
