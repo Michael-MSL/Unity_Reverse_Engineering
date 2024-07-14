@@ -505,3 +505,9 @@ ReflectionProbeUpdate__.ctor	seg000	00000000000AFE10	00000012			R	.	.	.	.	.	.	.
 ResetCar__Start	seg000	000000000007F320	00000011			R	.	.	.	.	.	.	.
 
 ResetCar__Update	seg000	000000000007F3B0	0000003A			R	.	.	.	.	.	.	.
+
+RobTips_Manager__Start	seg000	00000000000AFEB0	00000016			R	.	.	.	.	.	.	.
+
+RobTips_Manager__Update	seg000	00000000000AFED0	00000026			R	.	.	.	.	.	.	.
+
+RoofAlarm__OnTriggerEnter	seg000	00000000000C8140	0000001A			R	.	.	.	.	.	.	.
