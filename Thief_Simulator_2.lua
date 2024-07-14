@@ -541,3 +541,9 @@ Sensor_Range__.ctor	seg000	0000000000077080	0000001D			R	.	.	.	.	.	.	.
 SetAchievement__Start	seg000	00000000000B0610	00000020			R	.	.	.	.	.	.	.
 
 ShopTrigger__Start	seg000	00000000000CEFE0	00000039			R	.	.	.	.	.	.	.
+
+Shop_Button__CheckStory	seg000	00000000000B0FA0	000000E3			R	.	.	.	.	.	.	.
+
+Shop_Manager__OnEnable	seg000	00000000000B1150	000000AF			R	.	.	.	.	.	.	.
+
+Shop_Manager__Start	seg000	00000000000B1120	00000016			R	.	.	.	.	.	.	.
