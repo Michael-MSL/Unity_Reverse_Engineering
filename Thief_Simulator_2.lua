@@ -511,3 +511,9 @@ RobTips_Manager__Start	seg000	00000000000AFEB0	00000016			R	.	.	.	.	.	.	.
 RobTips_Manager__Update	seg000	00000000000AFED0	00000026			R	.	.	.	.	.	.	.
 
 RoofAlarm__OnTriggerEnter	seg000	00000000000C8140	0000001A			R	.	.	.	.	.	.	.
+
+RoofAlarm__OnTriggerExit	seg000	00000000000C8160	0000001A			R	.	.	.	.	.	.	.
+
+RoofAlarm__Start	seg000	00000000000C8120	00000016			R	.	.	.	.	.	.	.
+
+RotateAround__.ctor	seg000	0000000000067100	00000012			R	.	.	.	.	.	.	.
