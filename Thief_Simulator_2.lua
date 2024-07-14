@@ -451,3 +451,9 @@ PlayerScript__RefreshXP	seg000	00000000000B67A0	00000112			R	.	.	.	.	.	.	.
 PlayerScript__ReturnSkytime	seg000	00000000000B7000	0000001B			R	.	.	.	.	.	.	.
 
 PlayerScript__SaveCurrentCar	seg000	00000000000B6270	00000031			R	.	.	.	.	.	.	.
+
+PlayerScript__SaveMoneyAmount	seg000	00000000000B6140	00000081			R	.	.	.	.	.	.	.
+
+PlayerScript__SaveXP_Test	seg000	00000000000B61D0	00000011			R	.	.	.	.	.	.	.
+
+PlayerStaminaBehavior__.ctor	seg000	0000000000064F90	0000004C			R	.	.	.	.	.	.	.
