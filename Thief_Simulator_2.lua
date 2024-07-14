@@ -475,3 +475,9 @@ Police_Manager__End_Chase	seg000	00000000000770A0	000000D9			R	.	.	.	.	.	.	.
 Police_Manager__Start	seg000	0000000000076850	00000023			R	.	.	.	.	.	.	.
 
 PolicemanAI__.ctor	seg000	00000000000C4EF0	0000003E			R	.	.	.	.	.	.	.
+
+PriestAI__.ctor	seg000	00000000000C5DC0	0000001D			R	.	.	.	.	.	.	.
+
+PriestAI__AllBoolsFalse	seg000	00000000000C53F0	0000003D			R	.	.	.	.	.	.	. 
+
+PriestAI__Start	seg000	00000000000C5970	00000044			R	.	.	.	.	.	.	.
