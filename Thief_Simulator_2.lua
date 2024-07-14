@@ -481,3 +481,9 @@ PriestAI__.ctor	seg000	00000000000C5DC0	0000001D			R	.	.	.	.	.	.	.
 PriestAI__AllBoolsFalse	seg000	00000000000C53F0	0000003D			R	.	.	.	.	.	.	. 
 
 PriestAI__Start	seg000	00000000000C5970	00000044			R	.	.	.	.	.	.	.
+
+Prompt_Color__Awake	seg000	00000000000AFAB0	00000042			R	.	.	.	.	.	.	.
+
+PutOnLift__PlaceOnLift	seg000	00000000000C67C0	00000066			R	.	.	.	.	.	.	.
+
+QAParking_Door__.ctor	seg000	0000000000062750	00000012			R	.	.	.	.	.	.	.
