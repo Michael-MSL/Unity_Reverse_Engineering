@@ -445,3 +445,9 @@ PlayerScript__BrokeLockpick1	seg000	00000000000B6480	00000032			R	.	.	.	.	.	.	.
 PlayerScript__CheckIfLeftArmOccupied	seg000	00000000000B7960	00000044			R	.	.	.	.	.	.	.
 
 PlayerScript__IncreaseReputation	seg000	00000000000B5FB0	00000083			R	.	.	.	.	.	.	.
+
+PlayerScript__RefreshXP	seg000	00000000000B67A0	00000112			R	.	.	.	.	.	.	.
+
+PlayerScript__ReturnSkytime	seg000	00000000000B7000	0000001B			R	.	.	.	.	.	.	.
+
+PlayerScript__SaveCurrentCar	seg000	00000000000B6270	00000031			R	.	.	.	.	.	.	.
