@@ -547,3 +547,9 @@ Shop_Button__CheckStory	seg000	00000000000B0FA0	000000E3			R	.	.	.	.	.	.	.
 Shop_Manager__OnEnable	seg000	00000000000B1150	000000AF			R	.	.	.	.	.	.	.
 
 Shop_Manager__Start	seg000	00000000000B1120	00000016			R	.	.	.	.	.	.	.
+
+SidewalkAI__.ctor	seg000	00000000000D0140	0000005B			R	.	.	.	.	.	.	.
+
+SidewalkAI__ChasePlayer	seg000	00000000000CF550	000000BF			R	.	.	.	.	.	.	.
+
+SidewalkAI__Update	seg000	00000000000CF740	00001371			R	.	.	.	.	.	.	.
