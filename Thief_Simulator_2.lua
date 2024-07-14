@@ -487,3 +487,9 @@ Prompt_Color__Awake	seg000	00000000000AFAB0	00000042			R	.	.	.	.	.	.	.
 PutOnLift__PlaceOnLift	seg000	00000000000C67C0	00000066			R	.	.	.	.	.	.	.
 
 QAParking_Door__.ctor	seg000	0000000000062750	00000012			R	.	.	.	.	.	.	.
+
+QuadNode__.ctor_0	seg000	00000000002BADF0	000000B8			R	.	.	.	.	.	.	.
+
+RadioStation__.ctor	seg000	00000000000C6510	00000012			R	.	.	.	.	.	.	.
+
+RamBuoyancy__.ctor	seg000	000000000005A670	00000052			R	.	.	.	.	.	.	.
