@@ -559,3 +559,9 @@ SimpleCharacterMovement__.ctor	seg000	0000000000002120	0000001D			R	.	.	.	.	.	.	
 SimpleFirstPersonController__.ctor	seg000	0000000000061360	0000005F			R	.	.	.	.	.	.	.
 
 SimpleFollow__.ctor	seg000	00000000000021D0	00000012			R	.	.	.	.	.	.	.
+
+SimplePlayerController__.ctor	seg000	00000000000028E0	00000050			R	.	.	.	.	.	.	.
+
+SimpleSpectrum__.ctor	seg000	000000000006D3F0	000000F3			R	.	.	.	.	.	.	.
+
+SkillCheck__.ctor	seg000	00000000000D16C0	00000019			R	.	.	.	.	.	.	.
