@@ -535,3 +535,9 @@ SecurityCamController__.ctor	seg000	00000000000AF920	00000033			R	.	.	.	.	.	.	.
 SecurityCamera__.ctor	seg000	00000000000CB8C0	00000027			R	.	.	.	.	.	.	.
 
 SelectItem__.ctor	seg000	00000000000CC010	0000001D			R	.	.	.	.	.	.	.
+
+Sensor_Range__.ctor	seg000	0000000000077080	0000001D			R	.	.	.	.	.	.	.
+
+SetAchievement__Start	seg000	00000000000B0610	00000020			R	.	.	.	.	.	.	.
+
+ShopTrigger__Start	seg000	00000000000CEFE0	00000039			R	.	.	.	.	.	.	.
