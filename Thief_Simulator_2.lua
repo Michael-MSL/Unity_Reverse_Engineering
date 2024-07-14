@@ -493,3 +493,9 @@ QuadNode__.ctor_0	seg000	00000000002BADF0	000000B8			R	.	.	.	.	.	.	.
 RadioStation__.ctor	seg000	00000000000C6510	00000012			R	.	.	.	.	.	.	.
 
 RamBuoyancy__.ctor	seg000	000000000005A670	00000052			R	.	.	.	.	.	.	.
+
+RamSpline__.ctor	seg000	000000000005F2C0	00000491			R	.	.	.	.	.	.	.
+
+ReadNote__BeginRead	seg000	00000000000C7A40	0000019B			R	.	.	.	.	.	.	.
+
+ReadNote__Start	seg000	00000000000C7960	00000085			R	.	.	.	.	.	.	.
