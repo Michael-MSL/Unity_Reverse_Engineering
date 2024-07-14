@@ -457,3 +457,9 @@ PlayerScript__SaveMoneyAmount	seg000	00000000000B6140	00000081			R	.	.	.	.	.	.	.
 PlayerScript__SaveXP_Test	seg000	00000000000B61D0	00000011			R	.	.	.	.	.	.	.
 
 PlayerStaminaBehavior__.ctor	seg000	0000000000064F90	0000004C			R	.	.	.	.	.	.	.
+
+PlayerTimeEffector__.ctor	seg000	0000000000065440	00000048			R	.	.	.	.	.	.	. 
+
+PoliceCarRaycast__Start	seg000	00000000000C32D0	00000022			R	.	.	.	.	.	.	.
+
+PoliceShoot__.ctor	seg000	0000000000076520	0000001D			R	.	.	.	.	.	.	.
