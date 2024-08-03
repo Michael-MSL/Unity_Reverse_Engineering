@@ -575,3 +575,15 @@ SlideDoorOpenZ__.ctor	seg000	00000000000558D0	00000042			R	.	.	.	.	.	.	.
 SlideDoorOpen__.ctor	seg000	00000000000557A0	00000042			R	.	.	.	.	.	.	.
 
 StockCompany__.ctor	seg000	00000000000D3180	00000037			R	.	.	.	.	.	.	.
+
+StockCompany__SetNewValue	seg000	00000000000D3840	00000222			R	.	.	.	.	.	.	.
+
+StockManager__BuyShares	seg000	00000000000D3C60	000000E9			R	.	.	.	.	.	.	.
+
+StockManager__DecreaseBuy	seg000	00000000000D3FD0	00000081			R	.	.	.	.	.	.	.
+
+StockManager__DecreaseSell	seg000	00000000000D3ED0	00000087			R	.	.	.	.	.	.	.
+
+StockManager__IncreaseBuy	seg000	00000000000D3F60	00000070			R	.	.	.	.	.	.	.
+
+StockManager__IncreaseSell	seg000	00000000000D3E50	00000075			R	.	.	.	.	.	.	.
