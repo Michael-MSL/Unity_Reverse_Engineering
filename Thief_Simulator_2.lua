@@ -565,3 +565,13 @@ SimplePlayerController__.ctor	seg000	00000000000028E0	00000050			R	.	.	.	.	.	.	.
 SimpleSpectrum__.ctor	seg000	000000000006D3F0	000000F3			R	.	.	.	.	.	.	.
 
 SkillCheck__.ctor	seg000	00000000000D16C0	00000019			R	.	.	.	.	.	.	.
+
+SkillDecreaseRange__.ctor	seg000	00000000000D1900	0000001D			R	.	.	.	.	.	.	.
+
+SlideDoorOpenNew__.ctor	seg000	0000000000055BE0	00000033			R	.	.	.	.	.	.	.
+
+SlideDoorOpenZ__.ctor	seg000	00000000000558D0	00000042			R	.	.	.	.	.	.	.
+
+SlideDoorOpen__.ctor	seg000	00000000000557A0	00000042			R	.	.	.	.	.	.	.
+
+StockCompany__.ctor	seg000	00000000000D3180	00000037			R	.	.	.	.	.	.	.
