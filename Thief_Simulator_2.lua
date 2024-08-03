@@ -605,3 +605,19 @@ SurvivalMode__CheckBonuses	seg000	00000000000D6130	00000218			R	.	.	.	.	.	.	.
 SurvivalMode__CheckUI	seg000	00000000000D6040	00000063			R	.	.	.	.	.	.	.
 
 SurvivalMode__LoadValues	seg000	00000000000D60B0	00000031			R	.	.	.	.	.	.	.
+
+SurvivalMode__SaveValues	seg000	00000000000D60F0	00000031			R	.	.	.	.	.	.	.
+
+SwitchLight__.ctor	seg000	0000000000006690	00000019			R	.	.	.	.	.	.	.
+
+SwitchLight__Start	seg000	0000000000006400	000000A3			R	.	.	.	.	.	.	.
+
+ThiefRating__LoadThings	seg000	00000000000D79E0	0000006D			R	.	.	.	.	.	.	.
+
+ThiefRating__SaveThings	seg000	00000000000D7A50	00000061			R	.	.	.	.	.	.	.
+
+TrackManager__.ctor	seg000	000000000002FDC0	00000028			R	.	.	.	.	.	.	.
+
+TrackManager__ActivateNextWayPoint	seg000	000000000002F860	000000CB			R	.	.	.	.	.	.	.
+
+TrackManager__ActivateSecondNextWayPoint	seg000	000000000002F9F0	000000D7			R	.	.	.	.	.	.	.
