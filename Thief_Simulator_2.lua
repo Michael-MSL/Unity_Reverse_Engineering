@@ -587,3 +587,21 @@ StockManager__DecreaseSell	seg000	00000000000D3ED0	00000087			R	.	.	.	.	.	.	.
 StockManager__IncreaseBuy	seg000	00000000000D3F60	00000070			R	.	.	.	.	.	.	.
 
 StockManager__IncreaseSell	seg000	00000000000D3E50	00000075			R	.	.	.	.	.	.	.
+
+StockManager__RefreshPlayerMoney	seg000	00000000000D3BF0	00000026			R	.	.	.	.	.	.	.
+
+StockManager__RefreshStock	seg000	00000000000D3B80	00000061			R	.	.	.	.	.	.	.
+
+StockManager__SellShares	seg000	00000000000D3D50	000000F5			R	.	.	.	.	.	.	.
+
+StockManager__ShowStockInfo	seg000	00000000000D4060	00000148			R	.	.	.	.	.	.	.
+
+StockManager__Start	seg000	00000000000D3B60	0000001C			R	.	.	.	.	.	.	.
+
+SurvivalMode__.ctor	seg000	00000000000D5DC0	00000028			R	.	.	.	.	.	.	.
+
+SurvivalMode__CheckBonuses	seg000	00000000000D6130	00000218			R	.	.	.	.	.	.	.
+
+SurvivalMode__CheckUI	seg000	00000000000D6040	00000063			R	.	.	.	.	.	.	.
+
+SurvivalMode__LoadValues	seg000	00000000000D60B0	00000031			R	.	.	.	.	.	.	.
