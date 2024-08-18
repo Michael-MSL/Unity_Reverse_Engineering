@@ -745,3 +745,5 @@ Intro__Restart	seg000	0000000000075F70	0000003F			R	.	.	.	.	.	.	.
 Intro__RunDay	seg000	0000000000075DC0	00000019			R	.	.	.	.	.	.	.
 
 Intro__Save	seg000	0000000000075FB0	0000002F			R	.	.	.	.	.	.	.
+
+// Project will be reopened at a later time for completion
