@@ -109,3 +109,13 @@ CargoNotebook__InitTemplate	seg000	000000000007BBE0	000000AE			R	.	.	.	.	.	.	.
 CargoNotebook__OnHideStarted	seg000	000000000007BE30	0000003B			R	.	.	.	.	.	.	.
 
 CargoNotebook__SetTexts	seg000	000000000007C160	000000AD			R	.	.	.	.	.	.	.
+
+CargoNotebook__TryPrepare	seg000	000000000007BF70	00000089			R	.	.	.	.	.	.	.
+
+CargoNotebook__Update	seg000	000000000007C050	00000110			R	.	.	.	.	.	.	.
+
+CargoPage__Awake	seg000	000000000004EDF0	0000004E			R	.	.	.	.	.	.	.
+
+CargoPage__FoldCargoPage	seg000	000000000004EF00	00000084			R	.	.	.	.	.	.	.
+
+CargoPage__UnfoldCargoPage	seg000	000000000004EE60	0000009D			R	.	.	.	.	.	.	.
