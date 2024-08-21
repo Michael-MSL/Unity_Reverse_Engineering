@@ -21,3 +21,13 @@ ActionPointLimits__.ctor	seg000	0000000000070E80	0000003E			R	.	.	.	.	.	.	.
 ActionSpot__.ctor	seg000	00000000000299D0	00000089			R	.	.	.	.	.	.	.
 
 Alcmeter__TurnOff	seg000	0000000000086D30	00000047			R	.	.	.	.	.	.	.
+
+AltitudePortalRespawner__.ctor	seg000	00000000000A2F40	00000012			R	.	.	.	.	.	.	.
+
+AltitudePortalRespawner__Awake	seg000	00000000000A2CF0	0000000C			R	.	.	.	.	.	.	.
+
+AltitudePortalRespawner__Update	seg000	00000000000A2D00	0000023F			R	.	.	.	.	.	.	.
+
+AmbushManager__SetDefenseLocations	seg000	000000000012D440	0000005A			R	.	.	.	.	.	.	.
+
+AmbushManager__StartAmbush	seg000	000000000012D390	00000054			R	.	.	.	.	.	.	.
