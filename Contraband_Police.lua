@@ -119,3 +119,13 @@ CargoPage__Awake	seg000	000000000004EDF0	0000004E			R	.	.	.	.	.	.	.
 CargoPage__FoldCargoPage	seg000	000000000004EF00	00000084			R	.	.	.	.	.	.	.
 
 CargoPage__UnfoldCargoPage	seg000	000000000004EE60	0000009D			R	.	.	.	.	.	.	.
+
+CargoSuspectPageContent__Deserialize	seg000	000000000008A440	00000073			R	.	.	.	.	.	.	.
+
+CargoSuspectPageContent__GetDetails	seg000	000000000008A3C0	00000049			R	.	.	.	.	.	.	.
+
+CargoTransformData__GetWeight	seg000	000000000003C2B0	00000049			R	.	.	.	.	.	.	.
+
+CargoTransformData__InitDictionaries	seg000	000000000003C320	00000135			R	.	.	.	.	.	.	.
+
+CargoTransformData__Instantiate	seg000	000000000003C210	00000093			R	.	.	.	.	.	.	.
