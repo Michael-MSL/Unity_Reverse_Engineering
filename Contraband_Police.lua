@@ -177,3 +177,11 @@ ContrabandDetectorTune__Start	seg000	0000000000044C80	0000018B			R	.	.	.	.	.	.	.
 ContrabandDetector__.ctor	seg000	0000000000044BE0	0000007B			R	.	.	.	.	.	.	.
 
 ContrabandDetector__Show	seg000	0000000000044910	0000006B			R	.	.	.	.	.	.	.
+
+ContrabandDetector__Start	seg000	0000000000044780	0000018B			R	.	.	.	.	.	.	.
+
+ContrabandFound__.ctor	seg000	000000000028E750	0000003D			R	.	.	.	.	.	.	.
+
+ContrabandHole__Init	seg000	000000000012E640	00000049			R	.	.	.	.	.	.	.
+
+ContrabandHole__OnDestroyed	seg000	000000000012E6B0	00000022			R	.	.	.	.	.	.	.
