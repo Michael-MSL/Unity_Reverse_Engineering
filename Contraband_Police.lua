@@ -169,3 +169,11 @@ Collectibles__OnPickedUp	seg000	000000000012E4D0	00000055			R	.	.	.	.	.	.	.
 ContrabandData__.ctor	seg000	000000000025C670	000002A0			R	.	.	.	.	.	.	.
 
 ContrabandDetailedPlacement__Translate	seg000	0000000000044020	000004CB			R	.	.	.	.	.	.	.
+
+ContrabandDetectorTune__Show	seg000	0000000000044E10	0000006B			R	.	.	.	.	.	.	.
+
+ContrabandDetectorTune__Start	seg000	0000000000044C80	0000018B			R	.	.	.	.	.	.	.
+
+ContrabandDetector__.ctor	seg000	0000000000044BE0	0000007B			R	.	.	.	.	.	.	.
+
+ContrabandDetector__Show	seg000	0000000000044910	0000006B			R	.	.	.	.	.	.	.
