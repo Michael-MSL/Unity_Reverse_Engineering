@@ -185,3 +185,11 @@ ContrabandFound__.ctor	seg000	000000000028E750	0000003D			R	.	.	.	.	.	.	.
 ContrabandHole__Init	seg000	000000000012E640	00000049			R	.	.	.	.	.	.	.
 
 ContrabandHole__OnDestroyed	seg000	000000000012E6B0	00000022			R	.	.	.	.	.	.	.
+
+ContrabandHole__PickedUp	seg000	000000000012E870	0000009E			R	.	.	.	.	.	.	.
+
+ContrabandHole__PutTreasure	seg000	000000000012E730	0000011E			R	.	.	.	.	.	.	.
+
+ContrabandIO__InitContraband	seg000	00000000000711A0	00000247			R	.	.	.	.	.	.	.
+
+ContrabandMarker__.ctor	seg000	00000000000446E0	0000003E			R	.	.	.	.	.	.	. 
