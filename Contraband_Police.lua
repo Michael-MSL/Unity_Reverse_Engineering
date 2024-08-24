@@ -145,3 +145,11 @@ Channel__.ctor_0	seg000	00000000002C4830	000000CC			R	.	.	.	.	.	.	.
 Channel__.ctor_1	seg000	00000000002C5090	00000029			R	.	.	.	.	.	.	.
 
 ChapterStart__Init	seg000	00000000000E7030	000000A9			R	.	.	.	.	.	.	.
+
+Character__.ctor	seg000	0000000000041C70	0000001D			R	.	.	.	.	.	.	.
+
+Character__AwakeInit	seg000	0000000000040130	000000BE			R	.	.	.	.	.	.	.
+
+Character__GetFolderPartName	seg000	00000000002A7BE0	00000054			R	.	.	.	.	.	.	.
+
+Clock__Update	seg000	00000000000A36C0	000000C0			R	.	.	.	.	.	.	.
