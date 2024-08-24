@@ -209,3 +209,11 @@ Crosshair__Set	seg000	00000000000E8060	0000001C			R	.	.	.	.	.	.	.
 DailyStat__.ctor	seg000	00000000000DB5B0	000003ED			R	.	.	.	.	.	.	.
 
 DamagedFence__Awake	seg000	00000000000A4290	00000045			R	.	.	.	.	.	.	.
+
+DamagedPartsController__Awake	seg000	000000000011B6F0	0000002D			R	.	.	.	.	.	.	.
+
+DamagedPartsController__Awake	seg000	000000000011B6F0	0000002D			R	.	.	.	.	.	.	.
+
+DayCycleData__.ctor	seg000	0000000000274FF0	0000006B			R	.	.	.	.	.	.	.
+
+DayCycle__.ctor	seg000	0000000000099F10	00000025			R	.	.	.	.	.	.	.
