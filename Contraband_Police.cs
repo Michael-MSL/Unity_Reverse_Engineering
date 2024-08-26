@@ -293,3 +293,9 @@ DevConsole__GodMode	seg000	00000000000ED050	000000A9			R	.	.	.	.	.	.	.
 DevConsole__GodMode2	seg000	00000000000ED100	000000A9			R	.	.	.	.	.	.	.
 
 DevConsole__HideConsole	seg000	00000000000ECD20	00000016			R	.	.	.	.	.	.	.
+
+DevConsole__Human	seg000	00000000000F18A0	00000069			R	.	.	.	.	.	.	.
+
+DevConsole__InitDictionary	seg000	00000000000EAB70	00001544			R	.	.	.	.	.	.	.
+
+DevConsole__InitStandardLists	seg000	00000000000ECA20	00000135			R	.	.	.	.	.	.	.
