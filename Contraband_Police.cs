@@ -353,3 +353,9 @@ DevConsole__SpawnRunaway	seg000	00000000000EC960	00000017			R	.	.	.	.	.	.	.
 DevConsole__StartTime	seg000	00000000000ED670	0000001B			R	.	.	.	.	.	.	.
 
 DevConsole__StopTime	seg000	00000000000ED650	0000001B			R	.	.	.	.	.	.	.
+
+DevConsole__StopTraffic	seg000	00000000000EEED0	00000073			R	.	.	.	.	.	.	.
+
+DevConsole__TeleportPlayer	seg000	00000000000EDBF0	00000036			R	.	.	.	.	.	.	.
+
+DevConsole__Vodka	seg000	00000000000F1830	00000025			R	.	.	.	.	.	.	.
