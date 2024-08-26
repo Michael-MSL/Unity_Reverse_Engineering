@@ -323,3 +323,9 @@ DevConsole__PostAttackPlayer	seg000	00000000000F0F50	0000004D			R	.	.	.	.	.	.	.
 DevConsole__PostAttackVehicle	seg000	00000000000F02B0	00000045			R	.	.	.	.	.	.	.
 
 DevConsole__PostLevel	seg000	00000000000F1160	0000009D			R	.	.	.	.	.	.	.
+
+DevConsole__PrepareForProfilling	seg000	00000000000EF7C0	00000049			R	.	.	.	.	.	.	.
+
+DevConsole__SavePlayerPosRotToGO	seg000	00000000000ED580	0000001B			R	.	.	.	.	.	.	.
+
+DevConsole__SetHandbookLockStage	seg000	00000000000ED360	00000040			R	.	.	.	.	.	.	.
