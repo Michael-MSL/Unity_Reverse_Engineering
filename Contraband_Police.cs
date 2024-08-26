@@ -281,3 +281,9 @@ DevConsole__GetVehicles	seg000	00000000000F09B0	000001ED			R	.	.	.	.	.	.	.
 DevConsole__GiveContraband	seg000	00000000000F00B0	000000B5			R	.	.	.	.	.	.	.
 
 DevConsole__GiveTools	seg000	00000000000EFDA0	000000B5			R	.	.	.	.	.	.	.
+
+DevConsole__GiveToolsAll	seg000	00000000000EFE60	00000241			R	.	.	.	.	.	.	.
+
+DevConsole__GiveWeapons	seg000	00000000000EFBA0	000001F9			R	.	.	.	.	.	.	.
+
+DevConsole__GiveXP	seg000	00000000000ECE10	000000DC			R	.	.	.	.	.	.	.
