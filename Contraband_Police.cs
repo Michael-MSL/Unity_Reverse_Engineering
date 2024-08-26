@@ -359,3 +359,7 @@ DevConsole__StopTraffic	seg000	00000000000EEED0	00000073			R	.	.	.	.	.	.	.
 DevConsole__TeleportPlayer	seg000	00000000000EDBF0	00000036			R	.	.	.	.	.	.	.
 
 DevConsole__Vodka	seg000	00000000000F1830	00000025			R	.	.	.	.	.	.	.
+
+DevConsole__Warning	seg000	00000000000F1B20	0000000E			R	.	.	.	.	.	.	.
+
+DevConsole__WeakGun	seg000	00000000000ED780	0000007D			R	.	.	.	.	.	.	.
