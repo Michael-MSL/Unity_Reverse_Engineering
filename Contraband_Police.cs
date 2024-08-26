@@ -287,3 +287,9 @@ DevConsole__GiveToolsAll	seg000	00000000000EFE60	00000241			R	.	.	.	.	.	.	.
 DevConsole__GiveWeapons	seg000	00000000000EFBA0	000001F9			R	.	.	.	.	.	.	.
 
 DevConsole__GiveXP	seg000	00000000000ECE10	000000DC			R	.	.	.	.	.	.	.
+
+DevConsole__GodMode	seg000	00000000000ED050	000000A9			R	.	.	.	.	.	.	.
+
+DevConsole__GodMode2	seg000	00000000000ED100	000000A9			R	.	.	.	.	.	.	.
+
+DevConsole__HideConsole	seg000	00000000000ECD20	00000016			R	.	.	.	.	.	.	.
