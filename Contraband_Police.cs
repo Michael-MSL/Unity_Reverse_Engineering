@@ -311,3 +311,9 @@ DevConsole__Mosin	seg000	00000000000EC790	00000195			R	.	.	.	.	.	.	.
 DevConsole__NewcomersHistory	seg000	00000000000EF990	00000090			R	.	.	.	.	.	.	.
 
 DevConsole__NextInspectionStage	seg000	00000000000ED3A0	0000001B			R	.	.	.	.	.	.	.
+
+DevConsole__Null2	seg000	00000000000F1AF0	00000028			R	.	.	.	.	.	.	.
+
+DevConsole__PlayTest	seg000	00000000000EDD80	00000059			R	.	.	.	.	.	.	.
+
+DevConsole__PlayerDamage	seg000	00000000000ED1B0	0000005F			R	.	.	.	.	.	.	.
