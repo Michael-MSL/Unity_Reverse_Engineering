@@ -263,3 +263,9 @@ DevConsole__DebugComponents	seg000	00000000000EF500	00000071			R	.	.	.	.	.	.	.
 DevConsole__DebugFSM	seg000	00000000000EDD00	00000056			R	.	.	.	.	.	.	.
 
 DevConsole__DebugStats	seg000	00000000000F03F0	000001C9			R	.	.	.	.	.	.	.
+
+DevConsole__DevVersion	seg000	00000000000EE470	0000003E			R	.	.	.	.	.	.	.
+
+DevConsole__DisableCamera	seg000	00000000000EED50	00000040			R	.	.	.	.	.	.	.
+
+DevConsole__DisableTraffic	seg000	00000000000EEDE0	0000004B			R	.	.	.	.	.	.	.
