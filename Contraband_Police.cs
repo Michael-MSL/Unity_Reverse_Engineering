@@ -269,3 +269,9 @@ DevConsole__DevVersion	seg000	00000000000EE470	0000003E			R	.	.	.	.	.	.	.
 DevConsole__DisableCamera	seg000	00000000000EED50	00000040			R	.	.	.	.	.	.	.
 
 DevConsole__DisableTraffic	seg000	00000000000EEDE0	0000004B			R	.	.	.	.	.	.	.
+
+DevConsole__DisableTrafficAll	seg000	00000000000EEE30	0000009B			R	.	.	.	.	.	.	.
+
+DevConsole__FastWorldEvents	seg000	00000000000EC2C0	0000002D			R	.	.	.	.	.	.	.
+
+DevConsole__GameOver	seg000	00000000000ED820	0000001F			R	.	.	.	.	.	.	.
