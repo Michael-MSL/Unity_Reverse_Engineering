@@ -489,3 +489,9 @@ GameMessagesCreator__NewRegulations	seg000	00000000000E3880	0000005B			R	.	.	.	.
 GameMessagesCreator__NewSmugglers	seg000	00000000000E38E0	0000005B			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__NewcomerKilled	seg000	00000000000E36B0	0000005B			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__NewcomerPanicked	seg000	00000000000E3B70	00000066			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__OwnVehicleDestroyed	seg000	00000000000E3640	00000066			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PlayerCrossedTheBorder	seg000	00000000000E2590	0000005B			R	.	.	.	.	.	.	.
