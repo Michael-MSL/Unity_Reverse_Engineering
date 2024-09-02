@@ -447,3 +447,9 @@ GameMessagesCreator__AmbushDefeated	seg000	00000000000E3590	000000AB			R	.	.	.	.
 GameMessagesCreator__AnimalKilled	seg000	00000000000E2820	00000081			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__ArrestEndedInspection	seg000	00000000000E3A20	00000086			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__Bribe	seg000	00000000000E2D70	00000063			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__CaughtOnBribe	seg000	00000000000E3520	00000063			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__CollectibleFound	seg000	00000000000E2670	00000137			R	.	.	.	.	.	.	.
