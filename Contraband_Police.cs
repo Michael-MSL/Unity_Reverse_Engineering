@@ -477,3 +477,9 @@ GameMessagesCreator__HeavyWounded	seg000	00000000000E27B0	00000070			R	.	.	.	.	.
 GameMessagesCreator__InflationIncreased	seg000	00000000000E3BE0	0000005B			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__ItemsAfterIntro	seg000	00000000000E3710	0000005B			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__KilledFollowers	seg000	00000000000E2EE0	00000067			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__LevelUp	seg000	00000000000E3770	0000004D			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__MissionRejected	seg000	00000000000E29A0	00000052			R	.	.	.	.	.	.	.
