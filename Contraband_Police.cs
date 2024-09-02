@@ -399,3 +399,9 @@ Economy_XP__.cctor	seg000	0000000000058DC0	0000003F			R	.	.	.	.	.	.	.
 Economy__.cctor	seg000	0000000000058920	00000482			R	.	.	.	.	.	.	.
 
 EndPanel__.ctor	seg000	00000000000F68D0	00000012			R	.	.	.	.	.	.	.
+
+EndPanel__Awake	seg000	00000000000F6390	000000FC			R	.	.	.	.	.	.	.
+
+EndPanel__OnShowingFinished	seg000	00000000000F6610	0000005D			R	.	.	.	.	.	.	.
+
+EndPanel__Set	seg000	00000000000F6490	0000016F			R	.	.	.	.	.	.	.
