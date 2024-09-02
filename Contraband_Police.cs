@@ -387,3 +387,9 @@ DriverShopUI__SetVladLayout	seg000	00000000000F56E0	00000255			R	.	.	.	.	.	.	.
 DriverShopUI__ShowTooltip	seg000	00000000000F60A0	000000E4			R	.	.	.	.	.	.	.
 
 DriverShopUI__TranslateContent	seg000	00000000000F52E0	0000009A			R	.	.	.	.	.	.	.
+
+DriverShopUI__Update	seg000	00000000000F51C0	00000112			R	.	.	.	.	.	.	.
+
+DriverShop__Init	seg000	000000000007DA10	00000039			R	.	.	.	.	.	.	.
+
+DurabilityBar__Init	seg000	00000000000F6270	00000064			R	.	.	.	.	.	.	.
