@@ -411,3 +411,9 @@ EndPanel__SetPrologueEnd	seg000	00000000000F67E0	000000DA			R	.	.	.	.	.	.	.
 EnemyZone__Awake	seg000	000000000002B8A0	0000009A			R	.	.	.	.	.	.	.
 
 EntryPermit__Setup	seg000	000000000004F1B0	00000028			R	.	.	.	.	.	.	.
+
+Footsteps__.ctor	seg000	0000000000042CE0	0000003A			R	.	.	.	.	.	.	.
+
+FractionSettings__.ctor	seg000	000000000002BCE0	00000028			R	.	.	.	.	.	.	.
+
+GameDataSave__DeleteFile	seg000	000000000009C040	00000044			R	.	.	.	.	.	.	.
