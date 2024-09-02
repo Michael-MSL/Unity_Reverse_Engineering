@@ -375,3 +375,9 @@ DoorTexts__.ctor	seg000	00000000002BEA60	00000028			R	.	.	.	.	.	.	.
 DrinkableVodka__.ctor	seg000	000000000007CBE0	00000012			R	.	.	.	.	.	.	.
 
 DrinkableVodka__ActionSingle	seg000	000000000007CB20	00000055			R	.	.	.	.	.	.	.
+
+DriverShopUI__HideTooltip	seg000	00000000000F6190	00000025			R	.	.	.	.	.	.	.
+
+DriverShopUI__Init	seg000	00000000000F5080	0000013F			R	.	.	.	.	.	.	.
+
+DriverShopUI__SetBuyingItems	seg000	00000000000F5D60	000001A2			R	.	.	.	.	.	.	.
