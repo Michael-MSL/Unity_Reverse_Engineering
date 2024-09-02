@@ -381,3 +381,9 @@ DriverShopUI__HideTooltip	seg000	00000000000F6190	00000025			R	.	.	.	.	.	.	.
 DriverShopUI__Init	seg000	00000000000F5080	0000013F			R	.	.	.	.	.	.	.
 
 DriverShopUI__SetBuyingItems	seg000	00000000000F5D60	000001A2			R	.	.	.	.	.	.	.
+
+DriverShopUI__SetVladLayout	seg000	00000000000F56E0	00000255			R	.	.	.	.	.	.	.
+
+DriverShopUI__ShowTooltip	seg000	00000000000F60A0	000000E4			R	.	.	.	.	.	.	.
+
+DriverShopUI__TranslateContent	seg000	00000000000F52E0	0000009A			R	.	.	.	.	.	.	.
