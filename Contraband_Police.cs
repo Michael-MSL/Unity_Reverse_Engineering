@@ -441,3 +441,9 @@ GameMessage__.ctor	seg000	00000000000E2000	0000002F			R	.	.	.	.	.	.	.
 GameMessage__Init	seg000	00000000000E1A90	000000E7			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__AmbushDefeated	seg000	00000000000E3590	000000AB			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__AmbushDefeated	seg000	00000000000E3590	000000AB			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__AnimalKilled	seg000	00000000000E2820	00000081			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__ArrestEndedInspection	seg000	00000000000E3A20	00000086			R	.	.	.	.	.	.	.
