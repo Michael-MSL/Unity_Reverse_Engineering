@@ -781,3 +781,9 @@ LevelUp__Close	seg000	00000000000FF5E0	00000077			R	.	.	.	.	.	.	.
 LevelUp__TranslateContent	seg000	00000000000FF530	00000071			R	.	.	.	.	.	.	.
 
 Location__.ctor	seg000	00000000000959C0	00000021			R	.	.	.	.	.	.	.
+
+Mailbox__OnDisable	seg000	00000000000920D0	00000052			R	.	.	.	.	.	.	.
+
+Mailbox__OnEnable	seg000	0000000000092070	00000052			R	.	.	.	.	.	.	.
+
+MapFolded__Setup	seg000	00000000000535A0	0000001C			R	.	.	.	.	.	.	.
