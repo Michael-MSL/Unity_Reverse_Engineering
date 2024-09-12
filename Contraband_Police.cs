@@ -585,3 +585,11 @@ Handbook__SetNextPage	seg000	000000000004FD00	00000041			R	.	.	.	.	.	.	.
 Handbook__SetPreviousPage	seg000	000000000004FD50	00000026			R	.	.	.	.	.	.	.
 
 Handbook__Setup	seg000	000000000004F500	000002D2			R	.	.	.	.	.	.	.
+
+Handbook__ToCSelection	seg000	000000000004FD80	0000007F			R	.	.	.	.	.	.	.
+
+Handbook__TranslateCover	seg000	000000000004F820	00000073			R	.	.	.	.	.	.	.
+
+HitEffect__.ctor	seg000	00000000000A5AF0	00000012			R	.	.	.	.	.	.	.
+
+HitReaction__.cctor	seg000	0000000000061AD0	00000014			R	.	.	.	.	.	.	.
