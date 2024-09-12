@@ -555,3 +555,11 @@ Grenade__.ctor	seg000	000000000007D670	00000012			R	.	.	.	.	.	.	.
 Grenade__OnEnable	seg000	000000000007CDE0	00000037			R	.	.	.	.	.	.	.
 
 Grinder__Init	seg000	0000000000086E20	00000040			R	.	.	.	.	.	.	.
+
+Grinder__TurnOff	seg000	0000000000086E90	00000027			R	.	.	.	.	.	.	.
+
+Grinder__TurnOn	seg000	0000000000086E60	00000027			R	.	.	.	.	.	.	.
+
+GunShoot__.ctor	seg000	0000000000158EF0	0000001D			R	.	.	.	.	.	.	.
+
+Gun__.ctor	seg000	000000000011C750	00000050			R	.	.	.	.	.	.	.
