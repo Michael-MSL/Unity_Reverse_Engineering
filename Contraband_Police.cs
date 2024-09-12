@@ -593,3 +593,11 @@ Handbook__TranslateCover	seg000	000000000004F820	00000073			R	.	.	.	.	.	.	.
 HitEffect__.ctor	seg000	00000000000A5AF0	00000012			R	.	.	.	.	.	.	.
 
 HitReaction__.cctor	seg000	0000000000061AD0	00000014			R	.	.	.	.	.	.	.
+
+HitReaction__.ctor	seg000	00000000000619E0	000000E4			R	.	.	.	.	.	.	.
+
+HumanAIController__.ctor	seg000	000000000002BFC0	0000006E			R	.	.	.	.	.	.	.
+
+HumanAimController__.ctor	seg000	0000000000066A60	000000A5			R	.	.	.	.	.	.	.
+
+HumanAimController__DebugCanShoot	seg000	0000000000067570	0000006F			R	.	.	.	.	.	.	.
