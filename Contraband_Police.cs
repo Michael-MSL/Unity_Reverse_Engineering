@@ -577,3 +577,11 @@ Handbook__CloseBook	seg000	000000000004FC60	0000005E			R	.	.	.	.	.	.	.
 Handbook__CreateRenderTextures	seg000	000000000004F8B0	0000009F			R	.	.	.	.	.	.	.
 
 Handbook__OpenBook	seg000	000000000004FBF0	00000068			R	.	.	.	.	.	.	.
+
+Handbook__Restart	seg000	000000000004FCC0	00000034			R	.	.	.	.	.	.	.
+
+Handbook__SetNextPage	seg000	000000000004FD00	00000041			R	.	.	.	.	.	.	.
+
+Handbook__SetPreviousPage	seg000	000000000004FD50	00000026			R	.	.	.	.	.	.	.
+
+Handbook__Setup	seg000	000000000004F500	000002D2			R	.	.	.	.	.	.	.
