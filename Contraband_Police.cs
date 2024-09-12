@@ -515,3 +515,11 @@ GameMessagesCreator__Repairs	seg000	00000000000E3940	00000067			R	.	.	.	.	.	.	.
 GameMessagesCreator__RepairsAndTreatment	seg000	00000000000E3250	000000A9			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__ReturnToPostWork	seg000	00000000000E25F0	0000007A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__RunawayDied	seg000	00000000000E28B0	00000052			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__SmugglerReleased	seg000	00000000000E3B10	0000005A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__TakePrisonVan	seg000	00000000000E3400	00000085			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__TakeSupplyVan	seg000	00000000000E3490	00000085			R	.	.	.	.	.	.	.
