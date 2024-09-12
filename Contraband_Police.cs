@@ -507,3 +507,11 @@ GameMessagesCreator__PrisonerTransferred	seg000	00000000000E2B00	0000009F			R	.	
 GameMessagesCreator__PrisonersTransferred	seg000	00000000000E3300	0000007A			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__PursuitFailedTimeLimit	seg000	00000000000E2FB0	00000066			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PursuitSucceed	seg000	00000000000E3020	00000062			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__Repairs	seg000	00000000000E3940	00000067			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__RepairsAndTreatment	seg000	00000000000E3250	000000A9			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__ReturnToPostWork	seg000	00000000000E25F0	0000007A			R	.	.	.	.	.	.	.
