@@ -709,3 +709,9 @@ IntroDay1__OnInspectionReportShown	seg000	0000000000075DA0	0000007E			R	.	.	.	.	
 IntroDay1__OnPlayerApproachedPost	seg000	00000000000755E0	0000006E			R	.	.	.	.	.	.	.
 
 IntroDay1__OptionSelected	seg000	0000000000075E20	00000042			R	.	.	.	.	.	.	.
+
+IntroDay1__PlayerEnteredTrailer	seg000	0000000000076040	00000039			R	.	.	.	.	.	.	.
+
+IntroDay1__PlayerEnteredTrailerInterior	seg000	0000000000075FE0	00000057			R	.	.	.	.	.	.	.
+
+IntroDay1__PrepareDay	seg000	0000000000074C40	000000C0			R	.	.	.	.	.	.	.
