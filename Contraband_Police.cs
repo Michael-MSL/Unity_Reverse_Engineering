@@ -569,3 +569,11 @@ Gun__Awake	seg000	000000000011C2A0	0000007E			R	.	.	.	.	.	.	.
 Gun__Deactivate	seg000	000000000011C330	00000033			R	.	.	.	.	.	.	.
 
 Gun__ResetPosition	seg000	000000000011C370	0000005B			R	.	.	.	.	.	.	.
+
+Gun__Shoot	seg000	000000000011C450	00000019			R	.	.	.	.	.	.	.
+
+Handbook__CloseBook	seg000	000000000004FC60	0000005E			R	.	.	.	.	.	.	.
+
+Handbook__CreateRenderTextures	seg000	000000000004F8B0	0000009F			R	.	.	.	.	.	.	.
+
+Handbook__OpenBook	seg000	000000000004FBF0	00000068			R	.	.	.	.	.	.	.
