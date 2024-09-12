@@ -523,3 +523,11 @@ GameMessagesCreator__SmugglerReleased	seg000	00000000000E3B10	0000005A			R	.	.	.
 GameMessagesCreator__TakePrisonVan	seg000	00000000000E3400	00000085			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__TakeSupplyVan	seg000	00000000000E3490	00000085			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__Treatment	seg000	00000000000E39B0	00000063			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__UnjustifiedArrest	seg000	00000000000E2C90	0000005A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__Upgrade	seg000	00000000000E2BA0	0000007A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__VehicleDamage	seg000	00000000000E2E50	00000084			R	.	.	.	.	.	.	.
