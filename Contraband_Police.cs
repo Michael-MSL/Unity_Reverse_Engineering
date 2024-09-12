@@ -763,3 +763,9 @@ ItemAnimatorController__PlayReloadEndPlayer	seg000	0000000000082970	00000022			R
 ItemAnimatorController__PlayReloadHuman	seg000	00000000000829D0	00000022			R	.	.	.	.	.	.	.
 
 ItemAnimatorController__PlayShootHuman	seg000	00000000000829A0	00000022			R	.	.	.	.	.	.	.
+
+ItemAnimatorController__PlayShootPlayer	seg000	00000000000828F0	00000022			R	.	.	.	.	.	.	.
+
+KeyScript__.ctor	seg000	0000000000150D40	00000012			R	.	.	.	.	.	.	.
+
+Key__.ctor	seg000	00000000002CA970	00000064			R	.	.	.	.	.	.	.
