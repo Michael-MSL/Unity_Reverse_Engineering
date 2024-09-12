@@ -539,3 +539,11 @@ Garage__GetGarageHumanSpawner	seg000	000000000008BC40	0000001A			R	.	.	.	.	.	.	.
 Garage__Inspect	seg000	000000000008BAA0	00000048			R	.	.	.	.	.	.	.
 
 Garage__OnVehicleExploded	seg000	000000000008C060	00000090			R	.	.	.	.	.	.	.
+
+Garage__PreInit	seg000	000000000008B290	000000AE			R	.	.	.	.	.	.	.
+
+Garage__Restart	seg000	000000000008B350	000000BC			R	.	.	.	.	.	.	.
+
+Garage__SpawnVehicle	seg000	000000000008B960	00000030			R	.	.	.	.	.	.	.
+
+Garage__SpawnVehicle_0	seg000	000000000008B990	00000055			R	.	.	.	.	.	.	.
