@@ -751,3 +751,9 @@ Intro__Restart	seg000	0000000000075F70	0000003F			R	.	.	.	.	.	.	.
 Intro__RunDay	seg000	0000000000075DC0	00000019			R	.	.	.	.	.	.	.
 
 Intro__Save	seg000	0000000000075FB0	0000002F			R	.	.	.	.	.	.	.
+
+InvisibleShot__.ctor	seg000	0000000000089370	00000012			R	.	.	.	.	.	.	.
+
+ItemAnimatorController__PlayGrenadePrepare	seg000	0000000000082A00	00000022			R	.	.	.	.	.	.	.
+
+ItemAnimatorController__PlayIdle	seg000	0000000000082A30	00000022			R	.	.	.	.	.	.	.
