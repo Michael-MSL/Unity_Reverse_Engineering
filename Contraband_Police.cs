@@ -495,3 +495,9 @@ GameMessagesCreator__NewcomerPanicked	seg000	00000000000E3B70	00000066			R	.	.	.
 GameMessagesCreator__OwnVehicleDestroyed	seg000	00000000000E3640	00000066			R	.	.	.	.	.	.	.
 
 GameMessagesCreator__PlayerCrossedTheBorder	seg000	00000000000E2590	0000005B			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PrisonBreak	seg000	00000000000E37C0	0000005A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PrisonBreakVehicle	seg000	00000000000E3820	0000005A			R	.	.	.	.	.	.	.
+
+GameMessagesCreator__PrisonFull	seg000	00000000000E3090	00000062			R	.	.	.	.	.	.	.
