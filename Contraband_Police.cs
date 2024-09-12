@@ -563,3 +563,9 @@ Grinder__TurnOn	seg000	0000000000086E60	00000027			R	.	.	.	.	.	.	.
 GunShoot__.ctor	seg000	0000000000158EF0	0000001D			R	.	.	.	.	.	.	.
 
 Gun__.ctor	seg000	000000000011C750	00000050			R	.	.	.	.	.	.	.
+
+Gun__Awake	seg000	000000000011C2A0	0000007E			R	.	.	.	.	.	.	.
+
+Gun__Deactivate	seg000	000000000011C330	00000033			R	.	.	.	.	.	.	.
+
+Gun__ResetPosition	seg000	000000000011C370	0000005B			R	.	.	.	.	.	.	.
