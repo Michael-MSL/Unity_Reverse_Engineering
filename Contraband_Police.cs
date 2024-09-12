@@ -757,3 +757,9 @@ InvisibleShot__.ctor	seg000	0000000000089370	00000012			R	.	.	.	.	.	.	.
 ItemAnimatorController__PlayGrenadePrepare	seg000	0000000000082A00	00000022			R	.	.	.	.	.	.	.
 
 ItemAnimatorController__PlayIdle	seg000	0000000000082A30	00000022			R	.	.	.	.	.	.	.
+
+ItemAnimatorController__PlayReloadEndPlayer	seg000	0000000000082970	00000022			R	.	.	.	.	.	.	.
+
+ItemAnimatorController__PlayReloadHuman	seg000	00000000000829D0	00000022			R	.	.	.	.	.	.	.
+
+ItemAnimatorController__PlayShootHuman	seg000	00000000000829A0	00000022			R	.	.	.	.	.	.	.
