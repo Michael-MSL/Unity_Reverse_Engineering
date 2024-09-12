@@ -775,3 +775,9 @@ LAMLayerData__.ctor	seg000	00000000001372C0	00000226			R	.	.	.	.	.	.	.
 LAMLayerData__SetMaterial	seg000	00000000001374F0	00000218			R	.	.	.	.	.	.	.
 
 LevelUp__Awake	seg000	00000000000FF500	0000002A			R	.	.	.	.	.	.	.
+
+LevelUp__Close	seg000	00000000000FF5E0	00000077			R	.	.	.	.	.	.	.
+
+LevelUp__TranslateContent	seg000	00000000000FF530	00000071			R	.	.	.	.	.	.	.
+
+Location__.ctor	seg000	00000000000959C0	00000021			R	.	.	.	.	.	.	.
