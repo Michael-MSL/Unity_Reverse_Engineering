@@ -715,3 +715,9 @@ IntroDay1__PlayerEnteredTrailer	seg000	0000000000076040	00000039			R	.	.	.	.	.	.
 IntroDay1__PlayerEnteredTrailerInterior	seg000	0000000000075FE0	00000057			R	.	.	.	.	.	.	.
 
 IntroDay1__PrepareDay	seg000	0000000000074C40	000000C0			R	.	.	.	.	.	.	.
+
+IntroDay1__PrepareDecorations	seg000	0000000000074D00	0000007A			R	.	.	.	.	.	.	.
+
+IntroDay1__PrepareVehicles	seg000	0000000000074D80	00000181			R	.	.	.	.	.	.	.
+
+IntroDay1__RegisterEvents	seg000	00000000000750C0	00000476			R	.	.	.	.	.	.	.
