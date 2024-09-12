@@ -745,3 +745,9 @@ IntroDay__ShowArrow2D_0	seg000	0000000000074A60	00000047			R	.	.	.	.	.	.	.
 Intro__Load	seg000	00000000000743C0	00000048			R	.	.	.	.	.	.	.
 
 Intro__PrepareDay	seg000	0000000000075D80	0000003C			R	.	.	.	.	.	.	.
+
+Intro__Restart	seg000	0000000000075F70	0000003F			R	.	.	.	.	.	.	.
+
+Intro__RunDay	seg000	0000000000075DC0	00000019			R	.	.	.	.	.	.	.
+
+Intro__Save	seg000	0000000000075FB0	0000002F			R	.	.	.	.	.	.	.
