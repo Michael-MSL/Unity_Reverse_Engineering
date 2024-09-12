@@ -769,3 +769,9 @@ ItemAnimatorController__PlayShootPlayer	seg000	00000000000828F0	00000022			R	.	.
 KeyScript__.ctor	seg000	0000000000150D40	00000012			R	.	.	.	.	.	.	.
 
 Key__.ctor	seg000	00000000002CA970	00000064			R	.	.	.	.	.	.	.
+
+LAMLayerData__.ctor	seg000	00000000001372C0	00000226			R	.	.	.	.	.	.	.
+
+LAMLayerData__SetMaterial	seg000	00000000001374F0	00000218			R	.	.	.	.	.	.	.
+
+LevelUp__Awake	seg000	00000000000FF500	0000002A			R	.	.	.	.	.	.	.
