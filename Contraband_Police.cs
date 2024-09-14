@@ -805,3 +805,9 @@ MapUnfolded__Awake	seg000	00000000000568B0	000000BD			R	.	.	.	.	.	.	.
 MapUnfolded__OnDestroy	seg000	0000000000056E60	0000001C			R	.	.	.	.	.	.	.
 
 MapUnfolded__PointerDown	seg000	0000000000056D70	00000001			R	.	.	.	.	.	.	.
+
+MapUnfolded__QuitPressed	seg000	0000000000056970	00000048			R	.	.	.	.	.	.	.
+
+MapUnfolded__RegisterMarker	seg000	0000000000056AF0	00000092			R	.	.	.	.	.	.	.
+
+MapUnfolded__RegisterPlayerMarker	seg000	0000000000056AD0	00000010			R	.	.	.	.	.	.	.
