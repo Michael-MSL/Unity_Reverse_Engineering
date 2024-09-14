@@ -811,3 +811,9 @@ MapUnfolded__QuitPressed	seg000	0000000000056970	00000048			R	.	.	.	.	.	.	.
 MapUnfolded__RegisterMarker	seg000	0000000000056AF0	00000092			R	.	.	.	.	.	.	.
 
 MapUnfolded__RegisterPlayerMarker	seg000	0000000000056AD0	00000010			R	.	.	.	.	.	.	.
+
+MapUnfolded__RegisterPlayerVehMarker	seg000	0000000000056AE0	00000010			R	.	.	.	.	.	.	.
+
+MeleeWeapon__.ctor	seg000	000000000008B470	00000019			R	.	.	.	.	.	.	.
+
+MovementNode__Awake	seg000	00000000000C3C40	000000F8			R	.	.	.	.	.	.	.
