@@ -841,3 +841,9 @@ NewcomerLetterPanel__SetLetter	seg000	000000000010C020	00000138			R	.	.	.	.	.	.	
 Newspaper__Awake	seg000	0000000000094500	00000144			R	.	.	.	.	.	.	.
 
 Newspaper__Close	seg000	0000000000094B80	00000068			R	.	.	.	.	.	.	.
+
+Newspaper__GetTranslatedDayOfWeek	seg000	0000000000094840	000000B7			R	.	.	.	.	.	.	.
+
+Newspaper__GetTranslatedMounth	seg000	0000000000094900	00000136			R	.	.	.	.	.	.	.
+
+Newspaper__Hide	seg000	0000000000094B00	00000078			R	.	.	.	.	.	.	.
