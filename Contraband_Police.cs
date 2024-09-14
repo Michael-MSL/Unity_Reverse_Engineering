@@ -829,3 +829,9 @@ NewcomerLetterFolded__Interact	seg000	0000000000094480	00000055			R	.	.	.	.	.	.	
 NewcomerLetterFolded__Show	seg000	0000000000094440	00000028			R	.	.	.	.	.	.	.
 
 NewcomerLetterPanel__Hide	seg000	000000000010C1F0	00000070			R	.	.	.	.	.	.	.
+
+NewcomerLetterPanel__OnHide	seg000	000000000010C260	0000005B			R	.	.	.	.	.	.	.
+
+NewcomerLetterPanel__OnShow	seg000	000000000010C160	0000007D			R	.	.	.	.	.	.	.
+
+NewcomerLetterPanel__PlayReadingMusicDelayed	seg000	000000000010C1E0	00000007			R	.	.	.	.	.	.	.
