@@ -823,3 +823,9 @@ NPCSpawnerPanel__.ctor	seg000	00000000000FA9A0	00000012			R	.	.	.	.	.	.	.
 NPCSpawnerPanel__Init	seg000	00000000000FA470	00000039			R	.	.	.	.	.	.	.
 
 NavigationTracker__.ctor	seg000	000000000002E7F0	00000036			R	.	.	.	.	.	.	.
+
+NewcomerLetterFolded__Interact	seg000	0000000000094480	00000055			R	.	.	.	.	.	.	.
+
+NewcomerLetterFolded__Show	seg000	0000000000094440	00000028			R	.	.	.	.	.	.	.
+
+NewcomerLetterPanel__Hide	seg000	000000000010C1F0	00000070			R	.	.	.	.	.	.	.
