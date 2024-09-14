@@ -799,3 +799,9 @@ MapMarker__OnFastTravelRejected	seg000	0000000000055380	0000004C			R	.	.	.	.	.	.
 MapMarker__OnPointerDown	seg000	0000000000054E20	000002A2			R	.	.	.	.	.	.	.
 
 MapMarker__Setup	seg000	00000000000542F0	0000033E			R	.	.	.	.	.	.	.
+
+MapUnfolded__Awake	seg000	00000000000568B0	000000BD			R	.	.	.	.	.	.	.
+
+MapUnfolded__OnDestroy	seg000	0000000000056E60	0000001C			R	.	.	.	.	.	.	.
+
+MapUnfolded__PointerDown	seg000	0000000000056D70	00000001			R	.	.	.	.	.	.	.
