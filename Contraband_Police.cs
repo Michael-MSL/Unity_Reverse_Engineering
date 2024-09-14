@@ -787,3 +787,9 @@ Mailbox__OnDisable	seg000	00000000000920D0	00000052			R	.	.	.	.	.	.	.
 Mailbox__OnEnable	seg000	0000000000092070	00000052			R	.	.	.	.	.	.	.
 
 MapFolded__Setup	seg000	00000000000535A0	0000001C			R	.	.	.	.	.	.	.
+
+MapMarkerHint__Awake	seg000	0000000000055350	00000230			R	.	.	.	.	.	.	.
+
+MapMarker__.ctor	seg000	0000000000055300	00000024			R	.	.	.	.	.	.	.
+
+MapMarker__GetMarkerTypeByName	seg000	00000000000551A0	0000015A			R	.	.	.	.	.	.	.
