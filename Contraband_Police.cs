@@ -835,3 +835,9 @@ NewcomerLetterPanel__OnHide	seg000	000000000010C260	0000005B			R	.	.	.	.	.	.	.
 NewcomerLetterPanel__OnShow	seg000	000000000010C160	0000007D			R	.	.	.	.	.	.	.
 
 NewcomerLetterPanel__PlayReadingMusicDelayed	seg000	000000000010C1E0	00000007			R	.	.	.	.	.	.	.
+
+NewcomerLetterPanel__SetLetter	seg000	000000000010C020	00000138			R	.	.	.	.	.	.	.
+
+Newspaper__Awake	seg000	0000000000094500	00000144			R	.	.	.	.	.	.	.
+
+Newspaper__Close	seg000	0000000000094B80	00000068			R	.	.	.	.	.	.	.
