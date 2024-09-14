@@ -793,3 +793,9 @@ MapMarkerHint__Awake	seg000	0000000000055350	00000230			R	.	.	.	.	.	.	.
 MapMarker__.ctor	seg000	0000000000055300	00000024			R	.	.	.	.	.	.	.
 
 MapMarker__GetMarkerTypeByName	seg000	00000000000551A0	0000015A			R	.	.	.	.	.	.	.
+
+MapMarker__OnFastTravelRejected	seg000	0000000000055380	0000004C			R	.	.	.	.	.	.	.
+
+MapMarker__OnPointerDown	seg000	0000000000054E20	000002A2			R	.	.	.	.	.	.	.
+
+MapMarker__Setup	seg000	00000000000542F0	0000033E			R	.	.	.	.	.	.	.
