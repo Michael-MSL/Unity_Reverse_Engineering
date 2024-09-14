@@ -817,3 +817,9 @@ MapUnfolded__RegisterPlayerVehMarker	seg000	0000000000056AE0	00000010			R	.	.	.	
 MeleeWeapon__.ctor	seg000	000000000008B470	00000019			R	.	.	.	.	.	.	.
 
 MovementNode__Awake	seg000	00000000000C3C40	000000F8			R	.	.	.	.	.	.	.
+
+NPCSpawnerPanel__.ctor	seg000	00000000000FA9A0	00000012			R	.	.	.	.	.	.	.
+
+NPCSpawnerPanel__Init	seg000	00000000000FA470	00000039			R	.	.	.	.	.	.	.
+
+NavigationTracker__.ctor	seg000	000000000002E7F0	00000036			R	.	.	.	.	.	.	.
