@@ -859,3 +859,9 @@ PhysicalDoor__.ctor	seg000	00000000000CBA40	0000009D			R	.	.	.	.	.	.	.
 PhysicalHuman__.ctor	seg000	000000000006F8E0	00000012			R	.	.	.	.	.	.	.
 
 PhysicalMovingPlatform__.ctor	seg000	00000000001586E0	00000012			R	.	.	.	.	.	.	.
+
+PlaneDropTreasureCrate__OnDisable	seg000	0000000000139050	0000001C			R	.	.	.	.	.	.	.
+
+PlaneDropTreasureCrate__OnEnable	seg000	0000000000139070	0000001C			R	.	.	.	.	.	.	.
+
+PlayerAudio__Init	seg000	00000000000D1100	00000059			R	.	.	.	.	.	.	.
