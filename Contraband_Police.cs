@@ -907,3 +907,9 @@ PlayerMovementController__UpdatePitch	seg000	00000000000D6160	00000093			R	.	.	.
 PlayerMovementController__set_MPitchAngle	seg000	00000000000D6360	0000002A			R	.	.	.	.	.	.	.
 
 PlayerSpawner__GetFirstSpawner	seg000	00000000000D7C10	0000002A			R	.	.	.	.	.	.	.
+
+PlayerSpawner__Save	seg000	00000000000D7D60	00000064			R	.	.	.	.	.	.	.
+
+Player__.cctor	seg000	00000000000D1000	0000000B			R	.	.	.	.	.	.	.
+
+Player__.ctor	seg000	00000000000D0FE0	0000001D			R	.	.	.	.	.	.	.
