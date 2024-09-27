@@ -973,3 +973,9 @@ PlayfabManager__SendError	seg000	00000000000C6B30	00000078			R	.	.	.	.	.	.	.
 PlayfabManager__Test	seg000	00000000000C6DD0	0000003C			R	.	.	.	.	.	.	.
 
 PlayfabManager__UpdateMoney	seg000	00000000000C6430	0000005A			R	.	.	.	.	.	.	.
+
+PlayfabManager__WriteBasicInfo	seg000	00000000000C6BB0	00000218			R	.	.	.	.	.	.	.
+
+PlayfabOnNewDay__.ctor	seg000	0000000000299490	000000EC			R	.	.	.	.	.	.	.
+
+PoliceRank__Awake	seg000	000000000010CD50	00000094			R	.	.	.	.	.	.	.
