@@ -919,3 +919,9 @@ Player__EnableControlHeadOnly	seg000	00000000000CFD40	00000063			R	.	.	.	.	.	.	.
 Player__GetHead	seg000	00000000000CF890	0000001C			R	.	.	.	.	.	.	.
 
 Player__OnDisable	seg000	00000000000CF4E0	00000064			R	.	.	.	.	.	.	.
+
+Player__OnEnable	seg000	00000000000CF470	00000064			R	.	.	.	.	.	.	.
+
+Player__RemoveAttachments	seg000	00000000000CF740	000000CB			R	.	.	.	.	.	.	.
+
+Player__RevivePlayer	seg000	00000000000CF550	00000040			R	.	.	.	.	.	.	.
