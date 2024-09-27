@@ -931,3 +931,9 @@ Player__SetMoney	seg000	00000000000CFFF0	00000030			R	.	.	.	.	.	.	.
 Player__ShowPlayerBody	seg000	00000000000CFF50	0000001C			R	.	.	.	.	.	.	.
 
 Player__UnlockInfoGraphics	seg000	00000000000D0B40	00000141			R	.	.	.	.	.	.	.
+
+Player__UnlockInfoGraphics	seg000	00000000000D0B40	00000141			R	.	.	.	.	.	.	.
+
+Player__UpdateSurvivalMaintenance	seg000	00000000000D0020	00000049			R	.	.	.	.	.	.	.
+
+PlayfabManager__GetCurrentStats	seg000	00000000000C6A10	0000003C			R	.	.	.	.	.	.	.
