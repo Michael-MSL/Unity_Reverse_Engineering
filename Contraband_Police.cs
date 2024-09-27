@@ -895,3 +895,9 @@ PlayerInventory__Init	seg000	000000000010C8E0	000001B0			R	.	.	.	.	.	.	.
 PlayerManager__GetPlayer	seg000	00000000000D5430	0000001B			R	.	.	.	.	.	.	.
 
 PlayerManager__SpawnPlayer	seg000	00000000000D5180	000000C2			R	.	.	.	.	.	.	.
+
+PlayerMovementController__.ctor	seg000	00000000000D7A40	00000146			R	.	.	.	.	.	.	.
+
+PlayerMovementController__PitchKeepFromAnimator	seg000	00000000000D6310	00000036			R	.	.	.	.	.	.	.
+
+PlayerMovementController__SetPitch	seg000	00000000000D62F0	00000020			R	.	.	.	.	.	.	.
