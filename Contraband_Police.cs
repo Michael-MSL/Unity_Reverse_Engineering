@@ -937,3 +937,9 @@ Player__UnlockInfoGraphics	seg000	00000000000D0B40	00000141			R	.	.	.	.	.	.	.
 Player__UpdateSurvivalMaintenance	seg000	00000000000D0020	00000049			R	.	.	.	.	.	.	.
 
 PlayfabManager__GetCurrentStats	seg000	00000000000C6A10	0000003C			R	.	.	.	.	.	.	.
+
+PlayfabManager__GetGameState	seg000	00000000000C63E0	0000004F			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnContrabandFound	seg000	00000000000C6630	000000BE			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnContrabandSold	seg000	00000000000C66F0	0000009B			R	.	.	.	.	.	.	.
