@@ -901,3 +901,9 @@ PlayerMovementController__.ctor	seg000	00000000000D7A40	00000146			R	.	.	.	.	.	.
 PlayerMovementController__PitchKeepFromAnimator	seg000	00000000000D6310	00000036			R	.	.	.	.	.	.	.
 
 PlayerMovementController__SetPitch	seg000	00000000000D62F0	00000020			R	.	.	.	.	.	.	.
+
+PlayerMovementController__UpdatePitch	seg000	00000000000D6160	00000093			R	.	.	.	.	.	.	.
+
+PlayerMovementController__set_MPitchAngle	seg000	00000000000D6360	0000002A			R	.	.	.	.	.	.	.
+
+PlayerSpawner__GetFirstSpawner	seg000	00000000000D7C10	0000002A			R	.	.	.	.	.	.	.
