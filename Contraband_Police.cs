@@ -943,3 +943,9 @@ PlayfabManager__GetGameState	seg000	00000000000C63E0	0000004F			R	.	.	.	.	.	.	.
 PlayfabManager__OnContrabandFound	seg000	00000000000C6630	000000BE			R	.	.	.	.	.	.	.
 
 PlayfabManager__OnContrabandSold	seg000	00000000000C66F0	0000009B			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnDayEnded	seg000	00000000000C65B0	00000033			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnGameOver	seg000	00000000000C65F0	00000033			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnInspectionFinished	seg000	00000000000C6940	0000004A			R	.	.	.	.	.	.	.
