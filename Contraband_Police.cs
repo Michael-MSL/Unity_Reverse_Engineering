@@ -883,3 +883,9 @@ PlayerDamage__Init	seg000	00000000000D24D0	000000E2			R	.	.	.	.	.	.	.
 PlayerDamage__TryDealDamageByCollisionWithVehicle	seg000	00000000000D2AE0	0000008C			R	.	.	.	.	.	.	.
 
 PlayerDriver__Init	seg000	00000000000D2CB0	00000057			R	.	.	.	.	.	.	.
+
+PlayerDriver__InitEyes	seg000	00000000000D2D10	0000007F			R	.	.	.	.	.	.	.
+
+PlayerDriver__InitVisuals	seg000	00000000000D2D90	00000154			R	.	.	.	.	.	.	.
+
+PlayerInteraction__.ctor	seg000	00000000000D3740	00000056			R	.	.	.	.	.	.	.
