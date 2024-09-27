@@ -949,3 +949,9 @@ PlayfabManager__OnDayEnded	seg000	00000000000C65B0	00000033			R	.	.	.	.	.	.	.
 PlayfabManager__OnGameOver	seg000	00000000000C65F0	00000033			R	.	.	.	.	.	.	.
 
 PlayfabManager__OnInspectionFinished	seg000	00000000000C6940	0000004A			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnNPCMurdered	seg000	00000000000C6990	0000003C			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnNewDay	seg000	00000000000C6550	0000005F			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnNewGame	seg000	00000000000C6510	00000033			R	.	.	.	.	.	.	.
