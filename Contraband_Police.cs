@@ -961,3 +961,9 @@ PlayfabManager__OnPrisonerArrested	seg000	00000000000C6790	0000003A			R	.	.	.	.	
 PlayfabManager__OnPrisonersSold	seg000	00000000000C67D0	0000004C			R	.	.	.	.	.	.	.
 
 PlayfabManager__OnProductBought	seg000	00000000000C6880	00000053			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnProductSold	seg000	00000000000C68E0	0000005A			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnToolBought	seg000	00000000000C6820	00000053			R	.	.	.	.	.	.	.
+
+PlayfabManager__OnVehicleDamaged	seg000	00000000000C69D0	0000003C			R	.	.	.	.	.	.	.
