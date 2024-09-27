@@ -967,3 +967,9 @@ PlayfabManager__OnProductSold	seg000	00000000000C68E0	0000005A			R	.	.	.	.	.	.	.
 PlayfabManager__OnToolBought	seg000	00000000000C6820	00000053			R	.	.	.	.	.	.	.
 
 PlayfabManager__OnVehicleDamaged	seg000	00000000000C69D0	0000003C			R	.	.	.	.	.	.	.
+
+PlayfabManager__SendError	seg000	00000000000C6B30	00000078			R	.	.	.	.	.	.	.
+
+PlayfabManager__Test	seg000	00000000000C6DD0	0000003C			R	.	.	.	.	.	.	.
+
+PlayfabManager__UpdateMoney	seg000	00000000000C6430	0000005A			R	.	.	.	.	.	.	.
