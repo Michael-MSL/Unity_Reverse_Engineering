@@ -877,3 +877,9 @@ PlayerCharacterMovement__Crouching	seg000	00000000000D1F90	00000093			R	.	.	.	.	
 PlayerCharacterMovement__CrouchingInstant	seg000	00000000000D2050	00000091			R	.	.	.	.	.	.	.
 
 PlayerDamage__.ctor	seg000	00000000000D2C40	00000033			R	.	.	.	.	.	.	.
+
+PlayerDamage__Init	seg000	00000000000D24D0	000000E2			R	.	.	.	.	.	.	.
+
+PlayerDamage__TryDealDamageByCollisionWithVehicle	seg000	00000000000D2AE0	0000008C			R	.	.	.	.	.	.	.
+
+PlayerDriver__Init	seg000	00000000000D2CB0	00000057			R	.	.	.	.	.	.	.
