@@ -847,3 +847,9 @@ Newspaper__GetTranslatedDayOfWeek	seg000	0000000000094840	000000B7			R	.	.	.	.	.
 Newspaper__GetTranslatedMounth	seg000	0000000000094900	00000136			R	.	.	.	.	.	.	.
 
 Newspaper__Hide	seg000	0000000000094B00	00000078			R	.	.	.	.	.	.	.
+
+Painter__.ctor	seg000	0000000000152390	00000012			R	.	.	.	.	.	.	.
+
+Passport__EnableStamp	seg000	0000000000057AB0	00000054			R	.	.	.	.	.	.	.
+
+Passport__Setup	seg000	0000000000057A30	00000079			R	.	.	.	.	.	.	.
