@@ -925,3 +925,9 @@ Player__OnEnable	seg000	00000000000CF470	00000064			R	.	.	.	.	.	.	.
 Player__RemoveAttachments	seg000	00000000000CF740	000000CB			R	.	.	.	.	.	.	.
 
 Player__RevivePlayer	seg000	00000000000CF550	00000040			R	.	.	.	.	.	.	.
+
+Player__SetMoney	seg000	00000000000CFFF0	00000030			R	.	.	.	.	.	.	.
+
+Player__ShowPlayerBody	seg000	00000000000CFF50	0000001C			R	.	.	.	.	.	.	.
+
+Player__UnlockInfoGraphics	seg000	00000000000D0B40	00000141			R	.	.	.	.	.	.	.
