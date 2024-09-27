@@ -871,3 +871,9 @@ PlayerAudio__OnSetPhysicalPlayer	seg000	00000000000D1270	00000039			R	.	.	.	.	.	
 PlayerBed__ShowInteractionPanel	seg000	0000000000076E90	000000F5			R	.	.	.	.	.	.	.
 
 PlayerCharacterMovement__.ctor	seg000	00000000000D2360	000000BB			R	.	.	.	.	.	.	.
+
+PlayerCharacterMovement__Crouching	seg000	00000000000D1F90	00000093			R	.	.	.	.	.	.	.
+
+PlayerCharacterMovement__CrouchingInstant	seg000	00000000000D2050	00000091			R	.	.	.	.	.	.	.
+
+PlayerDamage__.ctor	seg000	00000000000D2C40	00000033			R	.	.	.	.	.	.	.
