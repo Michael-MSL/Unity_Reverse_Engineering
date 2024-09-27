@@ -853,3 +853,9 @@ Painter__.ctor	seg000	0000000000152390	00000012			R	.	.	.	.	.	.	.
 Passport__EnableStamp	seg000	0000000000057AB0	00000054			R	.	.	.	.	.	.	.
 
 Passport__Setup	seg000	0000000000057A30	00000079			R	.	.	.	.	.	.	.
+
+PhysicalDoor__.ctor	seg000	00000000000CBA40	0000009D			R	.	.	.	.	.	.	.
+
+PhysicalHuman__.ctor	seg000	000000000006F8E0	00000012			R	.	.	.	.	.	.	.
+
+PhysicalMovingPlatform__.ctor	seg000	00000000001586E0	00000012			R	.	.	.	.	.	.	.
