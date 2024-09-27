@@ -865,3 +865,9 @@ PlaneDropTreasureCrate__OnDisable	seg000	0000000000139050	0000001C			R	.	.	.	.	.
 PlaneDropTreasureCrate__OnEnable	seg000	0000000000139070	0000001C			R	.	.	.	.	.	.	.
 
 PlayerAudio__Init	seg000	00000000000D1100	00000059			R	.	.	.	.	.	.	.
+
+PlayerAudio__OnSetPhysicalPlayer	seg000	00000000000D1270	00000039			R	.	.	.	.	.	.	.
+
+PlayerBed__ShowInteractionPanel	seg000	0000000000076E90	000000F5			R	.	.	.	.	.	.	.
+
+PlayerCharacterMovement__.ctor	seg000	00000000000D2360	000000BB			R	.	.	.	.	.	.	.
