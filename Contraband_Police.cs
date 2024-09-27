@@ -913,3 +913,9 @@ PlayerSpawner__Save	seg000	00000000000D7D60	00000064			R	.	.	.	.	.	.	.
 Player__.cctor	seg000	00000000000D1000	0000000B			R	.	.	.	.	.	.	.
 
 Player__.ctor	seg000	00000000000D0FE0	0000001D			R	.	.	.	.	.	.	.
+
+Player__EnableControlHeadOnly	seg000	00000000000CFD40	00000063			R	.	.	.	.	.	.	.
+
+Player__GetHead	seg000	00000000000CF890	0000001C			R	.	.	.	.	.	.	.
+
+Player__OnDisable	seg000	00000000000CF4E0	00000064			R	.	.	.	.	.	.	.
