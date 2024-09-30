@@ -979,3 +979,239 @@ PlayfabManager__WriteBasicInfo	seg000	00000000000C6BB0	00000218			R	.	.	.	.	.	.	
 PlayfabOnNewDay__.ctor	seg000	0000000000299490	000000EC			R	.	.	.	.	.	.	.
 
 PoliceRank__Awake	seg000	000000000010CD50	00000094			R	.	.	.	.	.	.	.
+
+ProjectileWeapon__.ctor	seg000	000000000008CC90	00000157			R	.	.	.	.	.	.	.
+
+ProjectileWeapon__GetProjectile	seg000	000000000008CC50	00000011			R	.	.	.	.	.	.	.
+
+ProjectorHit__.ctor	seg000	00000000000AC500	00000049			R	.	.	.	.	.	.	.
+
+Prompt__Init	seg000	00000000000ED760	0000009F			R	.	.	.	.	.	.	.
+
+RankManagerData__.ctor	seg000	00000000000D89F0	00000013			R	.	.	.	.	.	.	.
+
+RankManager__.ctor	seg000	00000000000D8170	0000021E			R	.	.	.	.	.	.	.
+
+RankManager__AddXP	seg000	00000000000D86D0	00000103			R	.	.	.	.	.	.	.
+
+RestrictionPage__Awake	seg000	0000000000049140	00000100			R	.	.	.	.	.	.	.
+
+RestrictionPage__Init	seg000	0000000000049240	000001C4			R	.	.	.	.	.	.	.
+
+ReverseDriveController__.ctor	seg000	0000000000120BD0	00000051			R	.	.	.	.	.	.	.
+
+ServicePhone__AfterBriefing	seg000	0000000000095EC0	00000011			R	.	.	.	.	.	.	.
+
+ServicePhone__Awake	seg000	0000000000095960	000000A8			R	.	.	.	.	.	.	.
+
+ServicePhone__DisappearMissionPage	seg000	0000000000095F90	0000003C			R	.	.	.	.	.	.	.
+
+ServicePhone__PickupThePhone	seg000	0000000000095D70	00000080			R	.	.	.	.	.	.	.
+
+ServicePhone__ResetState	seg000	0000000000095A30	000000FF			R	.	.	.	.	.	.	.
+
+ShootingBase__.ctor	seg000	000000000002F0D0	0000002E			R	.	.	.	.	.	.	.
+
+ShootingBase__Init	seg000	000000000002F100	00000046			R	.	.	.	.	.	.	.
+
+ShootingBase__IsFriendlyFireOnPlayer	seg000	000000000002F270	00000063			R	.	.	.	.	.	.	.
+
+SimpleAIMovement__.ctor	seg000	0000000000030CC0	000000F8			R	.	.	.	.	.	.	.
+
+SimpleAIMovement__Awake	seg000	000000000002FB20	0000019C			R	.	.	.	.	.	.	.
+
+SimpleVehicle__.ctor	seg000	0000000000128EA0	00000046			R	.	.	.	.	.	.	.
+
+SimpleVehicle__Init	seg000	0000000000128770	000000AE			R	.	.	.	.	.	.	.
+
+SimpleVehicle__OnDissolveStarted	seg000	0000000000128BE0	00000021			R	.	.	.	.	.	.	.
+
+SliderWithAxis__.ctor	seg000	00000000001557A0	00000012			R	.	.	.	.	.	.	.
+
+SmoothCameraOrbit__.ctor	seg000	0000000000000720	00000082			R	.	.	.	.	.	.	.
+
+SniperPanel__.ctor	seg000	0000000000038C60	0000003E			R	.	.	.	.	.	.	.
+
+SniperPanel__Init	seg000	0000000000038750	0000010D			R	.	.	.	.	.	.	.
+
+SniperPanel__Restart	seg000	0000000000038BD0	00000081			R	.	.	.	.	.	.	.
+
+SniperPanel__ShowCRT	seg000	00000000000388E0	0000000E			R	.	.	.	.	.	.	.
+
+SniperPanel__ShowSniperPanel	seg000	0000000000038860	00000075			R	.	.	.	.	.	.	.
+
+SniperPanel__StopSlowMoAudio	seg000	00000000000389A0	00000070			R	.	.	.	.	.	.	.
+
+SoundComponent__.ctor	seg000	00000000002C0960	0000001D			R	.	.	.	.	.	.	.
+
+SoundComponent__.ctor	seg000	00000000002C0960	0000001D			R	.	.	.	.	.	.	.
+
+Spring__.ctor	seg000	00000000002BFDD0	0000001D			R	.	.	.	.	.	.	.
+
+Stamps__Awake	seg000	0000000000058FE0	000001D2			R	.	.	.	.	.	.	.
+
+Stamps__OnPass	seg000	00000000000596A0	000000B6			R	.	.	.	.	.	.	.
+
+Stamps__OnReturn	seg000	0000000000059760	000000B6			R	.	.	.	.	.	.	.
+
+StorageInventory__Init	seg000	0000000000112B40	00000284			R	.	.	.	.	.	.	.
+
+StorageInventory__TranslateContent	seg000	0000000000112EF0	0000003A			R	.	.	.	.	.	.	.
+
+StorageInventory__Update	seg000	0000000000112DD0	00000112			R	.	.	.	.	.	.	.
+
+SupportVehicles__Awake	seg000	00000000000E32F0	00000059			R	.	.	.	.	.	.	.
+
+SurroundingPoints__.ctor	seg000	0000000000072C00	0000002B			R	.	.	.	.	.	.	.
+
+UIManager__.ctor	seg000	0011AA80	00000019			R	.	.	.	.	.	.	.	.	.
+
+UIManager__GetDamageIcon_0	seg000	00119430	000000B2			R	.	.	.	.	.	.	.	.	.
+
+UIManager__HideCommonPanels	seg000	0011A090	000001AA			R	.	.	.	.	.	.	.	.	.
+
+UIManager__HideInteractionMenu	seg000	00118B90	00000042			R	.	.	.	.	.	.	.	.	.
+
+UIManager__InteractivePanelVisible	seg000	001182B0	0000001C			R	.	.	.	.	.	.	.	.	.
+
+UIManager__IsDevConsoleEnabled	seg000	00118A80	0000001A			R	.	.	.	.	.	.	.	.	.
+
+UIManager__LockPanels	seg000	0011A990	000000DD			R	.	.	.	.	.	.	.	.	.
+
+UIManager__MoveItemsFromPlayerInventory	seg000	001192F0	00000083			R	.	.	.	.	.	.	.	.	.
+
+UIManager__MoveItemsFromVehicleInventory	seg000	001191C0	00000098			R	.	.	.	.	.	.	.	.	.
+
+UIManager__OnPromptClicked	seg000	00118710	000000A0			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ProcessItemContainersRefresh	seg000	001194F0	0000005F			R	.	.	.	.	.	.	.	.	.
+
+UIManager__RestartPanels	seg000	00118170	00000036			R	.	.	.	.	.	.	.	.	.
+
+UIManager__SetCurtainOrder	seg000	0011A480	00000060			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ShowFinalScreen	seg000	001199A0	00000062			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ShowInfoGraphicForced	seg000	00119AA0	00000019			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ShowInventory	seg000	00118CB0	000000F0			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ShowPanel	seg000	00119AC0	0000010C			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ShowPlayerInventory	seg000	00118E10	0000018C			R	.	.	.	.	.	.	.	.	.
+
+UIManager__ShowPopup	seg000	00119680	000000A5			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor	seg000	002BEB90	00000010			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_0	seg000	002C7200	00000097			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_1	seg000	002C72C0	00000097			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_10	seg000	002C79B0	0000003D			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_11	seg000	002C7A10	00000187			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_12	seg000	002C81D0	0000020E			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_13	seg000	002C8420	0000004C			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_14	seg000	002C8480	0000001F			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_15	seg000	002C84B0	0000004C			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_2	seg000	002C7370	0000006A			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_3	seg000	002C7640	0000001F			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_4	seg000	002C7680	0000012D			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_5	seg000	002C77C0	000000A6			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_6	seg000	002C7880	0000001F			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_7	seg000	002C78B0	0000005B			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_8	seg000	002C7920	0000004C			R	.	.	.	.	.	.	.	.	.
+
+Uniforms__.cctor_9	seg000	002C7980	0000001F			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__.cctor	seg000	0012E390	00000042			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__.ctor	seg000	0012E2E0	000000AC			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__AreKeysEnabled	seg000	001298B0	0000001B			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__GetKeysTransform	seg000	001298D0	00000016			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__InitDebugPanel	seg000	00129EC0	00000099			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__InstantiateParts	seg000	00129410	000000D8			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__OnCollisionStay	seg000	0012B330	000000A4			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__OnEnable	seg000	0012A070	000000A9			R	.	.	.	.	.	.	.	.	.
+
+Vehicle2__ProcessDebugPanel	seg000	0012A620	000000BC			R	.	.	.	.	.	.	.	.	.
+
+VehicleBumpController__.ctor	seg000	0012E610	00000066			R	.	.	.	.	.	.	.	.	.
+
+VehicleBumpController__Awake	seg000	0012E400	000000A5			R	.	.	.	.	.	.	.	.	.
+
+VehicleCargoLoadingHandler__.ctor	seg000	0013E350	0000006D			R	.	.	.	.	.	.	.	.	.
+
+VehicleCreatingController__Log	seg000	001349F0	0000004F			R	.	.	.	.	.	.	.	.	.
+
+VehicleCreatingController__OnRequested	seg000	001346E0	000001AE			R	.	.	.	.	.	.	.	.	.
+
+VehicleCreatingController__Reset	seg000	00134980	00000028			R	.	.	.	.	.	.	.	.	.
+
+VehicleCreationData__.ctor	seg000	0004E310	000000C0			R	.	.	.	.	.	.	.	.	.
+
+VehicleDriveAI__.ctor	seg000	00123C70	000000B4			R	.	.	.	.	.	.	.	.	.
+
+VehicleDriveAI__DebugBaseParameters	seg000	001212C0	00000127			R	.	.	.	.	.	.	.	.	.
+
+VehicleDriveAI__Enable	seg000	00120FB0	000000FB			R	.	.	.	.	.	.	.	.	.
+
+VehicleDriveAI__HandleStuckedInInspectionZone	seg000	00121170	000000AD			R	.	.	.	.	.	.	.	.	.
+
+VehicleDriveAI__SetDefaultDriveParameters	seg000	001235F0	00000124			R	.	.	.	.	.	.	.	.	.
+
+VehicleInfoPanel__Awake	seg000	0011C260	00000042			R	.	.	.	.	.	.	.	.	.
+
+VehicleInventory__Init	seg000	00114580	00000044			R	.	.	.	.	.	.	.	.	.
+
+VehicleInventory__Update	seg000	00114610	0000017F			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__.ctor	seg000	001314C0	000000D1			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__ClearDynamicPools	seg000	001312F0	00000041			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__GetMaterial	seg000	001311D0	00000029			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__GetMaterialIndices	seg000	00131190	00000034			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__GetNewcomersToSpawn	seg000	001313B0	00000040			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__GetPoolType	seg000	00130E10	0000002C			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__Init	seg000	00130C00	000000BA			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__Load	seg000	00130F50	00000033			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__LoadVehicleTemplate	seg000	00131200	00000059			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__OnDisable	seg000	00131490	00000022			R	.	.	.	.	.	.	.	.	.
+
+VehicleManager__OnEnable	seg000	00131460	00000022			R	.	.	.	.	.	.	.	.	.
+
+VehicleMaterialVariants__RegisterDescriptions	seg000	001316D0	00000072			R	.	.	.	.	.	.	.	.	.
+
+VehicleMixerData__.ctor	seg000	002C0A40	000000CE			R	.	.	.	.	.	.	.	.	.
+
+VehicleMovementPlaybackFrame__Setup	seg000	00131E70	00000036			R	.	.	.	.	.	.	.	.	.
+
+VehicleMovementPlayback__.ctor	seg000	00131D90	00000012			R	.	.	.	.	.	.	.	.	.
+
+VehicleMovementPlayback__Load	seg000	00131A50	000000CE			R	.	.	.	.	.	.	.	.	.
